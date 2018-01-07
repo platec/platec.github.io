@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on platec</title>
+    <link>https://platec.github.io/categories/golang/</link>
+    <description>Recent content in Golang on platec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 10:44:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://platec.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇文章</title>
+      <link>https://platec.github.io/welcome/</link>
+      <pubDate>Sun, 07 Jan 2018 10:44:07 +0800</pubDate>
+      
+      <guid>https://platec.github.io/welcome/</guid>
+      <description>博客的第一篇文章</description>
+    </item>
+    
+  </channel>
+</rss>
