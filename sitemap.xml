@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://platec.github.io/welcome/</loc>
+    <loc>http://paltec.com/welcome/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://platec.github.io/categories/</loc>
+    <loc>http://paltec.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://platec.github.io/tags/development/</loc>
-    <lastmod>2018-01-07T10:44:07+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://platec.github.io/categories/development/</loc>
+    <loc>http://paltec.com/categories/development/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://platec.github.io/tags/golang/</loc>
+    <loc>http://paltec.com/tags/development/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://platec.github.io/categories/golang/</loc>
+    <loc>http://paltec.com/categories/golang/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://platec.github.io/tags/</loc>
+    <loc>http://paltec.com/tags/golang/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://platec.github.io/</loc>
+    <loc>http://paltec.com/tags/</loc>
+    <lastmod>2018-01-07T10:44:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://paltec.com/</loc>
     <lastmod>2018-01-07T10:44:07+08:00</lastmod>
     <priority>0</priority>
   </url>

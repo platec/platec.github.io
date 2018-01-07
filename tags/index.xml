@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on platec</title>
-    <link>https://platec.github.io/tags/</link>
+    <link>http://paltec.com/tags/</link>
     <description>Recent content in Tags on platec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jan 2018 10:44:07 +0800</lastBuildDate>
     
-	<atom:link href="https://platec.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://paltec.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://platec.github.io/tags/development/</link>
+      <link>http://paltec.com/tags/development/</link>
       <pubDate>Sun, 07 Jan 2018 10:44:07 +0800</pubDate>
       
-      <guid>https://platec.github.io/tags/development/</guid>
+      <guid>http://paltec.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://platec.github.io/tags/golang/</link>
+      <link>http://paltec.com/tags/golang/</link>
       <pubDate>Sun, 07 Jan 2018 10:44:07 +0800</pubDate>
       
-      <guid>https://platec.github.io/tags/golang/</guid>
+      <guid>http://paltec.com/tags/golang/</guid>
       <description></description>
     </item>
     
