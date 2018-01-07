@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>platec</title>
+  <title>python2&#43;bottle中文cookie设置 &middot; platec</title>
 
   
   <link rel="stylesheet" href="https://platec.github.io/css/print.css" media="print">
@@ -22,7 +22,7 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  <link href="https://platec.github.io/index.xml" rel="alternate" type="application/rss+xml" title="platec" />
+  <link href="" rel="alternate" type="application/rss+xml" title="platec" />
 </head>
 
   <body class=" ">
@@ -45,20 +45,41 @@
 </div>
 
     <div class="content container">
-    <div class="posts">
-<div class="post">
-  <h1 class="post-title">
-    <a href="https://platec.github.io/post/cookie/">python2&#43;bottle中文cookie设置</a>
-  </h1>
+    <div class="post">
+  <h1>python2&#43;bottle中文cookie设置</h1>
   <span class="post-date">Sun, Jan 7, 2018</span>
-  在python2下使用bottle框架时发现中文cookie不能正常存储
-解决方法是先将中文字符串以utf-8编码，然后通过urllib.quote方法进行urlencode 需要读取cookie中的中文内容时再用urllib.unquote解码，传入的参数因为是python的unicode字符 串，需要用str转换。
-测试代码如下，写了两个路由，get方法尝试从cookie中读取数据显示在页面上，post方法将页面的 表单数据设为cookie，重定向到get方法路由。
-@app.get('/') def index(): name = request.cookies.name if request.cookies.name else '某人' return template('index', {'name': urllib.unquote(str(name))}) @app.post('/') def input_data(): name = request.forms.getunicode('name') response.set_cookie('name', urllib.quote(name.encode('utf-8'))) redirect('/')  测试结果 提交表单之后
-能够正常显示中文字符
   
+
+<p>在python2下使用bottle框架时发现中文cookie不能正常存储<br />
+解决方法是先将中文字符串以utf-8编码，然后通过<code>urllib.quote</code>方法进行urlencode
+需要读取cookie中的中文内容时再用<code>urllib.unquote</code>解码，传入的参数因为是python的unicode字符
+串，需要用<code>str</code>转换。</p>
+
+<p>测试代码如下，写了两个路由，get方法尝试从cookie中读取数据显示在页面上，post方法将页面的
+表单数据设为cookie，重定向到get方法路由。</p>
+
+<pre><code>@app.get('/')
+def index():
+    name = request.cookies.name if request.cookies.name else '某人'
+    return template('index', {'name': urllib.unquote(str(name))})
+
+@app.post('/')
+def input_data():
+    name = request.forms.getunicode('name')
+    response.set_cookie('name', urllib.quote(name.encode('utf-8')))
+    redirect('/')
+</code></pre>
+
+<h5 id="测试结果">测试结果</h5>
+
+<p><img src="../1.png" alt="" /><br />
+提交表单之后<br />
+<img src="../2.png" alt="" />
+能够正常显示中文字符</p>
+
 </div>
-</div>
+
+
     </div>
 
     
