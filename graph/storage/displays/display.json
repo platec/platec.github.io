@@ -1,0 +1,226 @@
+{
+  "v": "7.2.1-dev5",
+  "p": {
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": true
+  },
+  "a": {},
+  "d": [
+    {
+      "c": "Edge",
+      "i": 492,
+      "p": {
+        "source": {
+          "__i": 497
+        },
+        "target": {
+          "__i": 495
+        }
+      },
+      "s": {
+        "edge.color": "rgb(51,153,255)",
+        "edge.width": 13,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            4,
+            4,
+            4
+          ]
+        },
+        "edge.points": {
+          "__a": [
+            {
+              "x": 378.10783,
+              "y": 487.73313
+            },
+            {
+              "x": 880.46478,
+              "y": 483.95062
+            },
+            {
+              "x": 772.69426,
+              "y": 695.42484
+            },
+            {
+              "x": 714.20435,
+              "y": 810.19749
+            },
+            {
+              "x": 1236.33035,
+              "y": 939.9515
+            },
+            {
+              "x": 1423.38417,
+              "y": 788.96151
+            },
+            {
+              "x": 1580.98616,
+              "y": 661.74506
+            },
+            {
+              "x": 1404.70685,
+              "y": 257.30456
+            }
+          ]
+        },
+        "edge.source.anchor.x": 0.5,
+        "edge.source.anchor.y": 0.5,
+        "edge.target.anchor.x": 0.5,
+        "edge.target.anchor.y": 0.5
+      }
+    },
+    {
+      "c": "Edge",
+      "i": 493,
+      "p": {
+        "source": {
+          "__i": 496
+        },
+        "target": {
+          "__i": 497
+        }
+      },
+      "s": {
+        "edge.color": "rgb(51,153,255)",
+        "edge.width": 13
+      }
+    },
+    {
+      "c": "Edge",
+      "i": 494,
+      "p": {
+        "source": {
+          "__i": 496
+        },
+        "target": {
+          "__i": 495
+        }
+      },
+      "s": {
+        "edge.color": "rgb(51,153,255)",
+        "edge.width": 13,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            2,
+            2,
+            2
+          ]
+        },
+        "edge.points": {
+          "__a": [
+            {
+              "x": 996.36892,
+              "y": 660.85694
+            },
+            {
+              "x": 1089.90559,
+              "y": 278.57662
+            }
+          ]
+        },
+        "edge.source.anchor.x": 0.5,
+        "edge.source.anchor.y": 0.5,
+        "edge.target.anchor.x": 0.5,
+        "edge.target.anchor.y": 0.5,
+        "edge.cap": "round"
+      }
+    },
+    {
+      "c": "Node",
+      "i": 495,
+      "p": {
+        "displayName": "test2",
+        "image": "symbols/demo/test2.json",
+        "position": {
+          "x": 418.88163,
+          "y": 926.10735
+        },
+        "width": 139.02494,
+        "height": 139.02494
+      }
+    },
+    {
+      "c": "Node",
+      "i": 496,
+      "p": {
+        "displayName": "test2",
+        "image": "symbols/demo/test2.json",
+        "position": {
+          "x": 294.42341,
+          "y": 183.68149
+        },
+        "width": 109.8915,
+        "height": 109.8915,
+        "tall": 20
+      }
+    },
+    {
+      "c": "Node",
+      "i": 497,
+      "p": {
+        "displayName": "test2",
+        "image": "symbols/demo/test2.json",
+        "position": {
+          "x": 374.04102,
+          "y": 607.70408
+        },
+        "width": 122.40736,
+        "height": 122.40736,
+        "tall": 20
+      }
+    },
+    {
+      "c": "Node",
+      "i": 1726,
+      "p": {
+        "displayName": "test4",
+        "image": "symbols/demo/test4.json",
+        "position": {
+          "x": 693.35168,
+          "y": 572.7712
+        },
+        "width": 156.66803,
+        "height": 208.8907
+      }
+    },
+    {
+      "c": "Node",
+      "i": 2114,
+      "p": {
+        "displayName": "test3",
+        "image": "symbols/demo/test3.json",
+        "position": {
+          "x": 923.03321,
+          "y": 683.00719
+        },
+        "width": 204.76019,
+        "height": 273.01359
+      }
+    },
+    {
+      "c": "Node",
+      "i": 2486,
+      "p": {
+        "displayName": "test",
+        "image": "symbols/demo/test.json",
+        "position": {
+          "x": 923.03321,
+          "y": 362.24887
+        },
+        "width": 526.43295,
+        "height": 368.50306
+      }
+    }
+  ],
+  "modified": "Sun Aug 29 2021 10:14:33 GMT+0800 (中国标准时间)",
+  "contentRect": {
+    "x": 239.47766,
+    "y": 128.73574,
+    "width": 1349.0085,
+    "height": 866.88408
+  }
+}
