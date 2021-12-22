@@ -1,0 +1,636 @@
+{
+  "v": "7.2.1-dev5",
+  "p": {
+    "background": "rgb(209,232,169)",
+    "layers": [
+      {
+        "name": "0",
+        "visible": true,
+        "selectable": true,
+        "movable": true,
+        "editable": true
+      },
+      {
+        "name": "2",
+        "visible": true,
+        "selectable": true,
+        "movable": true,
+        "editable": true
+      }
+    ],
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": true
+  },
+  "a": {
+    "onPreDeserialize": "__ht__function(json, dm, view) {11}",
+    "width": 0
+  },
+  "d": [
+    {
+      "c": "ht.Node",
+      "i": 547,
+      "p": {
+        "displayName": "地图背景",
+        "layer": "2",
+        "image": "symbols/demo/lighting/地图背景.json",
+        "position": {
+          "x": 922.04482,
+          "y": 448.91078
+        },
+        "width": 1944.48357,
+        "height": 1093.2382
+      }
+    },
+    {
+      "c": "ht.Edge",
+      "i": 548,
+      "p": {
+        "layer": "2",
+        "source": {
+          "__i": 555
+        },
+        "target": {
+          "__i": 552
+        }
+      },
+      "s": {
+        "edge.color": "rgb(51,153,255)",
+        "edge.width": 8,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        "edge.points": {
+          "__a": [
+            {
+              "x": 728.84019,
+              "y": 523.3876
+            },
+            {
+              "x": 827.54926,
+              "y": 443.04301
+            },
+            {
+              "x": 898.71161,
+              "y": 577.33325
+            }
+          ]
+        },
+        "edge.source.anchor.x": 0.97728,
+        "edge.source.anchor.y": 0.05467,
+        "edge.target.anchor.x": 0.02983,
+        "edge.target.anchor.y": 0.94371,
+        "edge.pattern": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 549,
+      "p": {
+        "displayName": "test22",
+        "layer": "2",
+        "tag": "wc",
+        "image": "symbols/demo/test22.json",
+        "position": {
+          "x": 359.16486,
+          "y": 77.46167
+        },
+        "width": 177.1393,
+        "height": 177.1393
+      },
+      "a": {
+        "background": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 550,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 725.53799,
+          "y": 85.42919
+        },
+        "width": 256.70457,
+        "height": 121.37662
+      },
+      "s": {
+        "shape": "roundRect",
+        "shape.background": "rgb(255,235,195)",
+        "shape.border.width": 1,
+        "shape.border.color": "rgb(212,0,0)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 551,
+      "p": {
+        "displayName": "test2",
+        "layer": "2",
+        "image": "symbols/demo/test2.json",
+        "rotation": 5.46654,
+        "position": {
+          "x": 758.43605,
+          "y": 205.77337
+        },
+        "width": 64.46552,
+        "height": 62.38238
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 552,
+      "p": {
+        "displayName": "div",
+        "layer": "2",
+        "tag": "html",
+        "image": "symbols/html/div.json",
+        "position": {
+          "x": 1249.73982,
+          "y": 448.91078
+        }
+      },
+      "a": {
+        "div.content": "<h2>HTML 测试</h2>\n<hr>\n<p>DOM is awesome!</p>",
+        "div.color": "rgb(48,242,120)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 553,
+      "p": {
+        "displayName": "echarts",
+        "layer": "2",
+        "image": "symbols/html/echarts.json",
+        "position": {
+          "x": 441.61863,
+          "y": 473.52393
+        },
+        "width": 490.30291,
+        "height": 209.04844
+      },
+      "a": {
+        "lineData1": [
+          900,
+          132,
+          101,
+          134,
+          90,
+          230,
+          210,
+          399,
+          499,
+          599
+        ]
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 554,
+      "p": {
+        "displayName": "echarts2",
+        "layer": "2",
+        "image": "symbols/html/echarts2.json",
+        "position": {
+          "x": 1146.74574,
+          "y": 729.0695
+        },
+        "width": 607.12303,
+        "height": 234.42448
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 555,
+      "p": {
+        "displayName": "album",
+        "layer": "2",
+        "image": "symbols/demo/album.json",
+        "position": {
+          "x": 623.47675,
+          "y": 747.4876
+        },
+        "width": 271.26068,
+        "height": 271.26068
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 556,
+      "p": {
+        "displayName": "text",
+        "layer": "2",
+        "image": "symbols/demo/text.json",
+        "position": {
+          "x": 1282.37608,
+          "y": 218.00158
+        },
+        "width": 271.26068,
+        "height": 143.76816
+      }
+    },
+    {
+      "c": "ht.Edge",
+      "i": 557,
+      "p": {
+        "layer": "2",
+        "source": {
+          "__i": 549
+        },
+        "target": {
+          "__i": 551
+        }
+      },
+      "s": {
+        "edge.color": "rgb(0,199,7)",
+        "edge.width": 3,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            2,
+            4,
+            4
+          ]
+        },
+        "edge.points": {
+          "__a": [
+            {
+              "x": 544.04764,
+              "y": 126.25578
+            },
+            {
+              "x": 544.04764,
+              "y": 126.25578
+            },
+            {
+              "x": 578.48103,
+              "y": 243.05627
+            },
+            {
+              "x": 614.06221,
+              "y": 208.18551
+            },
+            {
+              "x": 649.64338,
+              "y": 173.31475
+            },
+            {
+              "x": 717.69541,
+              "y": 208.18551
+            }
+          ]
+        },
+        "edge.source.anchor.x": 0.5,
+        "edge.source.anchor.y": 0.5,
+        "edge.target.anchor.x": 0.02706,
+        "edge.target.anchor.y": 0.06307
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 558,
+      "p": {
+        "displayName": "飞机",
+        "layer": "2",
+        "image": "symbols/basic/飞机.json",
+        "position": {
+          "x": 377.95285,
+          "y": 707.42131
+        },
+        "width": 277.72085,
+        "height": 277.72085
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 559,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 686.77009,
+          "y": 151.22439
+        },
+        "width": 312.82828,
+        "height": 284.69283
+      },
+      "s": {
+        "shape": "oval",
+        "shape.background": "#FF7C7C",
+        "shape.border.width": 8,
+        "shape.border.color": "#60ACFC",
+        "shape.border.pattern": [
+          10,
+          5
+        ]
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 560,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 758.43605,
+          "y": 77.46167
+        },
+        "width": 90.44232,
+        "height": 96.90249,
+        "tall": 20
+      },
+      "s": {
+        "shape": "triangle",
+        "shape.background": "rgb(0,199,7)",
+        "shape.border.width": 8,
+        "shape.border.color": "rgb(240,225,19)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 561,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 843.18423,
+          "y": 317.96961
+        },
+        "width": 172.30601,
+        "height": 303.87658,
+        "tall": 20
+      },
+      "s": {
+        "shape": "arc",
+        "shape.background": "#FF7C7C",
+        "shape.border.width": 8,
+        "shape.border.color": "#60ACFC",
+        "shape.arc.to": 4.15388,
+        "shape.arc.from": 0.19199
+      }
+    },
+    {
+      "c": "ht.Text",
+      "i": 562,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 1544.92193,
+          "y": 293.5708
+        },
+        "width": 253.831,
+        "height": 85.89761
+      },
+      "s": {
+        "text": "测试中文文本",
+        "text.font": "36px Microsoft YaHei",
+        "text.align": "center",
+        "text.color": "rgb(51,153,255)"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 563,
+      "p": {
+        "displayName": "数据圆",
+        "layer": "2",
+        "image": "symbols/demo/lighting/数据圆.json",
+        "position": {
+          "x": 1544.92193,
+          "y": 399.54815
+        }
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 564,
+      "p": {
+        "displayName": "标注大",
+        "layer": "2",
+        "image": "symbols/demo/lighting/标注大.json",
+        "position": {
+          "x": 1297.83181,
+          "y": 190.49971
+        }
+      }
+    },
+    {
+      "c": "ht.Shape",
+      "i": 565,
+      "p": {
+        "layer": "2",
+        "position": {
+          "x": 614.25181,
+          "y": 396.79018
+        },
+        "width": 700.82421,
+        "height": 187.57354,
+        "segments": {
+          "__a": [
+            1,
+            2,
+            2,
+            2
+          ]
+        },
+        "points": {
+          "__a": [
+            {
+              "x": 263.8397,
+              "y": 303.00341
+            },
+            {
+              "x": 653.41551,
+              "y": 346.28961
+            },
+            {
+              "x": 797.70285,
+              "y": 490.57695
+            },
+            {
+              "x": 964.66391,
+              "y": 412.24953
+            }
+          ]
+        }
+      },
+      "s": {
+        "shape.background": null,
+        "shape.border.color": "rgb(0,199,7)",
+        "shape.border.width": 16,
+        "shape.border.pattern": [
+          10,
+          5
+        ]
+      }
+    },
+    {
+      "c": "ht.Edge",
+      "i": 566,
+      "p": {
+        "layer": "2",
+        "source": {
+          "__i": 555
+        },
+        "target": {
+          "__i": 563
+        }
+      },
+      "s": {
+        "edge.color": "rgb(241,125,164)",
+        "edge.width": 10,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            4,
+            4,
+            4
+          ]
+        },
+        "edge.points": {
+          "__a": [
+            {
+              "x": 623.47675,
+              "y": 747.4876
+            },
+            {
+              "x": 741.14391,
+              "y": 967.27535
+            },
+            {
+              "x": 954.35767,
+              "y": 884.27525
+            },
+            {
+              "x": 1063.71566,
+              "y": 841.70424
+            },
+            {
+              "x": 1371.25582,
+              "y": 764.44733
+            },
+            {
+              "x": 1476.33181,
+              "y": 655.47676
+            },
+            {
+              "x": 1576.12102,
+              "y": 551.98892
+            },
+            {
+              "x": 1476.33181,
+              "y": 415.48719
+            }
+          ]
+        },
+        "edge.source.anchor.x": 0.5,
+        "edge.source.anchor.y": 0.5,
+        "edge.target.anchor.x": 0.5,
+        "edge.target.anchor.y": 0.5
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 567,
+      "p": {
+        "displayName": "悬停",
+        "layer": "2",
+        "image": "symbols/demo/lighting/悬停.json",
+        "position": {
+          "x": 1800.67062,
+          "y": 729.0695
+        },
+        "width": 398.30375,
+        "height": 398.30375
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 568,
+      "p": {
+        "displayName": "线图",
+        "layer": "2",
+        "image": "symbols/demo/lighting/线图.json",
+        "position": {
+          "x": 1226.33181,
+          "y": 895.52988
+        }
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 569,
+      "p": {
+        "displayName": "线图",
+        "layer": "2",
+        "image": "symbols/demo/lighting/线图.json",
+        "position": {
+          "x": 2025.79421,
+          "y": 883.11794
+        }
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2191,
+      "p": {
+        "displayName": "break",
+        "layer": "2",
+        "tag": "breaker",
+        "image": "symbols/demo/break.json",
+        "position": {
+          "x": 1022.89399,
+          "y": 165.59185
+        },
+        "width": 69.42994,
+        "height": 83.89451
+      }
+    },
+    {
+      "c": "ht.Edge",
+      "i": 2908,
+      "p": {
+        "layer": "2",
+        "source": {
+          "__i": 2191
+        },
+        "target": {
+          "__i": 553
+        }
+      },
+      "s": {
+        "edge.color": "rgb(212,0,0)",
+        "edge.width": 3,
+        "edge.type": "points",
+        "edge.segments": {
+          "__a": [
+            1,
+            2
+          ]
+        },
+        "edge.points": {
+          "__a": []
+        },
+        "edge.source.anchor.x": 0.5,
+        "edge.source.anchor.y": 0.97638,
+        "edge.target.anchor.x": 0.79863,
+        "edge.target.anchor.y": 0.88433
+      }
+    }
+  ],
+  "modified": "Wed Dec 22 2021 21:19:00 GMT+0800 (GMT+08:00)",
+  "contentRect": {
+    "x": -50.19697,
+    "y": -97.70832,
+    "width": 2325.99118,
+    "height": 1093.2382
+  }
+}

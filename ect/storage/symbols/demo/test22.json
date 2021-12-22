@@ -1,0 +1,44 @@
+{
+  "modified": "Sun Dec 19 2021 17:54:59 GMT+0800 (GMT+08:00)",
+  "dataBindings": [
+    {
+      "attr": "background",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "背景"
+    }
+  ],
+  "width": 100,
+  "height": 100,
+  "visible": {
+    "func": "__ht__function(data, view) {\nreturn data.a('background');\n}"
+  },
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgb(0,199,7)",
+      "borderWidth": 5,
+      "borderColor": "rgb(51,153,255)",
+      "visible": {
+        "func": "attr@background"
+      },
+      "rect": [
+        0.21407,
+        -0.21407,
+        99.32722,
+        100.18349
+      ]
+    },
+    {
+      "type": "image",
+      "name": "assets/wc/标识-女性.png",
+      "displayName": "标识-女性",
+      "rect": [
+        7.89711,
+        4.93931,
+        23.16163,
+        53.56128
+      ]
+    }
+  ]
+}

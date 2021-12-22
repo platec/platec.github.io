@@ -1,0 +1,33 @@
+{
+  "modified": "Sun Dec 19 2021 18:39:41 GMT+0800 (GMT+08:00)",
+  "width": 100,
+  "height": 53,
+  "comps": [
+    {
+      "type": "text",
+      "text": "2d canvas",
+      "align": "center",
+      "color": "rgb(145,115,205)",
+      "font": "17px fantasy",
+      "rect": [
+        0,
+        0,
+        100,
+        17.31183
+      ]
+    },
+    {
+      "type": "text",
+      "text": "2d canvas",
+      "align": "center",
+      "color": "#FF7C7C",
+      "font": "17px Bradley Hand ITC",
+      "rect": [
+        0,
+        17.31183,
+        100,
+        17.31183
+      ]
+    }
+  ]
+}

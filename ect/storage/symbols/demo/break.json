@@ -1,0 +1,104 @@
+{
+  "modified": "Sun Dec 12 2021 11:37:12 GMT+0800 (GMT+08:00)",
+  "dataBindings": [
+    {
+      "attr": "status",
+      "valueType": "Boolean",
+      "name": "状态",
+      "defaultValue": true
+    }
+  ],
+  "width": 48,
+  "height": 58,
+  "comps": [
+    {
+      "type": "circle",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "rect": [
+        21.5,
+        6.93108,
+        5,
+        5
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "points": [
+        24,
+        6.93108,
+        24,
+        0
+      ]
+    },
+    {
+      "type": "circle",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "rect": [
+        21.5,
+        46.06892,
+        5,
+        5
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "points": [
+        24,
+        58,
+        24,
+        51.06892
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "visible": {
+        "func": "__ht__function(data, view) {\nreturn !data.a('status')\n}"
+      },
+      "points": [
+        24.09829,
+        12.75792,
+        24.09829,
+        45.14339,
+        24.09829,
+        45.14413,
+        24.09829,
+        45.14413
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "visible": {
+        "func": "__ht__function(data, view) {\nreturn data.a('status')\n}"
+      },
+      "rotation": 5.97268,
+      "points": [
+        29.04597,
+        11.1567,
+        29.04597,
+        43.54217,
+        29.04597,
+        43.54291,
+        29.04597,
+        43.54291
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    }
+  ]
+}
