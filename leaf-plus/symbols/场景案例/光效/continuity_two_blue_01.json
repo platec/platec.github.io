@@ -1,0 +1,158 @@
+{
+  "width": 128,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(67,175,222,0.00)",
+      "cornerRadius": 0.5,
+      "opacity": 0.5,
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rotation": -3.14159,
+      "shape": "roundRect",
+      "width": 145.24335,
+      "height": 1,
+      "x": 59.199355,
+      "y": 4.95477
+    },
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(67,175,222,0.00)",
+      "cornerRadius": 0.5,
+      "opacity": 0.5,
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rotation": -3.14159,
+      "shape": "roundRect",
+      "width": 145.24335,
+      "height": 1,
+      "x": 59.199355,
+      "y": 11.04534
+    },
+    {
+      "type": "Polyline",
+      "background": "#60ACFC",
+      "gradient": "linear.west",
+      "gradientColor": "#32D3EB",
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 17.04827,
+          "y": 5.05549
+        },
+        {
+          "x": 17.04827,
+          "y": 5.05549
+        },
+        {
+          "x": 40.41095,
+          "y": 3.48885
+        },
+        {
+          "x": 43.06363,
+          "y": 3.74846
+        },
+        {
+          "x": 45.71632,
+          "y": 4.00808
+        },
+        {
+          "x": 45.71632,
+          "y": 5.76718
+        },
+        {
+          "x": 43.06363,
+          "y": 6.09394
+        },
+        {
+          "x": 40.41095,
+          "y": 6.42069
+        },
+        {
+          "x": 17.04827,
+          "y": 5.05549
+        },
+        {
+          "x": 17.04827,
+          "y": 5.05549
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#60ACFC",
+      "gradient": "linear.west",
+      "gradientColor": "#32D3EB",
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 84.48034,
+          "y": 11.14594
+        },
+        {
+          "x": 84.48034,
+          "y": 11.14594
+        },
+        {
+          "x": 107.84302,
+          "y": 9.57931
+        },
+        {
+          "x": 110.4957,
+          "y": 9.83892
+        },
+        {
+          "x": 113.14839,
+          "y": 10.09853
+        },
+        {
+          "x": 113.14839,
+          "y": 11.85764
+        },
+        {
+          "x": 110.4957,
+          "y": 12.18439
+        },
+        {
+          "x": 107.84302,
+          "y": 12.51115
+        },
+        {
+          "x": 84.48034,
+          "y": 11.14594
+        },
+        {
+          "x": 84.48034,
+          "y": 11.14594
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

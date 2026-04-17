@@ -1,0 +1,153 @@
+{
+  "width": 24,
+  "height": 24,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 4.5,
+          "y": 12.37
+        },
+        {
+          "x": 16.29,
+          "y": 12.37
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 4.5,
+          "y": 15.21
+        },
+        {
+          "x": 13.43,
+          "y": 15.21
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 7.36,
+          "y": 18.06
+        },
+        {
+          "x": 13.43,
+          "y": 18.06
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "opacity": 0.6,
+      "points": [
+        {
+          "x": 7.36,
+          "y": 9.53
+        },
+        {
+          "x": 13.43,
+          "y": 9.53
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 16.29,
+          "y": 5.94
+        },
+        {
+          "x": 17.9862,
+          "y": 6.03464
+        },
+        {
+          "x": 19.33063,
+          "y": 7.45616
+        },
+        {
+          "x": 19.33063,
+          "y": 9.155
+        },
+        {
+          "x": 19.33063,
+          "y": 10.85384
+        },
+        {
+          "x": 17.9862,
+          "y": 12.27536
+        },
+        {
+          "x": 16.29,
+          "y": 12.37
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(247,247,247)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 13.43,
+          "y": 15.21
+        },
+        {
+          "x": 14.16691,
+          "y": 15.27179
+        },
+        {
+          "x": 14.74052,
+          "y": 15.89551
+        },
+        {
+          "x": 14.74052,
+          "y": 16.635
+        },
+        {
+          "x": 14.74052,
+          "y": 17.37449
+        },
+        {
+          "x": 14.16691,
+          "y": 17.99821
+        },
+        {
+          "x": 13.43,
+          "y": 18.06
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4
+      ]
+    }
+  ]
+}

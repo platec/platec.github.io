@@ -1,0 +1,19 @@
+{
+  "width": 380,
+  "height": 30,
+  "elements": [
+    {
+      "type": "Component",
+      "value": 0.94,
+      "valueVisible": false,
+      "valueColor": "rgb(255,255,255)",
+      "foreColor": "rgb(44,124,222)",
+      "background": "rgb(33,68,138)",
+      "component": "components/basic/progressBar.json",
+      "width": 360.47528,
+      "height": 17.74041,
+      "x": 199.76236,
+      "y": 9.947715
+    }
+  ]
+}

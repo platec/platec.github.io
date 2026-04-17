@@ -1,0 +1,110 @@
+{
+  "width": 1920,
+  "height": 66,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#1c1f47",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1920,
+          "y": 0
+        },
+        {
+          "x": 1920,
+          "y": 0
+        },
+        {
+          "x": 1920,
+          "y": 0
+        },
+        {
+          "x": 1920,
+          "y": 66
+        },
+        {
+          "x": 1920,
+          "y": 66
+        },
+        {
+          "x": 1920,
+          "y": 66
+        },
+        {
+          "x": 0,
+          "y": 66
+        },
+        {
+          "x": 0,
+          "y": 66
+        },
+        {
+          "x": 0,
+          "y": 66
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "ADMIN01",
+      "color": "#b3b8f9",
+      "font": "16px HarmonyOS_Sans_SC, \"HarmonyOS Sans SC\"",
+      "pixelPerfect": true,
+      "width": 74.15996,
+      "height": 21.504,
+      "x": 1727.08498,
+      "y": 35.005
+    },
+    {
+      "type": "Text",
+      "text": "当前用户",
+      "color": "#636ad4",
+      "font": "16px HarmonyOS_Sans_SC, \"HarmonyOS Sans SC\"",
+      "pixelPerfect": true,
+      "width": 68,
+      "height": 21.504,
+      "x": 1640.005,
+      "y": 35.005
+    },
+    {
+      "type": "Text",
+      "text": "2022-01-18",
+      "color": "#b3b8f9",
+      "font": "16px HarmonyOS_Sans_SC, \"HarmonyOS Sans SC\"",
+      "pixelPerfect": true,
+      "width": 92.57596,
+      "height": 21.504,
+      "x": 1515.2929800000002,
+      "y": 35.005
+    }
+  ]
+}

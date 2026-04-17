@@ -1,0 +1,63 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "扇叶组",
+      "fan.rotation": 0,
+      "fan.axis.x.x": {
+        "func": "attr@axisX.x",
+        "value": 100
+      },
+      "fan.axis.x.y": {
+        "func": "attr@axisX.y",
+        "value": -58
+      },
+      "fan.axis.y.x": {
+        "func": "attr@axisY.x",
+        "value": 0
+      },
+      "fan.axis.y.y": {
+        "func": "attr@axisY.y",
+        "value": 120
+      },
+      "fan.icon": {
+        "func": "attr@skew.image",
+        "value": "node_image"
+      },
+      "component": "components/basic/扇叶组.json",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    }
+  ],
+  "bind": [
+    {
+      "attr": "axisX.x",
+      "valueType": "Number",
+      "name": "x轴的x位置"
+    },
+    {
+      "attr": "axisX.y",
+      "valueType": "Number",
+      "name": "x轴的y位置"
+    },
+    {
+      "attr": "axisY.x",
+      "valueType": "Number",
+      "name": "y轴的x位置"
+    },
+    {
+      "attr": "axisY.y",
+      "valueType": "Number",
+      "name": "y轴的y位置"
+    },
+    {
+      "attr": "skew.image",
+      "valueType": "Image",
+      "name": "轴侧图标"
+    }
+  ]
+}

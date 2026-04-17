@@ -1,0 +1,197 @@
+{
+  "width": 11,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "shadow": true,
+      "shadowColor": "rgb(255,255,255)",
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 10.629,
+          "y": 0.727
+        },
+        {
+          "x": 8.163,
+          "y": 3.018
+        },
+        {
+          "x": 3.887,
+          "y": 3.018
+        },
+        {
+          "x": 1.814,
+          "y": 0.727
+        },
+        {
+          "x": 10.629,
+          "y": 0.727
+        },
+        {
+          "x": 10.629,
+          "y": 0.727
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "shadow": true,
+      "shadowColor": "rgb(255,255,255)",
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 9.298,
+          "y": 16
+        },
+        {
+          "x": 0.483,
+          "y": 16
+        },
+        {
+          "x": 2.949,
+          "y": 13.731
+        },
+        {
+          "x": 7.225,
+          "y": 13.731
+        },
+        {
+          "x": 9.298,
+          "y": 16
+        },
+        {
+          "x": 9.298,
+          "y": 16
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "shadow": true,
+      "shadowColor": "rgb(255,255,255)",
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 2.818,
+          "y": 10.218
+        },
+        {
+          "x": 2.556,
+          "y": 13.295
+        },
+        {
+          "x": 0.091,
+          "y": 15.564
+        },
+        {
+          "x": 0.592,
+          "y": 9.651
+        },
+        {
+          "x": 1.531,
+          "y": 8.8
+        },
+        {
+          "x": 2.818,
+          "y": 10.218
+        },
+        {
+          "x": 2.818,
+          "y": 10.218
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "shadow": true,
+      "shadowColor": "rgb(255,255,255)",
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 8.272,
+          "y": 6.509
+        },
+        {
+          "x": 8.534,
+          "y": 3.433
+        },
+        {
+          "x": 11,
+          "y": 1.164
+        },
+        {
+          "x": 10.498,
+          "y": 7.076
+        },
+        {
+          "x": 9.56,
+          "y": 7.949
+        },
+        {
+          "x": 8.272,
+          "y": 6.509
+        },
+        {
+          "x": 8.272,
+          "y": 6.509
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "shadow": true,
+      "shadowColor": "rgb(255,255,255)",
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 8.076,
+          "y": 7.229
+        },
+        {
+          "x": 9.123,
+          "y": 8.364
+        },
+        {
+          "x": 7.88,
+          "y": 9.498
+        },
+        {
+          "x": 3.036,
+          "y": 9.498
+        },
+        {
+          "x": 2.011,
+          "y": 8.364
+        },
+        {
+          "x": 3.232,
+          "y": 7.229
+        },
+        {
+          "x": 8.076,
+          "y": 7.229
+        },
+        {
+          "x": 8.076,
+          "y": 7.229
+        }
+      ]
+    }
+  ]
+}

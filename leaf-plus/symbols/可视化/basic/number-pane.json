@@ -1,0 +1,81 @@
+{
+  "width": 200,
+  "height": 24,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "numberPane",
+      "imgMap": {
+        "45": "symbols/图纸案例/number/-.json",
+        "46": "symbols/图纸案例/number/p.json",
+        "48": "symbols/图纸案例/number/0.json",
+        "49": "symbols/图纸案例/number/1.json",
+        "50": "symbols/图纸案例/number/2.json",
+        "51": "symbols/图纸案例/number/3.json",
+        "52": "symbols/图纸案例/number/4.json",
+        "53": "symbols/图纸案例/number/5.json",
+        "54": "symbols/图纸案例/number/6.json",
+        "55": "symbols/图纸案例/number/7.json",
+        "56": "symbols/图纸案例/number/8.json",
+        "57": "symbols/图纸案例/number/9.json",
+        "58": "symbols/图纸案例/number/colon.json",
+        "8451": "symbols/图纸案例/number/℃.json"
+      },
+      "value": {
+        "func": "attr@ht.value",
+        "value": "9277.0"
+      },
+      "textAlign": {
+        "func": "attr@ht.textAlign",
+        "value": "center"
+      },
+      "gap": {
+        "func": "attr@ht.gap",
+        "value": 2
+      },
+      "color": {
+        "func": "attr@ht.color",
+        "value": "#32D3EB"
+      },
+      "iconHeight": 18,
+      "digitCount": {
+        "func": "attr@ht.digit",
+        "value": 0
+      },
+      "fixed": 0,
+      "component": "components/textBox/numberPane.json",
+      "width": 200,
+      "height": 24,
+      "x": 100,
+      "y": 12
+    }
+  ],
+  "bind": [
+    {
+      "attr": "ht.value",
+      "valueType": "String",
+      "name": "NumPaneContent"
+    },
+    {
+      "attr": "ht.textAlign",
+      "valueType": "Align",
+      "name": "TBTextAlign"
+    },
+    {
+      "attr": "ht.gap",
+      "valueType": "PositiveNumber",
+      "name": "NumPaneGap"
+    },
+    {
+      "attr": "ht.color",
+      "valueType": "Color",
+      "name": "TBColor"
+    },
+    {
+      "attr": "ht.digit",
+      "valueType": "PositiveNumber",
+      "name": "NumPaneDigitCount"
+    }
+  ],
+  "fitSize": true
+}

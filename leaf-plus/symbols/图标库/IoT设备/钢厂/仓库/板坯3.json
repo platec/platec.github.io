@@ -1,0 +1,88 @@
+{
+  "width": 200,
+  "height": 200,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 99.88831499999999,
+      "y": 129.819945
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 101.035575,
+      "y": 122.910145
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 99.88831499999999,
+      "y": 114.909975
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 101.035575,
+      "y": 108.00017500000001
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 99.88831499999999,
+      "y": 100.000005
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 101.035575,
+      "y": 93.090195
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 100.270735,
+      "y": 85.090025
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯1.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 100.653155,
+      "y": 78.18022500000001
+    },
+    {
+      "type": "Image",
+      "displayName": "板坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/板坯2.json",
+      "width": 196.28319,
+      "height": 119.27979,
+      "x": 100.270735,
+      "y": 70.18005500000001
+    }
+  ],
+  "cacheRule": true
+}

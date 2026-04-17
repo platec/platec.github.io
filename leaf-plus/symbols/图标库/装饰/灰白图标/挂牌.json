@@ -1,0 +1,36 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "cornerRadius": 2,
+      "shape": "roundRect",
+      "width": 13,
+      "height": 9,
+      "x": 8,
+      "y": 9.88161
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "points": [
+        {
+          "x": 4,
+          "y": 5.38161
+        },
+        {
+          "x": 8,
+          "y": 1.38161
+        },
+        {
+          "x": 12,
+          "y": 5.38161
+        }
+      ]
+    }
+  ]
+}

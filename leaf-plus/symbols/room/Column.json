@@ -1,0 +1,54 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Polyline",
+      "cadType": "LWPOLYLINE",
+      "cadLayer": "0",
+      "borderColor": "#ffffff",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 12
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "dash": false,
+      "handle": "6EEF",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    }
+  ],
+  "bind": [
+    {
+      "attr": "blockColor",
+      "valueType": "Color"
+    }
+  ]
+}

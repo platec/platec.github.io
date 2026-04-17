@@ -1,0 +1,145 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "cornerRadius": 2,
+      "shape": "roundRect",
+      "width": 14,
+      "height": 10,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 3,
+          "y": 5
+        },
+        {
+          "x": 7,
+          "y": 5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 9,
+          "y": 5
+        },
+        {
+          "x": 13,
+          "y": 5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 11,
+          "y": 7
+        },
+        {
+          "x": 13,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 3,
+          "y": 7
+        },
+        {
+          "x": 9,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 3,
+          "y": 9
+        },
+        {
+          "x": 5,
+          "y": 9
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 7,
+          "y": 9
+        },
+        {
+          "x": 13,
+          "y": 9
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 11,
+          "y": 11
+        },
+        {
+          "x": 13,
+          "y": 11
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 3,
+          "y": 11
+        },
+        {
+          "x": 9,
+          "y": 11
+        }
+      ]
+    }
+  ]
+}

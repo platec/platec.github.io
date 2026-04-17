@@ -1,0 +1,255 @@
+{
+  "width": 295,
+  "height": 170,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.85)",
+      "borderColor": "#979797",
+      "selectable": false,
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 209.43473,
+      "height": 4,
+      "x": 122.963145,
+      "y": 85
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(7,7,33,0.5)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "points": [
+        {
+          "x": 18.5627,
+          "y": 84.38351
+        },
+        {
+          "x": -0.00002,
+          "y": 74.05222
+        },
+        {
+          "x": -0.00002,
+          "y": 0.84194
+        },
+        {
+          "x": 211.43721,
+          "y": 0.84194
+        },
+        {
+          "x": 227.68051,
+          "y": 12.14425
+        },
+        {
+          "x": 227.68051,
+          "y": 84.38351
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "2号采暖炉"
+      },
+      "align": "center",
+      "color": "rgb(95,229,250)",
+      "font": "18px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 169.05882,
+      "height": 26.98621,
+      "x": 77.726293688,
+      "y": 10.4873040696
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@textName1",
+        "value": "出口温度"
+      },
+      "color": "rgb(95,229,250)",
+      "font": "18px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 101.00559,
+      "height": 25,
+      "x": 47.375792156,
+      "y": 41.14956
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@textNum1",
+        "value": "39.7℃"
+      },
+      "align": "right",
+      "color": "rgb(255,255,255)",
+      "font": "18px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 61.83971,
+      "height": 25,
+      "x": 171.278002364,
+      "y": 41.14956
+    },
+    {
+      "type": "Image",
+      "displayName": "发光条",
+      "image": "symbols/3d场景用/发光条.json",
+      "width": 203.56799,
+      "height": 4.41681,
+      "x": 113.499145,
+      "y": 27.883135
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@textName2",
+        "value": "出口温度"
+      },
+      "color": "rgb(95,229,250)",
+      "font": "18px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 101.00559,
+      "height": 25,
+      "x": 47.375792156,
+      "y": 63.86094
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@textNum2",
+        "value": "39.7℃"
+      },
+      "align": "right",
+      "color": "rgb(255,255,255)",
+      "font": "18px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 61.83971,
+      "height": 25,
+      "x": 171.278002364,
+      "y": 63.86094
+    },
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 198.29706499999998,
+      "y": 77.975495
+    },
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 290.24447,
+      "y": 139.76978
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#32D3EB",
+      "borderCap": "round",
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 198.02855,
+          "y": 77.7224
+        },
+        {
+          "x": 209.42416,
+          "y": 92.57402
+        },
+        {
+          "x": 254.05697,
+          "y": 92.95483
+        },
+        {
+          "x": 290.38106,
+          "y": 139.99247
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.15)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 198.29706000000002,
+      "y": 77.9755
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.51)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 290.244465,
+      "y": 139.76977499999998
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String",
+      "name": "设备名称"
+    },
+    {
+      "attr": "textName1",
+      "valueType": "String",
+      "name": "参数一"
+    },
+    {
+      "attr": "textNum1",
+      "valueType": "String",
+      "name": "参数值一"
+    },
+    {
+      "attr": "textName2",
+      "valueType": "String",
+      "name": "参数二"
+    },
+    {
+      "attr": "textNum2",
+      "valueType": "String",
+      "name": "参数值二"
+    }
+  ]
+}

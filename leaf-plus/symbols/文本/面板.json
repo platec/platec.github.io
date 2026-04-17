@@ -1,0 +1,528 @@
+{
+  "width": 500,
+  "height": 255,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(3,12,33,0.5)",
+      "borderColor": "#979797",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 7.43035,
+          "y": 18.50634
+        },
+        {
+          "x": 480.94237,
+          "y": 18.50634
+        },
+        {
+          "x": 490.97968,
+          "y": 34.49972
+        },
+        {
+          "x": 490.97968,
+          "y": 241.41523
+        },
+        {
+          "x": 24.25392,
+          "y": 241.41523
+        },
+        {
+          "x": 8.82186,
+          "y": 221.08918
+        },
+        {
+          "x": 7.43035,
+          "y": 18.50634
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 215.00433,
+          "y": -44.80439
+        },
+        {
+          "x": 215.00273,
+          "y": 296.50891
+        },
+        {
+          "x": 418.85476,
+          "y": 296.5095
+        },
+        {
+          "x": 434.02111,
+          "y": 286.75805
+        },
+        {
+          "x": 434.02214,
+          "y": 98.68649
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "scaleX": -1,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": -44.79657,
+          "y": 183.96355
+        },
+        {
+          "x": -44.79721,
+          "y": 68.04254
+        },
+        {
+          "x": 12.05176,
+          "y": 68.04237
+        },
+        {
+          "x": 14.07785,
+          "y": 70.45187
+        },
+        {
+          "x": 23.99455,
+          "y": 70.45187
+        },
+        {
+          "x": 26.43835,
+          "y": 68.04237
+        },
+        {
+          "x": 160.87442,
+          "y": 68.04194
+        },
+        {
+          "x": 173.2116,
+          "y": 77.54737
+        },
+        {
+          "x": 173.21191,
+          "y": 143.37992
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(0,16,61)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "rotation": -1.5708,
+      "closePath": true,
+      "points": [
+        {
+          "x": -0.19581,
+          "y": 79.80027
+        },
+        {
+          "x": 1.91935,
+          "y": 82.04093
+        },
+        {
+          "x": 10.06166,
+          "y": 82.04093
+        },
+        {
+          "x": 12.09698,
+          "y": 79.8003
+        },
+        {
+          "x": -0.19581,
+          "y": 79.80027
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "庆南干线总电量",
+      "align": "center",
+      "color": "rgb(94,229,250)",
+      "pixelPerfect": true,
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 85.90691,
+      "height": 16.0648,
+      "x": 209.305165,
+      "y": 16.0648
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.45494,
+          "y": 70
+        },
+        {
+          "x": 478.95509,
+          "y": 70
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 100
+        },
+        {
+          "x": 478.66843,
+          "y": 100
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 130
+        },
+        {
+          "x": 478.66843,
+          "y": 130
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 160
+        },
+        {
+          "x": 478.66843,
+          "y": 160
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 190
+        },
+        {
+          "x": 478.66843,
+          "y": 190
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 220
+        },
+        {
+          "x": 478.66843,
+          "y": 220
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 178.71399,
+          "y": 46.23405
+        },
+        {
+          "x": 178.71399,
+          "y": 219.82123
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 294.71207,
+          "y": 46.91282
+        },
+        {
+          "x": 294.71207,
+          "y": 220.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 390.94175,
+          "y": 46.91282
+        },
+        {
+          "x": 390.94175,
+          "y": 159.69312
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "A相电流",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 62
+    },
+    {
+      "type": "Text",
+      "text": "2 A",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 92
+    },
+    {
+      "type": "Text",
+      "text": "A相电压",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 122
+    },
+    {
+      "type": "Text",
+      "text": "225 V",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 152
+    },
+    {
+      "type": "Text",
+      "text": "无功电度",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 182
+    },
+    {
+      "type": "Text",
+      "text": "B相电流",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 62
+    },
+    {
+      "type": "Text",
+      "text": "2 A",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 92
+    },
+    {
+      "type": "Text",
+      "text": "B相电压",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 122
+    },
+    {
+      "type": "Text",
+      "text": "225 V",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 152
+    },
+    {
+      "type": "Text",
+      "text": "功率因素",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 182
+    },
+    {
+      "type": "Text",
+      "text": "0",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 212
+    },
+    {
+      "type": "Text",
+      "text": "1017370370 Varh",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 212
+    },
+    {
+      "type": "Text",
+      "text": "C相电流",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 341.75291,
+      "y": 62
+    },
+    {
+      "type": "Text",
+      "text": "2 A",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 341.75291,
+      "y": 92
+    },
+    {
+      "type": "Text",
+      "text": "C相电压",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 341.75291,
+      "y": 122
+    },
+    {
+      "type": "Text",
+      "text": "225 V",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 341.75291,
+      "y": 152
+    },
+    {
+      "type": "Text",
+      "text": "有功电度",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 182
+    },
+    {
+      "type": "Text",
+      "text": "1193790980 kWh",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 212
+    },
+    {
+      "type": "Text",
+      "text": "有功功率",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 435.33699,
+      "y": 62
+    },
+    {
+      "type": "Text",
+      "text": "208 W",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 435.33699,
+      "y": 92
+    },
+    {
+      "type": "Text",
+      "text": "无功功率",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 435.33699,
+      "y": 122
+    },
+    {
+      "type": "Text",
+      "text": "0 W",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 435.33699,
+      "y": 152
+    }
+  ]
+}

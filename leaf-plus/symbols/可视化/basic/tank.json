@@ -1,0 +1,183 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(107,99,99)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "gradient": "spread.horizontal",
+      "gradientColor": "rgb(255,255,255)",
+      "shape": "rect",
+      "width": 70,
+      "height": 78.22746,
+      "x": 50.752359999999996,
+      "y": 49.83526
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(33,26,26)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "gradient": "spread.horizontal",
+      "gradientColor": "rgb(255,255,255)",
+      "shape": "roundRect",
+      "width": 86,
+      "height": 10,
+      "x": 50.9226,
+      "y": 89.24716
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(33,26,26)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "gradient": "spread.horizontal",
+      "gradientColor": "rgb(255,255,255)",
+      "shape": "roundRect",
+      "width": 86,
+      "height": 10,
+      "x": 50.9226,
+      "y": 10.6662
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        {
+          "x": 60.8877,
+          "y": 23.82562
+        },
+        {
+          "x": 77.68687,
+          "y": 23.90365
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        {
+          "x": 60.8877,
+          "y": 50.86581
+        },
+        {
+          "x": 77.3935,
+          "y": 50.81391
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        {
+          "x": 60.8877,
+          "y": 77.90601
+        },
+        {
+          "x": 77.78602,
+          "y": 77.94316
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        {
+          "x": 60.8877,
+          "y": 37.34572
+        },
+        {
+          "x": 69.68765,
+          "y": 37.41244
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        {
+          "x": 60.8877,
+          "y": 64.38591
+        },
+        {
+          "x": 70.02269,
+          "y": 64.32706
+        }
+      ]
+    },
+    {
+      "type": "Component",
+      "direction": "v",
+      "value": {
+        "func": "attr@tank.volume",
+        "value": 0.8
+      },
+      "valueVisible": false,
+      "foreColor": {
+        "func": "attr@tank.background",
+        "value": "#04FDFF"
+      },
+      "background": "rgb(0,0,0)",
+      "borderColor": "rgb(0,0,0)",
+      "borderWidth": 1,
+      "component": "components/basic/progressBar.json",
+      "width": 13.62225,
+      "height": 56.78038,
+      "x": 49.376284999999996,
+      "y": 50.84846
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nif (data.a('tank.blink')) return undefined;\nvar alarm = data.a('tank.alarm');\nif (alarm === 0) return '#00FF00';\nif (alarm === 100) return '#C800FF';\nif (alarm === 200) return '#00FFFF';\nif (alarm === 300) return '#FFFF00';\nif (alarm === 400) return '#FFA000';\nif (alarm === 500) return '#FF0000';\nreturn undefined;\n}",
+        "value": "#D8D8D8"
+      },
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "shape": "oval",
+      "width": 10,
+      "height": 10,
+      "x": 27.97463,
+      "y": 72.92459
+    }
+  ],
+  "bind": [
+    {
+      "attr": "tank.volume",
+      "valueType": "Percentage",
+      "name": "TankVolume",
+      "defaultValue": 0.679,
+      "description": "油量百分比",
+      "extraInfo": {
+        "dataBinding": true
+      }
+    },
+    {
+      "attr": "tank.background",
+      "valueType": "Color",
+      "name": "TankColor",
+      "defaultValue": "#3498DB",
+      "description": "油量颜色",
+      "bindable": true
+    },
+    {
+      "attr": "tank.alarm",
+      "valueType": "AlarmSeverity",
+      "defaultValue": 0,
+      "name": "TankAlarm",
+      "description": "左下角圆圈告警内容"
+    }
+  ],
+  "fitSize": true
+}

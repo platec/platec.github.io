@@ -1,0 +1,68 @@
+{
+  "width": 560,
+  "height": 376,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "xAxis.data",
+      "valueType": "Object",
+      "defaultValue": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "name": "类目数据",
+      "group": "chart"
+    },
+    {
+      "attr": "series0.data",
+      "valueType": "Object",
+      "defaultValue": [
+        120,
+        100,
+        150,
+        80,
+        70,
+        110,
+        130
+      ],
+      "name": "系列数据1"
+    },
+    {
+      "attr": "series1.data",
+      "valueType": "Object",
+      "name": "系列数据2",
+      "defaultValue": [
+        150,
+        10,
+        100,
+        60,
+        50,
+        100,
+        110
+      ]
+    },
+    {
+      "attr": "chart.text",
+      "valueType": "String",
+      "defaultValue": "堆叠面积图",
+      "name": "主标题"
+    },
+    {
+      "attr": "chart.subtext",
+      "valueType": "String",
+      "defaultValue": "一个简单的堆叠面积图",
+      "name": "副标题"
+    },
+    {
+      "attr": "chart.backgroundColor",
+      "valueType": "Color",
+      "name": "背景色",
+      "defaultValue": null
+    }
+  ]
+}

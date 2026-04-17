@@ -1,0 +1,410 @@
+{
+  "width": 104,
+  "height": 46,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "电流",
+      "align": "center",
+      "color": "#3e3a31",
+      "font": "14px YouSheBiaoTiHei",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 26.1938,
+      "y": 13.5
+    },
+    {
+      "type": "Text",
+      "text": "轴温",
+      "align": "center",
+      "color": "#3e3a31",
+      "font": "14px YouSheBiaoTiHei",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 26.1938,
+      "y": 32.499990000000004
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nlet num = data.a('tnum2');\r\nif(num !== undefined) {\r\n    num = Math.ceil(num)/10;\r\n    num = num.toFixed(1);\r\n} else {\r\n    num = 0;\r\n}\r\nreturn num;\n}",
+        "value": "37.7"
+      },
+      "align": "center",
+      "color": "#3e3a31",
+      "font": "bold 14px Arial",
+      "pixelPerfect": true,
+      "displayName": "37.7",
+      "scaleX": 0.875,
+      "scaleY": 0.875,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 63.36361,
+      "y": 33.005
+    },
+    {
+      "type": "Text",
+      "text": "℃",
+      "align": "right",
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "scaleX": 0.875,
+      "scaleY": 0.875,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 99.50044,
+      "y": 33.005
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nlet num = data.a('tnum1');\r\nif(num !== undefined) {\r\n    num = Math.ceil(num)/10;\r\n    num = num.toFixed(2);\r\n} else {\r\n    num = 0;\r\n}\r\nreturn num;\n}",
+        "value": "10.49"
+      },
+      "align": "center",
+      "color": "#3e3a31",
+      "font": "bold 14px Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.875,
+      "scaleY": 0.875,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 63.36361,
+      "y": 15.005
+    },
+    {
+      "type": "Text",
+      "text": "A",
+      "align": "right",
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "scaleX": 0.875,
+      "scaleY": 0.875,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 99.50044,
+      "y": 15.005
+    },
+    {
+      "type": "Polyline",
+      "background": "#6cc0ee",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 9,
+          "y": 0
+        },
+        {
+          "x": 9,
+          "y": 0
+        },
+        {
+          "x": 9,
+          "y": 0
+        },
+        {
+          "x": 9,
+          "y": 2
+        },
+        {
+          "x": 9,
+          "y": 2
+        },
+        {
+          "x": 9,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#6cc0ee",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 95,
+          "y": 0
+        },
+        {
+          "x": 104,
+          "y": 0
+        },
+        {
+          "x": 104,
+          "y": 0
+        },
+        {
+          "x": 104,
+          "y": 0
+        },
+        {
+          "x": 104,
+          "y": 2
+        },
+        {
+          "x": 104,
+          "y": 2
+        },
+        {
+          "x": 104,
+          "y": 2
+        },
+        {
+          "x": 95,
+          "y": 2
+        },
+        {
+          "x": 95,
+          "y": 2
+        },
+        {
+          "x": 95,
+          "y": 2
+        },
+        {
+          "x": 95,
+          "y": 0
+        },
+        {
+          "x": 95,
+          "y": 0
+        },
+        {
+          "x": 95,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.4,
+      "borderColor": "#4d5fb4",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 14.546,
+          "y": 0.642
+        },
+        {
+          "x": 90.098,
+          "y": 0.642
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#6cc0ee",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 44
+        },
+        {
+          "x": 9,
+          "y": 44
+        },
+        {
+          "x": 9,
+          "y": 44
+        },
+        {
+          "x": 9,
+          "y": 44
+        },
+        {
+          "x": 9,
+          "y": 46
+        },
+        {
+          "x": 9,
+          "y": 46
+        },
+        {
+          "x": 9,
+          "y": 46
+        },
+        {
+          "x": 0,
+          "y": 46
+        },
+        {
+          "x": 0,
+          "y": 46
+        },
+        {
+          "x": 0,
+          "y": 46
+        },
+        {
+          "x": 0,
+          "y": 44
+        },
+        {
+          "x": 0,
+          "y": 44
+        },
+        {
+          "x": 0,
+          "y": 44
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#6cc0ee",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 95,
+          "y": 44
+        },
+        {
+          "x": 104,
+          "y": 44
+        },
+        {
+          "x": 104,
+          "y": 44
+        },
+        {
+          "x": 104,
+          "y": 44
+        },
+        {
+          "x": 104,
+          "y": 46
+        },
+        {
+          "x": 104,
+          "y": 46
+        },
+        {
+          "x": 104,
+          "y": 46
+        },
+        {
+          "x": 95,
+          "y": 46
+        },
+        {
+          "x": 95,
+          "y": 46
+        },
+        {
+          "x": 95,
+          "y": 46
+        },
+        {
+          "x": 95,
+          "y": 44
+        },
+        {
+          "x": 95,
+          "y": 44
+        },
+        {
+          "x": 95,
+          "y": 44
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.4,
+      "borderColor": "#4d5fb4",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 14.546,
+          "y": 45.286
+        },
+        {
+          "x": 90.098,
+          "y": 45.286
+        }
+      ]
+    }
+  ],
+  "bind": []
+}

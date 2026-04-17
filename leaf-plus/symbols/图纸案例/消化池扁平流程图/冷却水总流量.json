@@ -1,0 +1,169 @@
+{
+  "width": 96.16039,
+  "height": 78.11643,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#0c7292",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.84688,
+          "y": 7.59168
+        },
+        {
+          "x": 2.84688,
+          "y": 78.11643
+        },
+        {
+          "x": 2.84688,
+          "y": 78.11643
+        },
+        {
+          "x": 2.84688,
+          "y": 78.11643
+        },
+        {
+          "x": 1.89792,
+          "y": 78.11643
+        },
+        {
+          "x": 1.89792,
+          "y": 78.11643
+        },
+        {
+          "x": 1.89792,
+          "y": 78.11643
+        },
+        {
+          "x": 1.89792,
+          "y": 7.59168
+        },
+        {
+          "x": 1.89792,
+          "y": 7.59168
+        },
+        {
+          "x": 1.89792,
+          "y": 7.59168
+        },
+        {
+          "x": 2.84688,
+          "y": 7.59168
+        },
+        {
+          "x": 2.84688,
+          "y": 7.59168
+        },
+        {
+          "x": 2.84688,
+          "y": 7.59168
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#5cbece",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 4.7448,
+          "y": 0
+        },
+        {
+          "x": 4.7448,
+          "y": 4.7448
+        },
+        {
+          "x": 0,
+          "y": 4.7448
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "冷却水总流量",
+      "color": "#3e3a31",
+      "font": "20px YouSheBiaoTiHei",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 14.25689,
+      "y": 15.510250000000001
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nlet num = data.a('tnum1');\r\nif(num !== undefined) {\r\n    num = Math.ceil(num)/10;\r\n    num = num.toFixed(1);\r\n} else {\r\n    num = 0;\r\n}\r\nreturn num;\n}",
+        "value": "230.5"
+      },
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 14.25789,
+      "y": 37.85054
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nlet num = data.a('tnum2');\r\nif(num !== undefined) {\r\n    num = Math.ceil(num)/10;\r\n    num = num.toFixed(0);\r\n} else {\r\n    num = 0;\r\n}\r\nreturn num;\n}",
+        "value": "4524737"
+      },
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 14.25589,
+      "y": 57.96551
+    },
+    {
+      "type": "Text",
+      "text": "m3/h",
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 66.50562000000001,
+      "y": 37.85054
+    },
+    {
+      "type": "Text",
+      "text": "m3",
+      "color": "#3e3a31",
+      "font": "bold 12px arial",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 76.76087,
+      "y": 57.96551
+    }
+  ],
+  "bind": []
+}

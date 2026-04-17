@@ -1,0 +1,352 @@
+{
+  "width": 829.75875,
+  "height": 129.51477,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "shadow": true,
+      "shadowColor": "rgba(33,6,186,0.05)",
+      "shadowBlur": 32,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 12,
+      "closePath": true,
+      "points": [
+        {
+          "x": 93.91604,
+          "y": 27.83899
+        },
+        {
+          "x": 20,
+          "y": 27.83899
+        },
+        {
+          "x": 14.47717,
+          "y": 27.83899
+        },
+        {
+          "x": 9.76313,
+          "y": 29.79161
+        },
+        {
+          "x": 5.85788,
+          "y": 33.69684
+        },
+        {
+          "x": 1.95264,
+          "y": 37.60209
+        },
+        {
+          "x": 0.00002,
+          "y": 42.31614
+        },
+        {
+          "x": 0,
+          "y": 47.83899
+        },
+        {
+          "x": 0,
+          "y": 109.51477
+        },
+        {
+          "x": 0.00002,
+          "y": 115.0376
+        },
+        {
+          "x": 1.95264,
+          "y": 119.75165
+        },
+        {
+          "x": 5.85788,
+          "y": 123.65692
+        },
+        {
+          "x": 9.76313,
+          "y": 127.56215
+        },
+        {
+          "x": 14.47717,
+          "y": 129.51477
+        },
+        {
+          "x": 20,
+          "y": 129.51477
+        },
+        {
+          "x": 809.75874,
+          "y": 129.51477
+        },
+        {
+          "x": 815.28161,
+          "y": 129.51477
+        },
+        {
+          "x": 819.99566,
+          "y": 127.56215
+        },
+        {
+          "x": 823.90089,
+          "y": 123.65692
+        },
+        {
+          "x": 827.80613,
+          "y": 119.75165
+        },
+        {
+          "x": 829.75874,
+          "y": 115.0376
+        },
+        {
+          "x": 829.75874,
+          "y": 109.51477
+        },
+        {
+          "x": 829.75874,
+          "y": 47.83899
+        },
+        {
+          "x": 829.75874,
+          "y": 42.31614
+        },
+        {
+          "x": 827.80613,
+          "y": 37.60209
+        },
+        {
+          "x": 823.90089,
+          "y": 33.69684
+        },
+        {
+          "x": 819.99566,
+          "y": 29.79161
+        },
+        {
+          "x": 815.28161,
+          "y": 27.83899
+        },
+        {
+          "x": 809.75874,
+          "y": 27.83899
+        },
+        {
+          "x": 157.8308,
+          "y": 27.83899
+        },
+        {
+          "x": 152.49749,
+          "y": 27.83899
+        },
+        {
+          "x": 148.22728,
+          "y": 25.70833
+        },
+        {
+          "x": 145.02017,
+          "y": 21.44701
+        },
+        {
+          "x": 136.25372,
+          "y": 9.79892
+        },
+        {
+          "x": 128.89216,
+          "y": 0.01752
+        },
+        {
+          "x": 121.50012,
+          "y": 0
+        },
+        {
+          "x": 114.07763,
+          "y": 9.74631
+        },
+        {
+          "x": 105.14581,
+          "y": 21.4745
+        },
+        {
+          "x": 100.70889,
+          "y": 27.83899
+        },
+        {
+          "x": 93.91604,
+          "y": 27.83899
+        },
+        {
+          "x": 93.91604,
+          "y": 27.83899
+        },
+        {
+          "x": 103.25621,
+          "y": 27.83899
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        4,
+        4,
+        2,
+        4,
+        4,
+        2,
+        4,
+        4,
+        2,
+        4,
+        4,
+        2,
+        4,
+        2,
+        4,
+        2,
+        4,
+        2
+      ]
+    },
+    {
+      "type": "Image",
+      "state": "1",
+      "displayName": "按钮背景",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 124.940125,
+      "y": 78.676895
+    },
+    {
+      "type": "Image",
+      "state": "2",
+      "displayName": "按钮背景",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 227.09631,
+      "height": 67.98513,
+      "x": 412.877855,
+      "y": 78.676895
+    },
+    {
+      "type": "Image",
+      "state": "3",
+      "displayName": "按钮背景",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 689.225925,
+      "y": 78.676895
+    },
+    {
+      "type": "Image",
+      "opacity": 0,
+      "displayName": "Paris",
+      "onClick": "function(event, data, view, point, width, height) {var oldState = data.s('state')\r\ndata.s('state','1')\r\ndata.a('ht.onChange') && data.a('ht.onChange')(data.s('state'),oldState)}",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 124.940125,
+      "y": 78.676895
+    },
+    {
+      "type": "Image",
+      "opacity": 0,
+      "displayName": "Tokyo",
+      "onClick": "function(event, data, view, point, width, height) {var oldState = data.s('state')\r\ndata.s('state','2')\r\ndata.a('ht.onChange') && data.a('ht.onChange')(data.s('state'),oldState)}",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 227.09631,
+      "height": 67.98513,
+      "x": 412.877855,
+      "y": 78.676895
+    },
+    {
+      "type": "Image",
+      "opacity": 0,
+      "displayName": "Rio",
+      "onClick": "function(event, data, view, point, width, height) {var oldState = data.s('state')\r\ndata.s('state','3')\r\ndata.a('ht.onChange') && data.a('ht.onChange')(data.s('state'),oldState)}",
+      "image": "symbols/可视化/奥运/按钮背景.json",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 689.225925,
+      "y": 78.676895
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@ht.label1",
+        "value": "Paris 2024"
+      },
+      "align": "center",
+      "color": {
+        "func": "function(data, view) {\nvar state = data.s('state')\r\nif(state === \"1\"){\r\n    return \"rgb(207,207,255)\"\r\n}\r\nreturn \"rgb(157,157,199)\"\n}",
+        "value": "rgb(207,207,255)"
+      },
+      "font": "bold 26px Arial",
+      "displayName": "",
+      "width": 156.17172,
+      "height": 39.70157,
+      "x": 124.94012,
+      "y": 78.676895
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@ht.label2",
+        "value": "Tokyo 2020"
+      },
+      "align": "center",
+      "color": {
+        "func": "function(data, view) {\nvar state = data.s('state')\r\nif(state === \"2\"){\r\n    return \"rgb(207,207,255)\"\r\n}\r\nreturn \"rgb(157,157,199)\"\n}",
+        "value": "rgb(157,157,199)"
+      },
+      "font": "bold 26px Arial",
+      "displayName": "",
+      "width": 156.17172,
+      "height": 39.70157,
+      "x": 412.87785999999994,
+      "y": 78.676895
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@ht.label3",
+        "value": " Rio 2016"
+      },
+      "align": "center",
+      "color": {
+        "func": "function(data, view) {\nvar state = data.s('state')\r\nif(state === \"3\"){\r\n    return \"rgb(207,207,255)\"\r\n}\r\nreturn \"rgb(157,157,199)\"\n}",
+        "value": "rgb(157,157,199)"
+      },
+      "font": "bold 26px Arial",
+      "displayName": "",
+      "width": 156.17172,
+      "height": 39.70157,
+      "x": 689.22592,
+      "y": 78.676895
+    }
+  ],
+  "bind": [
+    {
+      "attr": "ht.label1",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "ht.label2",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "ht.label3",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "ht.onChange",
+      "valueType": "Function",
+      "extraInfo": {
+        "arguments": [
+          "state"
+        ]
+      }
+    }
+  ],
+  "state": "1"
+}

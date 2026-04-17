@@ -1,0 +1,67 @@
+{
+  "width": 500,
+  "height": 376,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "series0.data0.value",
+      "valueType": "Object",
+      "group": "chart",
+      "defaultValue": [
+        925,
+        345,
+        846,
+        742,
+        264,
+        813
+      ]
+    },
+    {
+      "attr": "chart.radar",
+      "valueType": "Object",
+      "name": "雷达图坐标系",
+      "defaultValue": {
+        "indicator": [
+          {
+            "name": "防御",
+            "max": 1000
+          },
+          {
+            "name": "速度",
+            "max": 1000
+          },
+          {
+            "name": "穿透",
+            "max": 1000
+          },
+          {
+            "name": "攻击",
+            "max": 1000
+          },
+          {
+            "name": "闪躲",
+            "max": 1000
+          }
+        ]
+      }
+    },
+    {
+      "attr": "chart.text",
+      "valueType": "String",
+      "defaultValue": "单线雷达图",
+      "name": "主标题"
+    },
+    {
+      "attr": "chart.subtext",
+      "valueType": "String",
+      "defaultValue": "一个简单的单线雷达图",
+      "name": "副标题"
+    },
+    {
+      "attr": "chart.backgroundColor",
+      "valueType": "Color",
+      "name": "背景色",
+      "defaultValue": "#fff"
+    }
+  ]
+}

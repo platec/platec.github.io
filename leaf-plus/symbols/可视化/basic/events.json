@@ -1,0 +1,46 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": {
+        "func": "attr@roundBackground",
+        "value": "#D8D8D8"
+      },
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "pixelPerfect": true,
+      "displayName": "round",
+      "shape": "oval",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "attr@starBackground",
+        "value": "rgb(247,247,247)"
+      },
+      "borderWidth": 1,
+      "borderColor": "#38373B",
+      "pixelPerfect": true,
+      "displayName": "star",
+      "scaleX": {
+        "func": "attr@starScale",
+        "value": 1
+      },
+      "scaleY": {
+        "func": "attr@starScale",
+        "value": 1
+      },
+      "shape": "star",
+      "width": 50,
+      "height": 50,
+      "x": 50,
+      "y": 50
+    }
+  ]
+}

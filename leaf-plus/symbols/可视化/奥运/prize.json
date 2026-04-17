@@ -1,0 +1,51 @@
+{
+  "width": 194.75668,
+  "height": 45.8251,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": {
+        "func": "attr@ht.background",
+        "value": "rgba(222,177,42,0.60)"
+      },
+      "borderColor": "#979797",
+      "cornerRadius": 22.91255,
+      "pixelPerfect": true,
+      "layoutH": "leftright",
+      "layoutV": "topbottom",
+      "shape": "roundRect",
+      "width": 194.75668,
+      "height": 45.8251,
+      "x": 97.37834,
+      "y": 22.91255
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@ht.text",
+        "value": "Gold Medal"
+      },
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "bold 24px Arial",
+      "layoutH": "center",
+      "layoutV": "center",
+      "displayName": "",
+      "width": 139.6352,
+      "height": 44.1647,
+      "x": 93.89603,
+      "y": 23.74275
+    }
+  ],
+  "bind": [
+    {
+      "attr": "ht.background",
+      "valueType": "Color"
+    },
+    {
+      "attr": "ht.text",
+      "valueType": "Multiline"
+    }
+  ],
+  "fitSize": true
+}

@@ -1,0 +1,128 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "shape": "rect",
+      "width": 14,
+      "height": 10,
+      "x": 8,
+      "y": 6.5
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 3,
+          "y": 14.5
+        },
+        {
+          "x": 13,
+          "y": 14.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "anchorX": 1,
+      "anchorY": 1,
+      "points": [
+        {
+          "x": 13,
+          "y": 7.5
+        },
+        {
+          "x": 13,
+          "y": 9.5
+        },
+        {
+          "x": 11,
+          "y": 9.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "anchorX": 1,
+      "anchorY": 1,
+      "rotation": 4.71239,
+      "points": [
+        {
+          "x": 13,
+          "y": 1.5
+        },
+        {
+          "x": 13,
+          "y": 3.5
+        },
+        {
+          "x": 11,
+          "y": 3.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "anchorX": 1,
+      "anchorY": 1,
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 3,
+          "y": 1.5
+        },
+        {
+          "x": 3,
+          "y": 3.5
+        },
+        {
+          "x": 1,
+          "y": 3.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "anchorX": 1,
+      "anchorY": 1,
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 3,
+          "y": 7.5
+        },
+        {
+          "x": 3,
+          "y": 9.5
+        },
+        {
+          "x": 1,
+          "y": 9.5
+        }
+      ]
+    }
+  ]
+}

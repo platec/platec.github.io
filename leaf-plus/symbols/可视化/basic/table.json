@@ -1,0 +1,114 @@
+{
+  "width": 500,
+  "height": 360,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "tableComp",
+      "rotation": 6.28319,
+      "component": "components/basic/table/table.json",
+      "width": 499.61877,
+      "height": 359.73516,
+      "x": 249.810225,
+      "y": 179.60339
+    }
+  ],
+  "bind": [
+    {
+      "attr": "table.columns",
+      "valueType": "Object",
+      "name": "TableColumnDef"
+    },
+    {
+      "attr": "table.dataSource",
+      "valueType": "Object",
+      "name": "TableDataSource"
+    },
+    {
+      "attr": "table.head.background",
+      "valueType": "Color",
+      "name": "TableHeadBackground"
+    },
+    {
+      "attr": "table.body.background",
+      "valueType": "Color",
+      "name": "TableBodyBackground"
+    },
+    {
+      "attr": "table.border.width",
+      "valueType": "PositiveNumber",
+      "name": "TableBorderWidth"
+    },
+    {
+      "attr": "table.border.color",
+      "valueType": "Color",
+      "name": "TableBorderColor"
+    },
+    {
+      "attr": "table.column.line.color",
+      "valueType": "Color",
+      "name": "TableColumnLineColor"
+    },
+    {
+      "attr": "table.column.line.width",
+      "valueType": "PositiveNumber",
+      "name": "TableColumnLineWidth"
+    },
+    {
+      "attr": "table.row.line.color",
+      "valueType": "Color",
+      "name": "TableRowLineColor"
+    },
+    {
+      "attr": "table.row.line.width",
+      "valueType": "PositiveNumber",
+      "name": "TableRowLineWidth"
+    },
+    {
+      "attr": "table.head.font.size",
+      "valueType": "PositiveNumber",
+      "name": "TableHeadFontSize"
+    },
+    {
+      "attr": "table.body.font.size",
+      "valueType": "PositiveNumber",
+      "name": "TableBodyFontSize"
+    },
+    {
+      "attr": "table.head.height",
+      "valueType": "PositiveNumber",
+      "name": "TableHeadHeight"
+    },
+    {
+      "attr": "table.body.height",
+      "valueType": "PositiveNumber",
+      "name": "TableBodyHeight"
+    },
+    {
+      "attr": "table.head.color",
+      "valueType": "Color",
+      "name": "TableHeadColor"
+    },
+    {
+      "attr": "table.body.color",
+      "valueType": "Color",
+      "name": "TableBodyColor"
+    },
+    {
+      "attr": "table.cell.padding",
+      "valueType": "PositiveNumber",
+      "name": "TableCellPadding"
+    },
+    {
+      "attr": "table.head.font.family",
+      "valueType": "String",
+      "name": "TableHeadFontFamily"
+    },
+    {
+      "attr": "table.body.font.family",
+      "valueType": "String",
+      "name": "TableBodyFontFamily"
+    }
+  ],
+  "fitSize": true
+}

@@ -1,0 +1,26 @@
+{
+  "width": 64,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Image",
+      "opacity": {
+        "func": "attr@opacity",
+        "value": 1
+      },
+      "displayName": "gradual_change_red_02",
+      "image": "assets/gradual_change_red_02.png",
+      "width": 64,
+      "height": 64,
+      "x": 32,
+      "y": 32
+    }
+  ],
+  "bind": [
+    {
+      "attr": "opacity",
+      "valueType": "Opacity",
+      "defaultValue": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "width": 483,
+  "height": 383,
+  "elements": [
+    {
+      "type": "Image",
+      "image": "symbols/图标库/25D/电力电网/医院.json",
+      "width": 483,
+      "height": 383,
+      "x": 241.5,
+      "y": 191.5
+    },
+    {
+      "type": "Image",
+      "image": "symbols/图标库/25D/电力电网/救护车.json",
+      "width": 34,
+      "height": 31,
+      "x": 228,
+      "y": 324
+    }
+  ],
+  "cacheRule": true
+}

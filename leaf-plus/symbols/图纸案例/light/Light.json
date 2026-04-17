@@ -1,0 +1,124 @@
+{
+  "width": 30,
+  "height": 30,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(124,145,155)",
+      "borderWidth": 1,
+      "borderColor": "rgb(112,95,59)",
+      "gradient": "radial.center",
+      "gradientColor": "rgb(247,247,247)",
+      "prefix": "circle",
+      "shadowColor": "#FEB64D",
+      "shadowBlur": 18,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "circle",
+      "width": 25,
+      "height": 25,
+      "x": 15,
+      "y": 15
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(255,255,255,0.57)",
+      "borderColor": "#979797",
+      "gradient": "linear.east",
+      "gradientColor": "rgba(255,255,255,0.00)",
+      "prefix": "reflect",
+      "points": [
+        {
+          "x": 10.10185,
+          "y": 6.76951
+        },
+        {
+          "x": 10.10185,
+          "y": 5.10574
+        },
+        {
+          "x": 13.56013,
+          "y": 4.00457
+        },
+        {
+          "x": 14.07886,
+          "y": 5.63116
+        },
+        {
+          "x": 10.60851,
+          "y": 7.53844
+        },
+        {
+          "x": 14.07886,
+          "y": 6.22674
+        },
+        {
+          "x": 14.07886,
+          "y": 7.53844
+        },
+        {
+          "x": 16.59528,
+          "y": 8.4999
+        },
+        {
+          "x": 20.06346,
+          "y": 10.05269
+        },
+        {
+          "x": 22.46997,
+          "y": 13.0811
+        },
+        {
+          "x": 24.41939,
+          "y": 13.0811
+        },
+        {
+          "x": 24.41939,
+          "y": 8.4999
+        },
+        {
+          "x": 21.83809,
+          "y": 5.49549
+        },
+        {
+          "x": 15.2825,
+          "y": 4.00457
+        },
+        {
+          "x": 16.59528,
+          "y": 8.4999
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "circle.background",
+      "valueType": "Color",
+      "name": "圆形背景",
+      "group": "灯光"
+    },
+    {
+      "attr": "reflect.background",
+      "valueType": "Color",
+      "name": "反光背景"
+    }
+  ]
+}

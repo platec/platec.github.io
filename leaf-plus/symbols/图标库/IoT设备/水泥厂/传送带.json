@@ -1,0 +1,253 @@
+{
+  "width": 134,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(177,191,222,0.4)",
+      "borderColor": "#979797",
+      "gradient": "spread.vertical",
+      "gradientColor": "rgba(0,0,0,0)",
+      "cornerRadius": 6,
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "shape": "roundRect",
+      "width": 130,
+      "height": 12,
+      "x": 67,
+      "y": 8
+    },
+    {
+      "type": "Component",
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "width": 12,
+            "height": 1,
+            "comps": [
+              {
+                "type": "shape",
+                "borderWidth": 1,
+                "borderColor": "rgb(177,191,222)",
+                "borderPattern": [
+                  3
+                ],
+                "points": "list[\n  {\n    \"x\": 12,\n    \"y\": 0.5\n  },\n  {\n    \"x\": 0,\n    \"y\": 0.5\n  }\n]",
+                "unionRect": {
+                  "x": 0,
+                  "y": 0.5,
+                  "width": 12,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          "width": 12,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 0,
+      "speed": 0.5,
+      "component": "ht.drawing.marquee",
+      "width": 118,
+      "height": 1,
+      "x": 67,
+      "y": 2
+    },
+    {
+      "type": "Component",
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "width": 12,
+            "height": 1,
+            "comps": [
+              {
+                "type": "shape",
+                "borderWidth": 1,
+                "borderColor": "rgb(177,191,222)",
+                "borderPattern": [
+                  3
+                ],
+                "points": "list[\n  {\n    \"x\": 12,\n    \"y\": 0.5\n  },\n  {\n    \"x\": 0,\n    \"y\": 0.5\n  }\n]",
+                "unionRect": {
+                  "x": 0,
+                  "y": 0.5,
+                  "width": 12,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          "width": 12,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 0,
+      "speed": 0.5,
+      "component": "ht.drawing.marquee",
+      "width": 118,
+      "height": 1,
+      "x": 67,
+      "y": 14
+    },
+    {
+      "type": "Component",
+      "layoutH": "left",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Tue Mar 25 2025 11:42:08 GMT+0800 (中国标准时间)",
+        "width": 16,
+        "height": 16,
+        "comps": [
+          {
+            "type": "circle",
+            "background": "#9daac1",
+            "borderWidth": 1.5,
+            "borderColor": "#4a505b",
+            "rect": [
+              1.5,
+              1.5,
+              13,
+              13
+            ]
+          },
+          {
+            "type": "circle",
+            "borderWidth": 1,
+            "borderColor": "rgb(74,80,91)",
+            "borderCap": "round",
+            "borderPattern": [
+              0.0887,
+              4.1
+            ],
+            "opacity": 0.6,
+            "rect": [
+              4,
+              4,
+              8,
+              8
+            ]
+          },
+          {
+            "type": "circle",
+            "background": "#4a505b",
+            "rect": [
+              5.75,
+              5.75,
+              4.5,
+              4.5
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 16,
+      "height": 16,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Component",
+      "layoutH": "right",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Tue Mar 25 2025 11:42:08 GMT+0800 (中国标准时间)",
+        "width": 16,
+        "height": 16,
+        "comps": [
+          {
+            "type": "circle",
+            "background": "#9daac1",
+            "borderWidth": 1.5,
+            "borderColor": "#4a505b",
+            "rect": [
+              1.5,
+              1.5,
+              13,
+              13
+            ]
+          },
+          {
+            "type": "circle",
+            "borderWidth": 1,
+            "borderColor": "rgb(74,80,91)",
+            "borderCap": "round",
+            "borderPattern": [
+              0.0887,
+              4.1
+            ],
+            "opacity": 0.6,
+            "rect": [
+              4,
+              4,
+              8,
+              8
+            ]
+          },
+          {
+            "type": "circle",
+            "background": "#4a505b",
+            "rect": [
+              5.75,
+              5.75,
+              4.5,
+              4.5
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 16,
+      "height": 16,
+      "x": 126,
+      "y": 8
+    }
+  ],
+  "fitSize": true
+}

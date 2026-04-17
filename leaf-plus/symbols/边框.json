@@ -1,0 +1,572 @@
+{
+  "width": 300,
+  "height": 300,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#000000",
+      "pixelPerfect": true,
+      "opacity": 0.25,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 227.56503,
+          "y": 112.68528
+        },
+        {
+          "x": 19.65215,
+          "y": 112.68528
+        },
+        {
+          "x": 19.65215,
+          "y": 35.4421
+        },
+        {
+          "x": 54.08971,
+          "y": 5.18852
+        },
+        {
+          "x": 289.68142,
+          "y": 5.18852
+        },
+        {
+          "x": 289.68142,
+          "y": 49.2815
+        },
+        {
+          "x": 227.56503,
+          "y": 112.68528
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 3,
+      "borderColor": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 227.56503,
+          "y": 112.68528
+        },
+        {
+          "x": 19.65215,
+          "y": 112.68528
+        },
+        {
+          "x": 19.65215,
+          "y": 35.4421
+        },
+        {
+          "x": 54.08971,
+          "y": 5.18852
+        },
+        {
+          "x": 289.68142,
+          "y": 5.18852
+        },
+        {
+          "x": 289.68142,
+          "y": 49.2815
+        },
+        {
+          "x": 227.56503,
+          "y": 112.68528
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 26.08906,
+          "y": 106.69894
+        },
+        {
+          "x": 88.33419,
+          "y": 106.69894
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "scaleX": 0.8,
+      "scaleY": 0.8,
+      "points": [
+        {
+          "x": 63.61637,
+          "y": 106.68072
+        },
+        {
+          "x": 28.66383,
+          "y": 106.68072
+        },
+        {
+          "x": 36.64563,
+          "y": 100.24382
+        },
+        {
+          "x": 55.63458,
+          "y": 100.24382
+        },
+        {
+          "x": 63.61637,
+          "y": 106.68072
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 19.33029,
+          "y": 98.20218
+        },
+        {
+          "x": 10.31858,
+          "y": 107.21389
+        },
+        {
+          "x": 10.31858,
+          "y": 116.86928
+        },
+        {
+          "x": 30.72367,
+          "y": 116.86928
+        },
+        {
+          "x": 35.55135,
+          "y": 113.00713
+        },
+        {
+          "x": 19.13717,
+          "y": 113.00713
+        },
+        {
+          "x": 19.33029,
+          "y": 98.20218
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.5,
+      "borderColor": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 26.86149,
+          "y": 53.4655
+        },
+        {
+          "x": 26.86149,
+          "y": 37.18007
+        },
+        {
+          "x": 55.89206,
+          "y": 10.98175
+        },
+        {
+          "x": 157.91742,
+          "y": 10.98175
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "points": [
+        {
+          "x": 162.74513,
+          "y": 112.68528
+        },
+        {
+          "x": 171.88556,
+          "y": 103.86669
+        },
+        {
+          "x": 189.90897,
+          "y": 103.86669
+        },
+        {
+          "x": 199.75749,
+          "y": 112.81403
+        },
+        {
+          "x": 162.74513,
+          "y": 112.68528
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "scaleX": 0.9,
+      "scaleY": 0.9,
+      "points": [
+        {
+          "x": 270.14289,
+          "y": 69.36473
+        },
+        {
+          "x": 270.14289,
+          "y": 60.67487
+        },
+        {
+          "x": 285.849,
+          "y": 45.41934
+        },
+        {
+          "x": 285.849,
+          "y": 32.99607
+        },
+        {
+          "x": 290.09738,
+          "y": 28.23274
+        },
+        {
+          "x": 290.09738,
+          "y": 48.50907
+        },
+        {
+          "x": 270.14289,
+          "y": 69.36473
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ffffff",
+      "pixelPerfect": true,
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 138.73538,
+          "y": 121.69699
+        },
+        {
+          "x": 138.73538,
+          "y": 300
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@标题",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "22px arial",
+      "pixelPerfect": true,
+      "width": 71.37664,
+      "height": 31.81748,
+      "x": 96.42615,
+      "y": 27.80883
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@参数1",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 81.23614,
+      "height": 20.30902,
+      "x": 94.78025,
+      "y": 47.613820000000004
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@值1",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffb612",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 13.53936,
+      "height": 13.53936,
+      "x": 174.94871999999998,
+      "y": 47.83987
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@单位1"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 40.61806,
+      "height": 16.9242,
+      "x": 222.40613000000002,
+      "y": 47.42295
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@参数2",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 81.23614,
+      "height": 20.30902,
+      "x": 94.78025,
+      "y": 63.01484
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@值2",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffb612",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 13.53936,
+      "height": 13.53936,
+      "x": 174.94871999999998,
+      "y": 64.34714
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@单位2"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 29.78578,
+      "height": 16.9242,
+      "x": 222.40614,
+      "y": 64.34715
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@参数3",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 81.23614,
+      "height": 20.30902,
+      "x": 94.78025,
+      "y": 79.4877
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@值3",
+        "value": "123"
+      },
+      "align": "center",
+      "color": "#ffb612",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 13.53936,
+      "height": 13.53936,
+      "x": 174.94871999999998,
+      "y": 80.81998999999999
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@参数4"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 81.23614,
+      "height": 20.30902,
+      "x": 94.78025,
+      "y": 96.24266
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@值4"
+      },
+      "align": "center",
+      "color": "#ffb612",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 13.53936,
+      "height": 13.53936,
+      "x": 174.94871999999998,
+      "y": 97.57494
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@单位4"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 40.61806,
+      "height": 16.9242,
+      "x": 222.40613000000002,
+      "y": 97.57494
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@单位3"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "14px arial",
+      "pixelPerfect": true,
+      "width": 29.78578,
+      "height": 16.9242,
+      "x": 222.40614,
+      "y": 80.82
+    }
+  ],
+  "bind": [
+    {
+      "attr": "标题",
+      "valueType": "String"
+    },
+    {
+      "attr": "参数1",
+      "valueType": "String"
+    },
+    {
+      "attr": "值1",
+      "valueType": "Number"
+    },
+    {
+      "attr": "单位1",
+      "valueType": "String"
+    },
+    {
+      "attr": "参数2",
+      "valueType": "String"
+    },
+    {
+      "attr": "值2",
+      "valueType": "Number"
+    },
+    {
+      "attr": "单位2",
+      "valueType": "String"
+    },
+    {
+      "attr": "参数3",
+      "valueType": "String"
+    },
+    {
+      "attr": "值3",
+      "valueType": "Number"
+    },
+    {
+      "attr": "参数4",
+      "valueType": "String"
+    },
+    {
+      "attr": "值4",
+      "valueType": "Number"
+    },
+    {
+      "attr": "单位4",
+      "valueType": "String"
+    },
+    {
+      "attr": "单位3",
+      "valueType": "String"
+    }
+  ]
+}

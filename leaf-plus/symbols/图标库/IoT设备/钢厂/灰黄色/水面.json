@@ -1,0 +1,87 @@
+{
+  "width": 1000,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(86,172,209)",
+        1,
+        "rgba(22,67,145,0)"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1000,
+          "y": 0
+        },
+        {
+          "x": 1000,
+          "y": 100
+        },
+        {
+          "x": 0,
+          "y": 100
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "bubbleAnimation",
+      "rotation": 1.5708,
+      "emissionCount": 5,
+      "iconConfig": [
+        {
+          "type": "rect",
+          "background": "rgba(255,255,255,0.2)",
+          "width": 2,
+          "height": 8,
+          "weight": 1,
+          "swingFluctuation": 0
+        },
+        {
+          "type": "rect",
+          "background": "rgba(77,193,255,0.20)",
+          "width": 4,
+          "height": 16,
+          "weight": 1,
+          "swingFluctuation": 0
+        },
+        null,
+        null
+      ],
+      "straight": true,
+      "speed": 0.001,
+      "component": "ht.drawing.bubbleAnimation",
+      "width": 100,
+      "height": 1000,
+      "x": 500,
+      "y": 50
+    }
+  ]
+}

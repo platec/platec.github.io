@@ -1,0 +1,290 @@
+{
+  "width": 104,
+  "height": 77,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "vehicle",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 68.26623
+    },
+    {
+      "type": "Text",
+      "text": "T",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 62.952360000000006
+    },
+    {
+      "type": "Text",
+      "text": "ruck",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 18.60354,
+      "y": 62.952360000000006
+    },
+    {
+      "type": "Text",
+      "text": "information",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 44.55359
+    },
+    {
+      "type": "Text",
+      "text": "collection",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 39.22974
+    },
+    {
+      "type": "Text",
+      "text": "data",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 33.50634
+    },
+    {
+      "type": "Text",
+      "text": "support",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 28.182479999999998
+    },
+    {
+      "type": "Text",
+      "text": "PLC ",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 15.856710000000001
+    },
+    {
+      "type": "Text",
+      "text": "component",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 16.31618,
+      "y": 10.532850000000002
+    },
+    {
+      "type": "Text",
+      "text": "vehicle",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 74.68883,
+      "y": 68.26623
+    },
+    {
+      "type": "Text",
+      "text": "T",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 77.28582999999999,
+      "y": 62.952360000000006
+    },
+    {
+      "type": "Text",
+      "text": "ruck",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 79.57319,
+      "y": 62.952360000000006
+    },
+    {
+      "type": "Text",
+      "text": "information",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 67.36726999999999,
+      "y": 44.55359
+    },
+    {
+      "type": "Text",
+      "text": "collection",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 70.47368999999999,
+      "y": 39.22974
+    },
+    {
+      "type": "Text",
+      "text": "data",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 79.35343999999999,
+      "y": 33.50634
+    },
+    {
+      "type": "Text",
+      "text": "support",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 73.79984999999999,
+      "y": 28.182479999999998
+    },
+    {
+      "type": "Text",
+      "text": "PLC ",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 78.24472,
+      "y": 15.856710000000001
+    },
+    {
+      "type": "Text",
+      "text": "component",
+      "color": "#4dd8ff",
+      "font": "12px ArialMT, Arial",
+      "pixelPerfect": true,
+      "scaleX": 0.33295,
+      "scaleY": 0.33295,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 67.35728999999999,
+      "y": 10.532850000000002
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.24971,
+      "borderColor": "#4dd8ff",
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 2.19746,
+          "y": 76.8713
+        },
+        {
+          "x": 0,
+          "y": 76.8713
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 2.19746,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.24971,
+      "borderColor": "#4dd8ff",
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 100.72378,
+          "y": 0
+        },
+        {
+          "x": 102.92124,
+          "y": 0
+        },
+        {
+          "x": 102.92124,
+          "y": 76.8713
+        },
+        {
+          "x": 100.72378,
+          "y": 76.8713
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": -1.22173,
+      "arcTo": 0.17453,
+      "arcClose": false,
+      "shape": "arc",
+      "width": 11.5,
+      "height": 11.5,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "anchorY": 2.1,
+      "shape": "oval",
+      "width": 3.5,
+      "height": 3.5,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "anchorY": 2.1,
+      "rotation": 2.0944,
+      "shape": "oval",
+      "width": 3.5,
+      "height": 3.5,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "anchorY": 2.1,
+      "rotation": 4.18879,
+      "shape": "oval",
+      "width": 3.5,
+      "height": 3.5,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": 0.87266,
+      "arcTo": -4.01426,
+      "arcClose": false,
+      "shape": "arc",
+      "width": 11.5,
+      "height": 11.5,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": 2.96706,
+      "arcTo": 4.36332,
+      "arcClose": false,
+      "shape": "arc",
+      "width": 11.5,
+      "height": 11.5,
+      "x": 8,
+      "y": 8
+    }
+  ]
+}

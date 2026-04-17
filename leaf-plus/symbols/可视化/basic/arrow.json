@@ -1,0 +1,50 @@
+{
+  "width": 100,
+  "height": 50,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 5,
+      "borderColor": "black",
+      "border3d": true,
+      "points": [
+        {
+          "x": 20,
+          "y": 25
+        },
+        {
+          "x": 70,
+          "y": 25
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@arrow.color",
+        "value": "black"
+      },
+      "borderWidth": 1,
+      "borderColor": "#40ACFF",
+      "gradient": "spread.vertical",
+      "points": [
+        {
+          "x": 60,
+          "y": 10
+        },
+        {
+          "x": 60,
+          "y": 40
+        },
+        {
+          "x": 80,
+          "y": 25
+        },
+        {
+          "x": 60,
+          "y": 10
+        }
+      ]
+    }
+  ]
+}

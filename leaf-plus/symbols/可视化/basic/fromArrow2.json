@@ -1,0 +1,15 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "red",
+      "shape": "circle",
+      "width": 10,
+      "height": 10,
+      "x": 6,
+      "y": 6
+    }
+  ]
+}

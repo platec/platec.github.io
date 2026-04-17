@@ -1,0 +1,399 @@
+{
+  "width": 112,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0.001,
+        "rgb(57,127,189)",
+        0.23043,
+        "rgb(146,199,240)",
+        0.8,
+        "rgb(46,102,176)",
+        1,
+        "rgb(72,120,184)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.90217,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgba(78,103,145,0)",
+        0.5913,
+        "rgb(78,103,145)",
+        1,
+        "rgba(78,103,145,0.4)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 22
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 112,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 42
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0.001,
+        "rgb(57,127,189)",
+        0.23043,
+        "rgb(146,199,240)",
+        0.8,
+        "rgb(46,102,176)",
+        1,
+        "rgb(72,120,184)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 12,
+          "y": 0
+        },
+        {
+          "x": 100,
+          "y": 0
+        },
+        {
+          "x": 100,
+          "y": 0
+        },
+        {
+          "x": 100,
+          "y": 0
+        },
+        {
+          "x": 100,
+          "y": 64
+        },
+        {
+          "x": 100,
+          "y": 64
+        },
+        {
+          "x": 100,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(120,144,158)",
+      "borderColor": "#979797",
+      "gradientColor": "rgb(202,221,232)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0.001,
+        "rgb(57,127,189)",
+        0.23043,
+        "rgb(146,199,240)",
+        0.8,
+        "rgb(46,102,176)",
+        1,
+        "rgb(72,120,184)"
+      ],
+      "fillClipDirection": "right",
+      "fillClipPercentage": 0.5,
+      "pixelPerfect": true,
+      "shape": "oval",
+      "width": 16,
+      "height": 64,
+      "x": 12,
+      "y": 32
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(120,144,158)",
+      "borderColor": "#979797",
+      "gradientColor": "rgb(202,221,232)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0.001,
+        "rgb(57,127,189)",
+        0.23043,
+        "rgb(146,199,240)",
+        0.8,
+        "rgb(46,102,176)",
+        1,
+        "rgb(72,120,184)"
+      ],
+      "fillClipDirection": "left",
+      "fillClipPercentage": 0.5,
+      "pixelPerfect": true,
+      "shape": "oval",
+      "width": 16,
+      "height": 64,
+      "x": 100,
+      "y": 32
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(120,144,158)",
+      "borderColor": "#979797",
+      "gradientColor": "rgb(202,221,232)",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        0.5,
+        0.5,
+        0,
+        "rgb(173,200,222)",
+        1,
+        "rgba(173,200,222,0)"
+      ],
+      "fillClipDirection": "right",
+      "fillClipPercentage": 0.5,
+      "pixelPerfect": true,
+      "opacity": 0.6,
+      "shape": "oval",
+      "width": 16,
+      "height": 64,
+      "x": 12,
+      "y": 32
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(120,144,158)",
+      "borderColor": "#979797",
+      "gradientColor": "rgb(202,221,232)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgba(78,103,145,0)",
+        1,
+        "rgb(78,103,145)"
+      ],
+      "fillClipDirection": "left",
+      "fillClipPercentage": 0.5,
+      "pixelPerfect": true,
+      "opacity": 0.6,
+      "shape": "oval",
+      "width": 16,
+      "height": 64,
+      "x": 100,
+      "y": 32
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgba(255,255,255,0)",
+        0.21304,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0)"
+      ],
+      "opacity": 0.7,
+      "shadowColor": "rgba(6,30,71,0.5)",
+      "shadowBlur": 2,
+      "shadowOffsetX": 0.5,
+      "shadowOffsetY": 0.5,
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 20,
+      "height": 0.5,
+      "x": 0.25,
+      "y": 32
+    }
+  ],
+  "cacheRule": true
+}

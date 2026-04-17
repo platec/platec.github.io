@@ -1,0 +1,44 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "cornerRadius": 2,
+      "shape": "roundRect",
+      "width": 10.71011,
+      "height": 13.85574,
+      "x": 7.999995,
+      "y": 8
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "points": [
+        {
+          "x": 2.60303,
+          "y": 7.90359
+        },
+        {
+          "x": 6.20871,
+          "y": 4.87636
+        },
+        {
+          "x": 9.39019,
+          "y": 11.12364
+        },
+        {
+          "x": 13.18868,
+          "y": 8.53989
+        }
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    }
+  ]
+}

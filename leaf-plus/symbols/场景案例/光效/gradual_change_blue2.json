@@ -1,0 +1,18 @@
+{
+  "width": 64,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(51,153,255,0.12)",
+      "borderColor": "#979797",
+      "gradient": "spread.horizontal",
+      "gradientColor": "rgb(51,153,255)",
+      "shape": "rect",
+      "width": 64,
+      "height": 64,
+      "x": 32,
+      "y": 32
+    }
+  ]
+}

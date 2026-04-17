@@ -1,0 +1,114 @@
+{
+  "width": 60,
+  "height": 60,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgb(84,255,252)",
+        1,
+        "rgba(69,199,255,0.87)"
+      ],
+      "shape": "oval",
+      "width": 25,
+      "height": 50,
+      "x": 30,
+      "y": 30
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgb(84,255,252)",
+        1,
+        "rgba(69,199,255,0.87)"
+      ],
+      "rotation": 2.0944,
+      "shape": "oval",
+      "width": 25,
+      "height": 50,
+      "x": 30,
+      "y": 30
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgb(84,255,252)",
+        1,
+        "rgba(69,199,255,0.87)"
+      ],
+      "rotation": 1.0472,
+      "shape": "oval",
+      "width": 25,
+      "height": 50,
+      "x": 30,
+      "y": 30
+    },
+    {
+      "type": "Shape",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgba(47,124,185,0.87)",
+        1,
+        "rgb(84,227,255)"
+      ],
+      "opacity": 0.5,
+      "shape": "oval",
+      "width": 16,
+      "height": 16,
+      "x": 30,
+      "y": 30
+    },
+    {
+      "type": "Shape",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgba(47,124,185,0.87)",
+        1,
+        "rgb(84,227,255)"
+      ],
+      "shape": "oval",
+      "width": 8,
+      "height": 8,
+      "x": 30,
+      "y": 30
+    }
+  ],
+  "bind": [],
+  "cacheRule": true
+}

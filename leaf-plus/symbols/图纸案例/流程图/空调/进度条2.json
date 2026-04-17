@@ -1,0 +1,70 @@
+{
+  "width": 121,
+  "height": 26,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nvar pct = data.a('pct');\r\nreturn Number(pct).toFixed(0);\n}",
+        "value": "15"
+      },
+      "align": "center",
+      "color": "rgb(242,75,78)",
+      "font": "16px MicrosoftYaHei, \"Microsoft YaHei\"",
+      "pixelPerfect": true,
+      "width": 31.001,
+      "height": 0.001,
+      "x": 89.51429,
+      "y": 11.2177
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "阀开度"
+      },
+      "align": "right",
+      "color": "#e2e2e2",
+      "font": "16px MicrosoftYaHei, \"Microsoft YaHei\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 79.35919,
+      "y": 10.2177
+    },
+    {
+      "type": "Text",
+      "text": "%",
+      "align": "center",
+      "color": "#e2e2e2",
+      "font": "16px MicrosoftYaHei, \"Microsoft YaHei\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 110.92893000000001,
+      "y": 11.2177
+    },
+    {
+      "type": "Image",
+      "displayName": "进度条",
+      "scaleX": 0.95,
+      "scaleY": 0.95,
+      "image": "symbols/图纸案例/流程图/空调/进度条.json",
+      "width": 76,
+      "height": 6,
+      "x": 66.59703,
+      "y": 23.11713
+    }
+  ],
+  "bind": [
+    {
+      "attr": "pct",
+      "valueType": "Multiline",
+      "defaultValue": "15"
+    },
+    {
+      "attr": "name",
+      "valueType": "Multiline"
+    }
+  ]
+}

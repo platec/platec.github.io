@@ -1,0 +1,73 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "pixelPerfect": true,
+      "layoutH": "center",
+      "layoutV": "center",
+      "scaleX": -1,
+      "points": [
+        {
+          "x": 0,
+          "y": 3.5
+        },
+        {
+          "x": 2,
+          "y": 3.5
+        },
+        {
+          "x": 7,
+          "y": 8.5
+        },
+        {
+          "x": 5,
+          "y": 8.5
+        },
+        {
+          "x": 0,
+          "y": 3.5
+        },
+        {
+          "x": 0,
+          "y": 3.5
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "layoutH": "center",
+      "layoutV": "center",
+      "scaleX": -1,
+      "points": [
+        {
+          "x": 7.5,
+          "y": 4
+        },
+        {
+          "x": 3,
+          "y": 8.5
+        },
+        {
+          "x": 12,
+          "y": 8.5
+        },
+        {
+          "x": 7.5,
+          "y": 4
+        },
+        {
+          "x": 7.5,
+          "y": 4
+        }
+      ]
+    }
+  ]
+}

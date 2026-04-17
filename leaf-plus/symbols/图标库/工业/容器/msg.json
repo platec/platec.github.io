@@ -1,0 +1,115 @@
+{
+  "width": 100,
+  "height": 35,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(43,43,43)",
+      "fillRule": "evenodd",
+      "shadowColor": "#1ABC9C",
+      "scaleX": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 98.45968,
+          "y": 15.59686
+        },
+        {
+          "x": 98.45968,
+          "y": 31.07281
+        },
+        {
+          "x": 96.27705,
+          "y": 33.58102
+        },
+        {
+          "x": 0.90184,
+          "y": 33.58102
+        },
+        {
+          "x": 0.90184,
+          "y": 15.58102
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(89,89,89)",
+      "borderCap": "round",
+      "fillRule": "evenodd",
+      "shadowColor": "#1ABC9C",
+      "scaleX": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 98.45968,
+          "y": 15.58103
+        },
+        {
+          "x": 98.45968,
+          "y": 20.54963
+        },
+        {
+          "x": 95.73376,
+          "y": 23.75346
+        },
+        {
+          "x": 19.73668,
+          "y": 23.75346
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@unit",
+        "value": "MPa"
+      },
+      "align": "right",
+      "color": "rgb(89,89,89)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 98.4592,
+      "y": 24.58252
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@title",
+        "value": "压差"
+      },
+      "color": "rgb(255,255,255)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 19.736169999999998,
+      "y": 7.790509999999999
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@value",
+        "value": "0.0002"
+      },
+      "color": "#ff8400",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 5.78112,
+      "y": 24.581519999999998
+    }
+  ],
+  "bind": [
+    {
+      "attr": "unit",
+      "valueType": "String"
+    },
+    {
+      "attr": "title",
+      "valueType": "String"
+    },
+    {
+      "attr": "value",
+      "valueType": "Number"
+    }
+  ]
+}

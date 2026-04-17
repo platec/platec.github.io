@@ -1,0 +1,41 @@
+{
+  "width": 40,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "red",
+      "shape": "rect",
+      "width": 8,
+      "height": 4,
+      "x": 6,
+      "y": 10
+    },
+    {
+      "type": "Polyline",
+      "background": "red",
+      "borderWidth": 1,
+      "borderColor": "red",
+      "gradient": "spread.vertical",
+      "closePath": true,
+      "points": [
+        {
+          "x": 5,
+          "y": 2
+        },
+        {
+          "x": 10,
+          "y": 10
+        },
+        {
+          "x": 5,
+          "y": 18
+        },
+        {
+          "x": 20,
+          "y": 10
+        }
+      ]
+    }
+  ]
+}

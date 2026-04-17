@@ -1,0 +1,331 @@
+{
+  "width": 254,
+  "height": 18,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#20232a",
+        0,
+        "#21242b",
+        0.13,
+        "#383d48",
+        0.26,
+        "#494f5c",
+        0.38,
+        "#545a69",
+        0.5,
+        "#575e6d",
+        0.62,
+        "#545a69",
+        0.74,
+        "#494f5c",
+        0.87,
+        "#383d48",
+        1,
+        "#21242b",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 62.77473,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 11.99804
+        },
+        {
+          "x": 218.26928,
+          "y": 11.99804
+        },
+        {
+          "x": 218.26928,
+          "y": 11.99804
+        },
+        {
+          "x": 62.77473,
+          "y": 11.99804
+        },
+        {
+          "x": 62.77473,
+          "y": 11.99804
+        },
+        {
+          "x": 62.77473,
+          "y": 11.99804
+        },
+        {
+          "x": 62.77473,
+          "y": 0
+        },
+        {
+          "x": 62.77473,
+          "y": 0
+        },
+        {
+          "x": 62.77473,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#20232a",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 62.77473,
+          "y": 0.99984
+        },
+        {
+          "x": 218.26928,
+          "y": 0.99984
+        },
+        {
+          "x": 218.26928,
+          "y": 0.99984
+        },
+        {
+          "x": 218.26928,
+          "y": 0.99984
+        },
+        {
+          "x": 218.26928,
+          "y": 10.9982
+        },
+        {
+          "x": 218.26928,
+          "y": 10.9982
+        },
+        {
+          "x": 218.26928,
+          "y": 10.9982
+        },
+        {
+          "x": 62.77473,
+          "y": 10.9982
+        },
+        {
+          "x": 62.77473,
+          "y": 10.9982
+        },
+        {
+          "x": 62.77473,
+          "y": 10.9982
+        },
+        {
+          "x": 62.77473,
+          "y": 0.99984
+        },
+        {
+          "x": 62.77473,
+          "y": 0.99984
+        },
+        {
+          "x": 62.77473,
+          "y": 0.99984
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": "symbols/图标库/IoT设备/水泥厂/粒子.json",
+          "width": 68,
+          "height": 6,
+          "gap": 6
+        }
+      ],
+      "direction": {
+        "func": "attr@direction"
+      },
+      "connect": true,
+      "connectGap": 0,
+      "speed": {
+        "func": "attr@speed",
+        "value": 0.8
+      },
+      "component": "ht.drawing.marquee",
+      "width": 139.88888,
+      "height": 15.23914,
+      "x": 129.71289000000002,
+      "y": 6.23899
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.49987,
+        0,
+        0.49987,
+        1.00058,
+        0,
+        "#20232a",
+        0,
+        "#21242b",
+        0.13,
+        "#383d48",
+        0.26,
+        "#494f5c",
+        0.38,
+        "#545a69",
+        0.5,
+        "#575e6d",
+        0.62,
+        "#545a69",
+        0.74,
+        "#494f5c",
+        0.87,
+        "#383d48",
+        1,
+        "#21242b",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "points": [
+        {
+          "x": 218.26928,
+          "y": 17.29717
+        },
+        {
+          "x": 202.59184,
+          "y": 17.29717
+        },
+        {
+          "x": 181.04537,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 0
+        },
+        {
+          "x": 218.26928,
+          "y": 17.29717
+        },
+        {
+          "x": 218.26928,
+          "y": 17.29717
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "#232F3A",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 35.73072,
+      "height": 7,
+      "x": 236.13464000000002,
+      "y": 6.23898
+    },
+    {
+      "type": "Shape",
+      "background": "#232F3A",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 62.77472,
+      "height": 7,
+      "x": 31.38736,
+      "y": 6.23898
+    }
+  ],
+  "bind": [
+    {
+      "attr": "direction",
+      "valueType": "String",
+      "name": "editor.valuetype.direction",
+      "extraInfo": {
+        "enum": {
+          "values": [
+            "left",
+            "right",
+            "pingpong"
+          ],
+          "i18nLabels": [
+            "drawing.toleft",
+            "drawing.toright",
+            "drawing.pingpong"
+          ]
+        }
+      }
+    },
+    {
+      "attr": "speed",
+      "valueType": "PositiveNumber",
+      "name": "drawing.speed"
+    }
+  ],
+  "fitSize": true
+}

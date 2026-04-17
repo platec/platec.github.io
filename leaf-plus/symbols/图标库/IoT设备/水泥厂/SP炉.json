@@ -1,0 +1,2920 @@
+{
+  "width": 94,
+  "height": 174,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.49977,
+        1,
+        0.49977,
+        0,
+        "#20232a",
+        0.5,
+        "#a2a8b6",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 31.00493,
+          "y": 16.38748
+        },
+        {
+          "x": 49.00198,
+          "y": 16.38748
+        },
+        {
+          "x": 60.00018,
+          "y": 37.71399
+        },
+        {
+          "x": 20.00673,
+          "y": 37.71399
+        },
+        {
+          "x": 31.00493,
+          "y": 16.38748
+        },
+        {
+          "x": 31.00493,
+          "y": 16.38748
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 31.00493,
+          "y": 172.60191
+        },
+        {
+          "x": 20.00673,
+          "y": 151.2754
+        },
+        {
+          "x": 60.00018,
+          "y": 151.2754
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 150.28556
+        },
+        {
+          "x": 60.00018,
+          "y": 150.28556
+        },
+        {
+          "x": 60.00018,
+          "y": 150.28556
+        },
+        {
+          "x": 20.00673,
+          "y": 150.28556
+        },
+        {
+          "x": 20.00673,
+          "y": 150.28556
+        },
+        {
+          "x": 20.00673,
+          "y": 150.28556
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5,
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#20232a",
+        0.5,
+        "#454952",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 31.00493,
+          "y": 172.60191
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 49.00198,
+          "y": 172.60191
+        },
+        {
+          "x": 49.00198,
+          "y": 174.60158
+        },
+        {
+          "x": 49.00198,
+          "y": 174.60158
+        },
+        {
+          "x": 49.00198,
+          "y": 174.60158
+        },
+        {
+          "x": 31.00493,
+          "y": 174.60158
+        },
+        {
+          "x": 31.00493,
+          "y": 174.60158
+        },
+        {
+          "x": 31.00493,
+          "y": 174.60158
+        },
+        {
+          "x": 31.00493,
+          "y": 172.60191
+        },
+        {
+          "x": 31.00493,
+          "y": 172.60191
+        },
+        {
+          "x": 31.00493,
+          "y": 172.60191
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(22,30,38)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 23.30619,
+          "y": 41.78332
+        },
+        {
+          "x": 56.71073,
+          "y": 41.78332
+        },
+        {
+          "x": 56.71073,
+          "y": 41.78332
+        },
+        {
+          "x": 56.71073,
+          "y": 41.78332
+        },
+        {
+          "x": 56.71073,
+          "y": 148.06593
+        },
+        {
+          "x": 56.71073,
+          "y": 148.06593
+        },
+        {
+          "x": 56.71073,
+          "y": 148.06593
+        },
+        {
+          "x": 23.30619,
+          "y": 148.06593
+        },
+        {
+          "x": 23.30619,
+          "y": 148.06593
+        },
+        {
+          "x": 23.30619,
+          "y": 148.06593
+        },
+        {
+          "x": 23.30619,
+          "y": 41.78332
+        },
+        {
+          "x": 23.30619,
+          "y": 41.78332
+        },
+        {
+          "x": 23.30619,
+          "y": 41.78332
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.99984,
+      "borderColor": "#4080ff",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 1.18981,
+          "y": 137.29769
+        },
+        {
+          "x": 55.98084,
+          "y": 137.29769
+        },
+        {
+          "x": 55.98084,
+          "y": 134.92234
+        },
+        {
+          "x": 24.33602,
+          "y": 134.92234
+        },
+        {
+          "x": 24.33602,
+          "y": 132.54442
+        },
+        {
+          "x": 55.98084,
+          "y": 132.54442
+        },
+        {
+          "x": 55.98084,
+          "y": 130.13006
+        },
+        {
+          "x": 24.33602,
+          "y": 130.13006
+        },
+        {
+          "x": 24.33602,
+          "y": 127.82407
+        },
+        {
+          "x": 55.98084,
+          "y": 127.82407
+        },
+        {
+          "x": 55.98084,
+          "y": 125.44963
+        },
+        {
+          "x": 24.33602,
+          "y": 125.44963
+        },
+        {
+          "x": 24.33602,
+          "y": 123.08002
+        },
+        {
+          "x": 90.67516,
+          "y": 123.08002
+        },
+        {
+          "x": 90.67516,
+          "y": 64.07967
+        },
+        {
+          "x": 87.4357,
+          "y": 54.32127
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.99984,
+      "borderColor": "#4080ff",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 83.71631,
+          "y": 53.98133
+        },
+        {
+          "x": 83.71631,
+          "y": 111.46192
+        },
+        {
+          "x": 60.03018,
+          "y": 111.46192
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.99984,
+      "borderColor": "#ffb62b",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 81.34669,
+          "y": 53.98133
+        },
+        {
+          "x": 77.6073,
+          "y": 64.45961
+        },
+        {
+          "x": 77.6073,
+          "y": 90.36537
+        },
+        {
+          "x": 24.33602,
+          "y": 90.36537
+        },
+        {
+          "x": 24.33602,
+          "y": 92.72998
+        },
+        {
+          "x": 55.98084,
+          "y": 92.72998
+        },
+        {
+          "x": 55.98084,
+          "y": 95.03461
+        },
+        {
+          "x": 24.33602,
+          "y": 95.03461
+        },
+        {
+          "x": 24.33602,
+          "y": 97.40422
+        },
+        {
+          "x": 55.98084,
+          "y": 97.40422
+        },
+        {
+          "x": 55.98084,
+          "y": 99.77059
+        },
+        {
+          "x": 24.33602,
+          "y": 99.77059
+        },
+        {
+          "x": 24.33602,
+          "y": 102.05494
+        },
+        {
+          "x": 55.98084,
+          "y": 102.05494
+        },
+        {
+          "x": 55.98084,
+          "y": 104.43307
+        },
+        {
+          "x": 24.33602,
+          "y": 104.43307
+        },
+        {
+          "x": 24.33602,
+          "y": 106.81388
+        },
+        {
+          "x": 55.98084,
+          "y": 106.81388
+        },
+        {
+          "x": 55.98084,
+          "y": 109.21422
+        },
+        {
+          "x": 24.33602,
+          "y": 109.21422
+        },
+        {
+          "x": 24.33602,
+          "y": 111.46192
+        },
+        {
+          "x": 60.14015,
+          "y": 111.46192
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.99984,
+      "borderColor": "#f6140e",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 84.25621,
+          "y": 42.08327
+        },
+        {
+          "x": 84.25621,
+          "y": 22.54647
+        },
+        {
+          "x": 71.41832,
+          "y": 22.54647
+        },
+        {
+          "x": 71.41832,
+          "y": 81.0069
+        },
+        {
+          "x": 24.33602,
+          "y": 81.0069
+        },
+        {
+          "x": 24.33602,
+          "y": 78.5973
+        },
+        {
+          "x": 55.98084,
+          "y": 78.5973
+        },
+        {
+          "x": 55.98084,
+          "y": 76.19769
+        },
+        {
+          "x": 24.33602,
+          "y": 76.19769
+        },
+        {
+          "x": 24.33602,
+          "y": 73.71575
+        },
+        {
+          "x": 55.98084,
+          "y": 73.71575
+        },
+        {
+          "x": 55.98084,
+          "y": 71.24813
+        },
+        {
+          "x": 24.33602,
+          "y": 71.24813
+        },
+        {
+          "x": 24.33602,
+          "y": 68.79398
+        },
+        {
+          "x": 55.98084,
+          "y": 68.79398
+        },
+        {
+          "x": 55.98084,
+          "y": 66.33758
+        },
+        {
+          "x": 24.33602,
+          "y": 66.33758
+        },
+        {
+          "x": 24.33602,
+          "y": 63.9297
+        },
+        {
+          "x": 65.68926,
+          "y": 63.9297
+        },
+        {
+          "x": 65.68926,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#111416",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 90.94511,
+          "y": 48.0623
+        },
+        {
+          "x": 90.94511,
+          "y": 44.18993
+        },
+        {
+          "x": 87.75864,
+          "y": 41.00345
+        },
+        {
+          "x": 83.88628,
+          "y": 41.00345
+        },
+        {
+          "x": 80.01391,
+          "y": 41.00345
+        },
+        {
+          "x": 76.82743,
+          "y": 44.18993
+        },
+        {
+          "x": 76.82743,
+          "y": 48.0623
+        },
+        {
+          "x": 76.82743,
+          "y": 51.93466
+        },
+        {
+          "x": 80.01391,
+          "y": 55.12114
+        },
+        {
+          "x": 83.88628,
+          "y": 55.12114
+        },
+        {
+          "x": 87.75864,
+          "y": 55.12114
+        },
+        {
+          "x": 90.94511,
+          "y": 51.93466
+        },
+        {
+          "x": 90.94511,
+          "y": 48.0623
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.99984,
+      "borderColor": "#7f7f7f",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 90.94511,
+          "y": 48.0623
+        },
+        {
+          "x": 90.94511,
+          "y": 44.18993
+        },
+        {
+          "x": 87.75864,
+          "y": 41.00345
+        },
+        {
+          "x": 83.88628,
+          "y": 41.00345
+        },
+        {
+          "x": 80.01391,
+          "y": 41.00345
+        },
+        {
+          "x": 76.82743,
+          "y": 44.18993
+        },
+        {
+          "x": 76.82743,
+          "y": 48.0623
+        },
+        {
+          "x": 76.82743,
+          "y": 51.93466
+        },
+        {
+          "x": 80.01391,
+          "y": 55.12114
+        },
+        {
+          "x": 83.88628,
+          "y": 55.12114
+        },
+        {
+          "x": 87.75864,
+          "y": 55.12114
+        },
+        {
+          "x": 90.94511,
+          "y": 51.93466
+        },
+        {
+          "x": 90.94511,
+          "y": 48.0623
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#7f7f7f",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 84.9561,
+          "y": 44.49288
+        },
+        {
+          "x": 84.9561,
+          "y": 44.74261
+        },
+        {
+          "x": 84.82244,
+          "y": 44.97413
+        },
+        {
+          "x": 84.60616,
+          "y": 45.099
+        },
+        {
+          "x": 84.38988,
+          "y": 45.22387
+        },
+        {
+          "x": 84.12255,
+          "y": 45.22387
+        },
+        {
+          "x": 83.90627,
+          "y": 45.099
+        },
+        {
+          "x": 83.69,
+          "y": 44.97413
+        },
+        {
+          "x": 83.55633,
+          "y": 44.74261
+        },
+        {
+          "x": 83.55633,
+          "y": 44.49288
+        },
+        {
+          "x": 83.55633,
+          "y": 44.10294
+        },
+        {
+          "x": 83.86628,
+          "y": 43.03312
+        },
+        {
+          "x": 84.25621,
+          "y": 43.03312
+        },
+        {
+          "x": 84.64614,
+          "y": 43.03312
+        },
+        {
+          "x": 84.9561,
+          "y": 44.09295
+        },
+        {
+          "x": 84.9561,
+          "y": 44.49288
+        },
+        {
+          "x": 83.51634,
+          "y": 47.77234
+        },
+        {
+          "x": 83.51634,
+          "y": 48.02208
+        },
+        {
+          "x": 83.38267,
+          "y": 48.25359
+        },
+        {
+          "x": 83.1664,
+          "y": 48.37846
+        },
+        {
+          "x": 82.95012,
+          "y": 48.50333
+        },
+        {
+          "x": 82.68279,
+          "y": 48.50333
+        },
+        {
+          "x": 82.46651,
+          "y": 48.37846
+        },
+        {
+          "x": 82.25023,
+          "y": 48.25359
+        },
+        {
+          "x": 82.11657,
+          "y": 48.02208
+        },
+        {
+          "x": 82.11657,
+          "y": 47.77234
+        },
+        {
+          "x": 82.11657,
+          "y": 47.39241
+        },
+        {
+          "x": 82.43651,
+          "y": 46.31258
+        },
+        {
+          "x": 82.81644,
+          "y": 46.31258
+        },
+        {
+          "x": 83.19639,
+          "y": 46.31258
+        },
+        {
+          "x": 83.51634,
+          "y": 47.39241
+        },
+        {
+          "x": 83.51634,
+          "y": 47.77234
+        },
+        {
+          "x": 86.07592,
+          "y": 48.44223
+        },
+        {
+          "x": 86.07592,
+          "y": 48.82618
+        },
+        {
+          "x": 85.75997,
+          "y": 49.14212
+        },
+        {
+          "x": 85.37603,
+          "y": 49.14212
+        },
+        {
+          "x": 84.99209,
+          "y": 49.14212
+        },
+        {
+          "x": 84.67615,
+          "y": 48.82618
+        },
+        {
+          "x": 84.67615,
+          "y": 48.44223
+        },
+        {
+          "x": 84.67615,
+          "y": 48.0523
+        },
+        {
+          "x": 84.9861,
+          "y": 46.98247
+        },
+        {
+          "x": 85.37603,
+          "y": 46.98247
+        },
+        {
+          "x": 85.76596,
+          "y": 46.98247
+        },
+        {
+          "x": 86.07592,
+          "y": 48.09229
+        },
+        {
+          "x": 86.07592,
+          "y": 48.44223
+        },
+        {
+          "x": 84.57616,
+          "y": 51.15179
+        },
+        {
+          "x": 84.60833,
+          "y": 51.4195
+        },
+        {
+          "x": 84.48305,
+          "y": 51.68296
+        },
+        {
+          "x": 84.2551,
+          "y": 51.82698
+        },
+        {
+          "x": 84.02715,
+          "y": 51.971
+        },
+        {
+          "x": 83.73541,
+          "y": 51.971
+        },
+        {
+          "x": 83.50745,
+          "y": 51.82698
+        },
+        {
+          "x": 83.27949,
+          "y": 51.68296
+        },
+        {
+          "x": 83.15422,
+          "y": 51.4195
+        },
+        {
+          "x": 83.18639,
+          "y": 51.15179
+        },
+        {
+          "x": 83.18639,
+          "y": 50.77185
+        },
+        {
+          "x": 83.49633,
+          "y": 49.69203
+        },
+        {
+          "x": 83.88628,
+          "y": 49.69203
+        },
+        {
+          "x": 84.27621,
+          "y": 49.69203
+        },
+        {
+          "x": 84.57616,
+          "y": 50.77185
+        },
+        {
+          "x": 84.57616,
+          "y": 51.15179
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        1,
+        4,
+        4,
+        4,
+        4,
+        5,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#20232a",
+        0.5,
+        "#454952",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.00673,
+          "y": 37.71399
+        },
+        {
+          "x": 60.00018,
+          "y": 37.71399
+        },
+        {
+          "x": 60.00018,
+          "y": 37.71399
+        },
+        {
+          "x": 60.00018,
+          "y": 37.71399
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 60.00018,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 38.71383
+        },
+        {
+          "x": 20.00673,
+          "y": 37.71399
+        },
+        {
+          "x": 20.00673,
+          "y": 37.71399
+        },
+        {
+          "x": 20.00673,
+          "y": 37.71399
+        },
+        {
+          "x": 20.00673,
+          "y": 150.27556
+        },
+        {
+          "x": 60.00018,
+          "y": 150.27556
+        },
+        {
+          "x": 60.00018,
+          "y": 150.27556
+        },
+        {
+          "x": 60.00018,
+          "y": 150.27556
+        },
+        {
+          "x": 60.00018,
+          "y": 151.2754
+        },
+        {
+          "x": 60.00018,
+          "y": 151.2754
+        },
+        {
+          "x": 60.00018,
+          "y": 151.2754
+        },
+        {
+          "x": 20.00673,
+          "y": 151.2754
+        },
+        {
+          "x": 20.00673,
+          "y": 151.2754
+        },
+        {
+          "x": 20.00673,
+          "y": 151.2754
+        },
+        {
+          "x": 20.00673,
+          "y": 150.27556
+        },
+        {
+          "x": 20.00673,
+          "y": 150.27556
+        },
+        {
+          "x": 20.00673,
+          "y": 150.27556
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5,
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 66.13063,
+      "height": 1,
+      "x": 33.065315,
+      "y": 1
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 63.41868,
+      "height": 1,
+      "x": 65.63063,
+      "y": 32.70934
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 42.23882,
+      "height": 1,
+      "x": 45.01121,
+      "y": 63.91868
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 66.35736
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 68.79603
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 71.23471
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 73.67338
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 76.11206
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 78.55073
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 47.98144,
+      "height": 1,
+      "x": 47.88252,
+      "y": 80.98941
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 56.67048,
+      "height": 1,
+      "x": 83.71631,
+      "y": 83.64635
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 60.32451,
+      "height": 1,
+      "x": 54.054055,
+      "y": 111.48159
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 95.05482
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 97.4015
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 99.74818
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 102.09486
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 104.44154
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 106.78822
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 109.1349
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 92.70814
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 54.22593,
+      "height": 1,
+      "x": 51.004765,
+      "y": 90.36146
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 26.44278,
+      "height": 1,
+      "x": 77.61773,
+      "y": 77.64007
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.91114,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 9.37206,
+      "height": 1,
+      "x": 79.45135,
+      "y": 59.32781
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 59.20439,
+      "height": 1,
+      "x": 90.675155,
+      "y": 93.9751
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.24791,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 9.37206,
+      "height": 1,
+      "x": 89.08825,
+      "y": 59.30943
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 67.28336,
+      "height": 1,
+      "x": 57.53348,
+      "y": 123.0773
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 125.44736
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 127.81743
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 130.18749
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 132.55756
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 32.52736,
+      "height": 1,
+      "x": 40.15548,
+      "y": 134.92762
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 55.22935,
+      "height": 1,
+      "x": 28.804485,
+      "y": 137.29769
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 58.92052,
+      "height": 1,
+      "x": 71.37324,
+      "y": 51.54664
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 18.37785,
+      "height": 1,
+      "x": 84.256215,
+      "y": 31.2753
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "modified": "Wed Mar 26 2025 16:52:53 GMT+0800 (中国标准时间)",
+            "width": 4,
+            "height": 4,
+            "comps": [
+              {
+                "type": "rect",
+                "background": "rgb(255,255,255)",
+                "borderColor": "#979797",
+                "rect": [
+                  0,
+                  0,
+                  4,
+                  4
+                ]
+              }
+            ]
+          },
+          "width": 4,
+          "height": 1,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 4,
+      "speed": 0.2,
+      "component": "ht.drawing.marquee",
+      "width": 13.8927,
+      "height": 1,
+      "x": 77.80986,
+      "y": 22.58638
+    }
+  ]
+}

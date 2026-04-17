@@ -1,0 +1,551 @@
+{
+  "width": 500,
+  "height": 280,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(3,12,33,0.5)",
+      "borderColor": "#979797",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 7.43035,
+          "y": 18.74439
+        },
+        {
+          "x": 480.94237,
+          "y": 18.74439
+        },
+        {
+          "x": 490.97968,
+          "y": 37.24785
+        },
+        {
+          "x": 490.97968,
+          "y": 276.63767
+        },
+        {
+          "x": 24.25392,
+          "y": 276.63767
+        },
+        {
+          "x": 8.82186,
+          "y": 253.12155
+        },
+        {
+          "x": 7.43035,
+          "y": 18.74439
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 197.81757,
+          "y": -26.96985
+        },
+        {
+          "x": 197.81572,
+          "y": 314.34345
+        },
+        {
+          "x": 433.66126,
+          "y": 314.34404
+        },
+        {
+          "x": 451.20789,
+          "y": 304.59259
+        },
+        {
+          "x": 451.20915,
+          "y": 100.89792
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "scaleX": -1,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 17.42904,
+          "y": 280.40221
+        },
+        {
+          "x": 17.42787,
+          "y": 5.81564
+        },
+        {
+          "x": 83.19899,
+          "y": 5.81547
+        },
+        {
+          "x": 85.54307,
+          "y": 8.22497
+        },
+        {
+          "x": 97.01614,
+          "y": 8.22497
+        },
+        {
+          "x": 99.84348,
+          "y": 5.81547
+        },
+        {
+          "x": 255.37859,
+          "y": 5.81504
+        },
+        {
+          "x": 269.65203,
+          "y": 15.32047
+        },
+        {
+          "x": 269.65239,
+          "y": 81.15302
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(0,16,61)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "pixelPerfect": true,
+      "rotation": -1.5708,
+      "closePath": true,
+      "points": [
+        {
+          "x": -1.2444,
+          "y": 90.07361
+        },
+        {
+          "x": 1.24962,
+          "y": 92.20958
+        },
+        {
+          "x": 10.85038,
+          "y": 92.20958
+        },
+        {
+          "x": 13.25027,
+          "y": 90.07364
+        },
+        {
+          "x": -1.2444,
+          "y": 90.07361
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.45494,
+          "y": 50.2939
+        },
+        {
+          "x": 478.95509,
+          "y": 50.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 80.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 80.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 110.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 110.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 140.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 140.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 170.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 170.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 200.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 200.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 172.97941,
+          "y": 26.52795
+        },
+        {
+          "x": 172.97941,
+          "y": 260.36274
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 323.82838,
+          "y": 27.20672
+        },
+        {
+          "x": 324.19649,
+          "y": 259.7939
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "名称",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 42.2939
+    },
+    {
+      "type": "Text",
+      "text": "压力（Mpa）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 72.2939
+    },
+    {
+      "type": "Text",
+      "text": "温度（℃）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 102.2939
+    },
+    {
+      "type": "Text",
+      "text": "流量瞬时（m³/h）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 132.2939
+    },
+    {
+      "type": "Text",
+      "text": "含水率（%）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 162.2939
+    },
+    {
+      "type": "Text",
+      "text": "起点",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 42.2939
+    },
+    {
+      "type": "Text",
+      "text": "1.76",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 72.2939
+    },
+    {
+      "type": "Text",
+      "text": "50.60",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 102.2939
+    },
+    {
+      "type": "Text",
+      "text": "58",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 132.2939
+    },
+    {
+      "type": "Text",
+      "text": "92.27",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 162.2939
+    },
+    {
+      "type": "Text",
+      "text": "2638577",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 192.2939
+    },
+    {
+      "type": "Text",
+      "text": "混油累计（体积 m³）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 192.2939
+    },
+    {
+      "type": "Text",
+      "text": "96.80",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 162.2939
+    },
+    {
+      "type": "Text",
+      "text": "436054",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 192.2939
+    },
+    {
+      "type": "Text",
+      "text": "终点",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 42.2939
+    },
+    {
+      "type": "Text",
+      "text": "0.33",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 72.2939
+    },
+    {
+      "type": "Text",
+      "text": "43.70",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 102.2939
+    },
+    {
+      "type": "Text",
+      "text": "4",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 132.2939
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 260.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 260.2939
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 19.16827,
+          "y": 230.2939
+        },
+        {
+          "x": 478.66843,
+          "y": 230.2939
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "混油累计（质量 t）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 222.2939
+    },
+    {
+      "type": "Text",
+      "text": "纯油累计（质量 t）",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 94.79937,
+      "y": 252.2939
+    },
+    {
+      "type": "Text",
+      "text": "430990",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 223.2939
+    },
+    {
+      "type": "Text",
+      "text": "10419",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 385.33699,
+      "y": 252.2939
+    },
+    {
+      "type": "Text",
+      "text": "2551827",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 222.2939
+    },
+    {
+      "type": "Text",
+      "text": "455313",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 50,
+      "height": 15,
+      "x": 235.97312,
+      "y": 252.2939
+    }
+  ]
+}

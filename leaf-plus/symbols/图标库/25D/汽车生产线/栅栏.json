@@ -1,0 +1,2107 @@
+{
+  "width": 217,
+  "height": 140,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.6046,
+        0.21496,
+        0.32872,
+        1.1954,
+        0,
+        "rgba(73, 74, 77, 0.4)",
+        0.06,
+        "rgba(70, 71, 74, 0.44)",
+        0.73,
+        "rgba(48, 49, 51, 0.8)"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "points": [
+        {
+          "x": 190.27682,
+          "y": 139.56117
+        },
+        {
+          "x": 216.18071,
+          "y": 124.45769
+        },
+        {
+          "x": 27.3751,
+          "y": 14.92203
+        },
+        {
+          "x": 0,
+          "y": 30.72762
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 173.90501,
+          "y": 102.89491
+        },
+        {
+          "x": 189.34838,
+          "y": 128.76739
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 181.58562,
+          "y": 106.94774
+        },
+        {
+          "x": 189.76798,
+          "y": 120.89972
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        123.75758,
+        0.13374,
+        133.15152,
+        0.86626,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 1.32,
+          "y": 31.49186
+        },
+        {
+          "x": 0,
+          "y": 30.76186
+        },
+        {
+          "x": 0,
+          "y": 2.18186
+        },
+        {
+          "x": 1.32,
+          "y": 2.90186
+        },
+        {
+          "x": 1.32,
+          "y": 31.49186
+        },
+        {
+          "x": 1.32,
+          "y": 31.49186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "#919499",
+        1,
+        "#7a7b80"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 1.32,
+          "y": 31.49186
+        },
+        {
+          "x": 2.62,
+          "y": 30.76186
+        },
+        {
+          "x": 2.62,
+          "y": 2.18186
+        },
+        {
+          "x": 1.32,
+          "y": 2.90186
+        },
+        {
+          "x": 1.32,
+          "y": 31.49186
+        },
+        {
+          "x": 1.32,
+          "y": 31.49186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 2.18186
+        },
+        {
+          "x": 1.32,
+          "y": 2.90186
+        },
+        {
+          "x": 2.62,
+          "y": 2.18186
+        },
+        {
+          "x": 1.32,
+          "y": 1.46186
+        },
+        {
+          "x": 0,
+          "y": 2.18186
+        },
+        {
+          "x": 0,
+          "y": 2.18186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.62,
+          "y": 26.57186
+        },
+        {
+          "x": 1.32,
+          "y": 27.13186
+        },
+        {
+          "x": 63.1,
+          "y": 62.85186
+        },
+        {
+          "x": 64.56,
+          "y": 62.03186
+        },
+        {
+          "x": 2.62,
+          "y": 26.57186
+        },
+        {
+          "x": 2.62,
+          "y": 26.57186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.49987,
+        1,
+        0.49987,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 63.1,
+          "y": 64.41186
+        },
+        {
+          "x": 1.32,
+          "y": 28.70186
+        },
+        {
+          "x": 1.32,
+          "y": 27.14186
+        },
+        {
+          "x": 63.1,
+          "y": 62.85186
+        },
+        {
+          "x": 63.1,
+          "y": 64.41186
+        },
+        {
+          "x": 63.1,
+          "y": 64.41186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.9932,
+        0.5,
+        0,
+        0.5,
+        0,
+        "#898e99",
+        0.01,
+        "#90959f",
+        0.02,
+        "#979ba4",
+        0.07,
+        "#999da6",
+        0.95,
+        "#797a80",
+        0.98,
+        "#7a7b82",
+        0.99,
+        "#7f8189",
+        1,
+        "#868a94",
+        1,
+        "#898e99"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 63.1,
+          "y": 64.41186
+        },
+        {
+          "x": 64.56,
+          "y": 63.59186
+        },
+        {
+          "x": 64.56,
+          "y": 62.03186
+        },
+        {
+          "x": 63.09,
+          "y": 62.85186
+        },
+        {
+          "x": 63.1,
+          "y": 64.41186
+        },
+        {
+          "x": 63.1,
+          "y": 64.41186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        28.57576,
+        0.13424,
+        37.75758,
+        0.86576,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.21,
+          "y": 67.71186
+        },
+        {
+          "x": 62.89,
+          "y": 66.98186
+        },
+        {
+          "x": 62.89,
+          "y": 39.03186
+        },
+        {
+          "x": 64.21,
+          "y": 39.76186
+        },
+        {
+          "x": 64.21,
+          "y": 67.71186
+        },
+        {
+          "x": 64.21,
+          "y": 67.71186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.50382,
+        1,
+        0.50382,
+        0,
+        0,
+        "#919499",
+        1,
+        "#7a7b80"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.21,
+          "y": 67.71186
+        },
+        {
+          "x": 65.52,
+          "y": 66.98186
+        },
+        {
+          "x": 65.52,
+          "y": 39.03186
+        },
+        {
+          "x": 64.21,
+          "y": 39.76186
+        },
+        {
+          "x": 64.21,
+          "y": 50.68186
+        },
+        {
+          "x": 64.21,
+          "y": 67.71186
+        },
+        {
+          "x": 64.21,
+          "y": 67.71186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.4981,
+        0,
+        0.4981,
+        1,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 62.89,
+          "y": 39.03186
+        },
+        {
+          "x": 64.21,
+          "y": 39.76186
+        },
+        {
+          "x": 65.52,
+          "y": 39.03186
+        },
+        {
+          "x": 64.21,
+          "y": 38.31186
+        },
+        {
+          "x": 62.89,
+          "y": 39.03186
+        },
+        {
+          "x": 62.89,
+          "y": 39.03186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 65.52,
+          "y": 62.66186
+        },
+        {
+          "x": 64.21,
+          "y": 63.22186
+        },
+        {
+          "x": 125.99,
+          "y": 98.94186
+        },
+        {
+          "x": 127.45,
+          "y": 98.12186
+        },
+        {
+          "x": 65.52,
+          "y": 62.66186
+        },
+        {
+          "x": 65.52,
+          "y": 62.66186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.50013,
+        1,
+        0.50013,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 125.99,
+          "y": 100.50186
+        },
+        {
+          "x": 64.21,
+          "y": 64.79186
+        },
+        {
+          "x": 64.21,
+          "y": 63.23186
+        },
+        {
+          "x": 125.99,
+          "y": 98.94186
+        },
+        {
+          "x": 125.99,
+          "y": 100.50186
+        },
+        {
+          "x": 125.99,
+          "y": 100.50186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.5,
+        0,
+        0.5,
+        0,
+        "#898e99",
+        0.01,
+        "#90959f",
+        0.02,
+        "#979ba4",
+        0.07,
+        "#999da6",
+        0.95,
+        "#797a80",
+        0.98,
+        "#7a7b82",
+        0.99,
+        "#7f8189",
+        1,
+        "#868a94",
+        1,
+        "#898e99"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 125.99,
+          "y": 100.50186
+        },
+        {
+          "x": 127.45,
+          "y": 99.68186
+        },
+        {
+          "x": 127.45,
+          "y": 98.12186
+        },
+        {
+          "x": 125.99,
+          "y": 98.94186
+        },
+        {
+          "x": 125.99,
+          "y": 100.50186
+        },
+        {
+          "x": 125.99,
+          "y": 100.50186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        -66.72727,
+        0.13394,
+        -57.54545,
+        0.86606,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.11,
+          "y": 103.92186
+        },
+        {
+          "x": 125.79,
+          "y": 103.20186
+        },
+        {
+          "x": 125.79,
+          "y": 75.25186
+        },
+        {
+          "x": 127.11,
+          "y": 75.98186
+        },
+        {
+          "x": 127.11,
+          "y": 103.92186
+        },
+        {
+          "x": 127.11,
+          "y": 103.92186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "#919499",
+        1,
+        "#7a7b80"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.11,
+          "y": 103.92186
+        },
+        {
+          "x": 128.41,
+          "y": 103.20186
+        },
+        {
+          "x": 128.41,
+          "y": 75.25186
+        },
+        {
+          "x": 127.11,
+          "y": 75.98186
+        },
+        {
+          "x": 127.11,
+          "y": 103.92186
+        },
+        {
+          "x": 127.11,
+          "y": 103.92186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        0.9931,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 125.79,
+          "y": 75.25186
+        },
+        {
+          "x": 127.11,
+          "y": 75.98186
+        },
+        {
+          "x": 128.41,
+          "y": 75.25186
+        },
+        {
+          "x": 127.11,
+          "y": 74.53186
+        },
+        {
+          "x": 125.79,
+          "y": 75.25186
+        },
+        {
+          "x": 125.79,
+          "y": 75.25186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 128.41,
+          "y": 98.81186
+        },
+        {
+          "x": 127.11,
+          "y": 99.36186
+        },
+        {
+          "x": 188.89,
+          "y": 135.09186
+        },
+        {
+          "x": 190.34,
+          "y": 134.27186
+        },
+        {
+          "x": 128.41,
+          "y": 98.81186
+        },
+        {
+          "x": 128.41,
+          "y": 98.81186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 188.89,
+          "y": 136.64186
+        },
+        {
+          "x": 127.11,
+          "y": 100.94186
+        },
+        {
+          "x": 127.11,
+          "y": 99.38186
+        },
+        {
+          "x": 188.89,
+          "y": 135.09186
+        },
+        {
+          "x": 188.89,
+          "y": 136.64186
+        },
+        {
+          "x": 188.89,
+          "y": 136.64186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.50211,
+        0,
+        0.50211,
+        0,
+        "#898e99",
+        0.01,
+        "#90959f",
+        0.02,
+        "#979ba4",
+        0.07,
+        "#999da6",
+        0.95,
+        "#797a80",
+        0.98,
+        "#7a7b82",
+        0.99,
+        "#7f8189",
+        1,
+        "#868a94",
+        1,
+        "#898e99"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 188.89,
+          "y": 136.64186
+        },
+        {
+          "x": 190.34,
+          "y": 135.83186
+        },
+        {
+          "x": 190.34,
+          "y": 134.27186
+        },
+        {
+          "x": 188.88,
+          "y": 135.09186
+        },
+        {
+          "x": 188.89,
+          "y": 136.64186
+        },
+        {
+          "x": 188.89,
+          "y": 136.64186
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 5.33,
+          "y": 5.10186
+        },
+        {
+          "x": 27.16,
+          "y": 41.14186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.38,
+          "y": 5.96186
+        },
+        {
+          "x": 21.8,
+          "y": 38.02186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.24,
+          "y": 11.47186
+        },
+        {
+          "x": 16.44,
+          "y": 34.90186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.16,
+          "y": 17.06186
+        },
+        {
+          "x": 11.08,
+          "y": 31.78186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.08,
+          "y": 22.67186
+        },
+        {
+          "x": 5.72,
+          "y": 28.66186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 11.01,
+          "y": 8.35186
+        },
+        {
+          "x": 32.21,
+          "y": 44.12186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 16.37,
+          "y": 11.47186
+        },
+        {
+          "x": 37.57,
+          "y": 47.24186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 21.73,
+          "y": 14.59186
+        },
+        {
+          "x": 42.93,
+          "y": 50.35186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 27.09,
+          "y": 17.71186
+        },
+        {
+          "x": 48.29,
+          "y": 53.47186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 32.46,
+          "y": 20.83186
+        },
+        {
+          "x": 53.65,
+          "y": 56.59186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 37.82,
+          "y": 23.95186
+        },
+        {
+          "x": 59.02,
+          "y": 59.71186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 43.18,
+          "y": 27.07186
+        },
+        {
+          "x": 62.73,
+          "y": 60.03186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.99,
+          "y": 57.93186
+        },
+        {
+          "x": 69.74,
+          "y": 65.95186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 48.54,
+          "y": 30.18186
+        },
+        {
+          "x": 62.68,
+          "y": 54.01186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.99,
+          "y": 52.00186
+        },
+        {
+          "x": 75.1,
+          "y": 69.06186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 53.9,
+          "y": 33.30186
+        },
+        {
+          "x": 62.73,
+          "y": 48.17186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.93,
+          "y": 45.97186
+        },
+        {
+          "x": 80.46,
+          "y": 72.18186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 59.26,
+          "y": 36.42186
+        },
+        {
+          "x": 62.73,
+          "y": 42.24186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 64.63,
+          "y": 39.54186
+        },
+        {
+          "x": 85.83,
+          "y": 75.30186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 69.99,
+          "y": 42.66186
+        },
+        {
+          "x": 91.19,
+          "y": 78.42186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 75.35,
+          "y": 45.78186
+        },
+        {
+          "x": 96.55,
+          "y": 81.54186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 80.71,
+          "y": 48.89186
+        },
+        {
+          "x": 101.91,
+          "y": 84.66186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 86.07,
+          "y": 52.01186
+        },
+        {
+          "x": 107.27,
+          "y": 87.78186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 91.44,
+          "y": 55.13186
+        },
+        {
+          "x": 112.63,
+          "y": 90.89186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 96.8,
+          "y": 58.25186
+        },
+        {
+          "x": 118,
+          "y": 94.01186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 102.16,
+          "y": 61.37186
+        },
+        {
+          "x": 123.36,
+          "y": 97.13186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.56,
+          "y": 98.29186
+        },
+        {
+          "x": 128.72,
+          "y": 100.25186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 107.52,
+          "y": 64.49186
+        },
+        {
+          "x": 125.51,
+          "y": 94.87186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.9,
+          "y": 92.94186
+        },
+        {
+          "x": 133.52,
+          "y": 102.43186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 112.88,
+          "y": 67.61186
+        },
+        {
+          "x": 125.51,
+          "y": 88.94186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.9,
+          "y": 87.02186
+        },
+        {
+          "x": 138.93,
+          "y": 105.61186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 118.25,
+          "y": 70.72186
+        },
+        {
+          "x": 125.57,
+          "y": 83.07186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 127.84,
+          "y": 80.98186
+        },
+        {
+          "x": 144.12,
+          "y": 108.45186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 123.61,
+          "y": 73.84186
+        },
+        {
+          "x": 125.57,
+          "y": 77.15186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 128.97,
+          "y": 76.96186
+        },
+        {
+          "x": 149.55,
+          "y": 111.67186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 134.33,
+          "y": 80.08186
+        },
+        {
+          "x": 154.87,
+          "y": 114.73186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 139.69,
+          "y": 83.20186
+        },
+        {
+          "x": 160.08,
+          "y": 117.59186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 145.06,
+          "y": 86.32186
+        },
+        {
+          "x": 166.25,
+          "y": 122.08186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 150.42,
+          "y": 89.43186
+        },
+        {
+          "x": 171.62,
+          "y": 125.20186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 157.19,
+          "y": 92.47186
+        },
+        {
+          "x": 178.39,
+          "y": 128.24186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.75,
+      "borderColor": "#dfe3eb",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 165.88,
+          "y": 98.12186
+        },
+        {
+          "x": 186.38572,
+          "y": 132.46768
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#e1e4e6",
+        1,
+        "#999da6"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 1.46,
+          "y": 0.15186
+        },
+        {
+          "x": 0,
+          "y": 0.77186
+        },
+        {
+          "x": 189.86289,
+          "y": 111.78988
+        },
+        {
+          "x": 191.48289,
+          "y": 110.89988
+        },
+        {
+          "x": 1.46,
+          "y": 0.15186
+        },
+        {
+          "x": 1.46,
+          "y": 0.15186
+        },
+        {
+          "x": 1.46,
+          "y": 0.15186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.49995,
+        1,
+        0.49995,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 188.85921,
+          "y": 112.46144
+        },
+        {
+          "x": 0,
+          "y": 2.35186
+        },
+        {
+          "x": 0,
+          "y": 0.79186
+        },
+        {
+          "x": 188.85921,
+          "y": 110.91144
+        },
+        {
+          "x": 188.96303,
+          "y": 112.8401
+        },
+        {
+          "x": 188.96303,
+          "y": 112.8401
+        },
+        {
+          "x": 188.96303,
+          "y": 112.8401
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.25,
+        0,
+        0.25,
+        1,
+        0,
+        "#919499",
+        0.01,
+        "#919499",
+        0.07,
+        "#919499",
+        0.95,
+        "#7a7b80",
+        0.98,
+        "#7c7d82",
+        0.99,
+        "#828489",
+        1,
+        "#8d8f94",
+        1,
+        "#919499"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 165.84,
+          "y": 156.85186
+        },
+        {
+          "x": 165.88,
+          "y": 156.97186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#85878c",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 172.66,
+          "y": 108.54186
+        },
+        {
+          "x": 172.7,
+          "y": 108.57186
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        -66.72727,
+        0.13394,
+        -57.54545,
+        0.86606,
+        0,
+        "#ccc",
+        0,
+        "#d5d6d7",
+        0.01,
+        "#dfe1e2",
+        0.02,
+        "#e4e7e9",
+        0.05,
+        "#e6e9eb",
+        0.39,
+        "#dde0e3",
+        0.96,
+        "#c5c8cd",
+        0.97,
+        "#c4c7cc",
+        0.99,
+        "#c6c9ce",
+        1,
+        "#cbcfd5",
+        1,
+        "#ced3d9"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 190.2,
+          "y": 139.53686
+        },
+        {
+          "x": 188.88,
+          "y": 138.81686
+        },
+        {
+          "x": 188.88,
+          "y": 110.86686
+        },
+        {
+          "x": 190.2,
+          "y": 111.59686
+        },
+        {
+          "x": 190.2,
+          "y": 139.53686
+        },
+        {
+          "x": 190.2,
+          "y": 139.53686
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "#919499",
+        1,
+        "#7a7b80"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 190.2,
+          "y": 139.53686
+        },
+        {
+          "x": 191.5,
+          "y": 138.81686
+        },
+        {
+          "x": 191.5,
+          "y": 110.86686
+        },
+        {
+          "x": 190.2,
+          "y": 111.59686
+        },
+        {
+          "x": 190.2,
+          "y": 139.53686
+        },
+        {
+          "x": 190.2,
+          "y": 139.53686
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    }
+  ],
+  "cacheRule": true
+}

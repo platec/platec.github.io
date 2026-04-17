@@ -1,0 +1,135 @@
+{
+  "width": 48,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "anchorY": 1.18328,
+      "rotation": {
+        "func": "function(data, view) {\nif (data.a('state')) {\nreturn 0\n} else {\nreturn Math.PI / 180 * 30\n}\n}",
+        "value": 0.5236
+      },
+      "shape": "rect",
+      "width": 10.02232,
+      "height": 23.90048,
+      "x": 24,
+      "y": 47.330719974400004
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 24,
+          "y": 13
+        },
+        {
+          "x": 24,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 24,
+          "y": 64
+        },
+        {
+          "x": 24,
+          "y": 54
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 24,
+      "y": 51
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "anchorY": 1,
+      "rotation": {
+        "func": "function(data, view) {\nif (data.a('state')) {\nreturn 0\n} else {\nreturn Math.PI / 180 * 30\n}\n}",
+        "value": 0.5236
+      },
+      "points": [
+        {
+          "x": 24,
+          "y": 48
+        },
+        {
+          "x": 24,
+          "y": 14
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,0,0)",
+      "shadowColor": "#1ABC9C",
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 24,
+          "y": 19.5
+        },
+        {
+          "x": 24,
+          "y": 6.5
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    },
+    {
+      "attr": "enabled",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否有效"
+    },
+    {
+      "attr": "state",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "开关状态"
+    }
+  ]
+}

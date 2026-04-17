@@ -1,0 +1,38 @@
+{
+  "width": 333,
+  "height": 77,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "污水处理厂"
+      },
+      "align": "center",
+      "color": {
+        "func": "attr@namec",
+        "value": "rgb(194,203,207)"
+      },
+      "font": "bold 64px sans-serif, Arial",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": -2,
+      "shadowOffsetY": -2,
+      "width": 266,
+      "height": 71.66075,
+      "x": 166.5,
+      "y": 38.500004999999994
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    },
+    {
+      "attr": "namec",
+      "valueType": "Color"
+    }
+  ]
+}

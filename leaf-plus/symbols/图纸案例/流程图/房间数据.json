@@ -1,0 +1,11 @@
+{
+  "width": 30,
+  "height": 30,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "values",
+      "valueType": "Object"
+    }
+  ]
+}

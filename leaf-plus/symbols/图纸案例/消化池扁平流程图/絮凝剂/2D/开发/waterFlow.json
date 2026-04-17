@@ -1,0 +1,65 @@
+{
+  "width": 57,
+  "height": 123,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "wave",
+      "waveRange": {
+        "func": "attr@level",
+        "value": 0.8
+      },
+      "waveWidth": {
+        "func": "attr@width",
+        "value": 0.25
+      },
+      "waveHeight": {
+        "func": "attr@height",
+        "value": 2.3
+      },
+      "wareXOffset": {
+        "func": "attr@num"
+      },
+      "waveBackground": "rgba(173,246,255,0)",
+      "waveForeground": {
+        "func": "attr@color",
+        "value": [
+          "rgb(120,236,255)",
+          "rgba(199,250,255,0.7)"
+        ]
+      },
+      "component": "components/line/wave.json",
+      "width": 57,
+      "height": 123,
+      "x": 28.5,
+      "y": 61.5
+    }
+  ],
+  "bind": [
+    {
+      "attr": "level",
+      "valueType": "Percentage",
+      "name": "波浪水位"
+    },
+    {
+      "attr": "width",
+      "valueType": "Number",
+      "name": "波浪宽度"
+    },
+    {
+      "attr": "height",
+      "valueType": "Number",
+      "name": "波浪高度"
+    },
+    {
+      "attr": "num",
+      "valueType": "Number",
+      "name": "波浪位移"
+    },
+    {
+      "attr": "color",
+      "valueType": "ColorArray",
+      "name": "波浪前景色"
+    }
+  ]
+}

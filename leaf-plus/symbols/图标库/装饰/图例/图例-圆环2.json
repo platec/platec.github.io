@@ -1,0 +1,68 @@
+{
+  "width": 20,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 4,
+      "borderColor": "rgb(150,173,255)",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.5)"
+      ],
+      "arcFrom": 2.35619,
+      "arcTo": 5.49779,
+      "arcClose": false,
+      "clipDirection": "right",
+      "layoutH": "leftright",
+      "shadowColor": "rgb(82,119,255)",
+      "shadowBlur": 2,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "arc",
+      "width": 16,
+      "height": 16,
+      "x": 10,
+      "y": 10
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(150,173,255)",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.5)"
+      ],
+      "arcFrom": -0.7854,
+      "arcTo": 2.35619,
+      "arcClose": false,
+      "opacity": 0.6,
+      "clipDirection": "right",
+      "layoutH": "leftright",
+      "shadowColor": "rgb(82,119,255)",
+      "shadowBlur": 2,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "arc",
+      "width": 16,
+      "height": 16,
+      "x": 10,
+      "y": 10
+    }
+  ],
+  "bind": []
+}

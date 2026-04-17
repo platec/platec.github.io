@@ -1,0 +1,618 @@
+{
+  "width": 180,
+  "height": 220,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0,
+        0,
+        1,
+        0.5,
+        0,
+        "rgb(137,164,240)",
+        1,
+        "rgb(185,144,209)"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.6,
+      "prefix": "1676360626762998",
+      "points": [
+        {
+          "x": 12.05772,
+          "y": 135
+        },
+        {
+          "x": 90,
+          "y": 180
+        },
+        {
+          "x": 167.94229,
+          "y": 135
+        },
+        {
+          "x": 90,
+          "y": 90
+        },
+        {
+          "x": 12.05772,
+          "y": 135
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        1,
+        1,
+        0,
+        "rgba(61,122,196,0.3)",
+        1,
+        "rgb(210,148,255)"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "prefix": "1676360559572316",
+      "points": [
+        {
+          "x": 90.00001,
+          "y": 0
+        },
+        {
+          "x": 167.94229,
+          "y": 45
+        },
+        {
+          "x": 167.94229,
+          "y": 135
+        },
+        {
+          "x": 90.00001,
+          "y": 90
+        },
+        {
+          "x": 90.00001,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        1,
+        1,
+        0,
+        "rgba(61,122,196,0.3)",
+        1,
+        "rgb(210,148,255)"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "prefix": "1676360594303134",
+      "points": [
+        {
+          "x": 90,
+          "y": 0
+        },
+        {
+          "x": 12.05772,
+          "y": 45
+        },
+        {
+          "x": 12.05772,
+          "y": 135
+        },
+        {
+          "x": 90.00001,
+          "y": 90
+        },
+        {
+          "x": 90,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "text"
+      },
+      "align": "center",
+      "color": "rgb(196,234,255)",
+      "font": "16px arial, sans-serif",
+      "shadow": true,
+      "shadowColor": "rgb(82,186,255)",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 50,
+      "height": 16,
+      "x": 90,
+      "y": 198
+    },
+    {
+      "type": "Image",
+      "scaleX": 3.5,
+      "scaleY": 3.5,
+      "image": {
+        "func": "attr@icon",
+        "value": "drawing.star"
+      },
+      "width": 32,
+      "height": 32,
+      "x": 90,
+      "y": 90
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0,
+        1,
+        0.5,
+        0.5,
+        0,
+        "rgb(143,173,255)",
+        1,
+        "rgba(42,71,184,0)"
+      ],
+      "pixelPerfect": true,
+      "prefix": "1676360659643616",
+      "points": [
+        {
+          "x": 12.05772,
+          "y": 45
+        },
+        {
+          "x": 90,
+          "y": 90
+        },
+        {
+          "x": 167.94229,
+          "y": 45
+        },
+        {
+          "x": 90,
+          "y": 0
+        },
+        {
+          "x": 12.05772,
+          "y": 45
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.75263,
+        0.73758,
+        0,
+        0.15053,
+        0,
+        "rgba(211,117,255,0.3)",
+        0.27826,
+        "rgba(118,118,216,0)"
+      ],
+      "borderGradientPack": [
+        "linear",
+        1,
+        1,
+        0,
+        0.5,
+        0,
+        "rgba(211,117,255,0.3)",
+        0.50435,
+        "rgba(93,123,219,0)",
+        1,
+        "rgb(255,255,255)"
+      ],
+      "pixelPerfect": true,
+      "prefix": "1676360683765698",
+      "points": [
+        {
+          "x": 167.9423,
+          "y": 45
+        },
+        {
+          "x": 90.00001,
+          "y": 90
+        },
+        {
+          "x": 90.00001,
+          "y": 180
+        },
+        {
+          "x": 167.9423,
+          "y": 135
+        },
+        {
+          "x": 167.9423,
+          "y": 45
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0,
+        0,
+        0,
+        "rgb(189,123,209)",
+        0.13913,
+        "rgba(134,124,215,0)",
+        0.71739,
+        "rgba(95,125,222,0)",
+        1,
+        "rgb(143,173,255)"
+      ],
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        1,
+        1,
+        0.31611,
+        0,
+        "rgb(189,123,209)",
+        0.51304,
+        "rgba(95,125,222,0)",
+        1,
+        "rgb(255,255,255)"
+      ],
+      "pixelPerfect": true,
+      "prefix": "1676360683766108",
+      "points": [
+        {
+          "x": 12.05772,
+          "y": 45
+        },
+        {
+          "x": 90,
+          "y": 90
+        },
+        {
+          "x": 90.00001,
+          "y": 180
+        },
+        {
+          "x": 12.05772,
+          "y": 135
+        },
+        {
+          "x": 12.05772,
+          "y": 45
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0,
+        1,
+        0.5,
+        0.5,
+        0,
+        "rgb(143,173,255)",
+        1,
+        "rgba(42,71,184,0)"
+      ],
+      "pixelPerfect": true,
+      "prefix": "1742975292625536",
+      "points": [
+        {
+          "x": 12.05772,
+          "y": 45
+        },
+        {
+          "x": 90,
+          "y": 90
+        },
+        {
+          "x": 167.94229,
+          "y": 45
+        },
+        {
+          "x": 90,
+          "y": 0
+        },
+        {
+          "x": 12.05772,
+          "y": 45
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "image": {
+        "dataBindings": [],
+        "width": 160,
+        "height": 180,
+        "comps": [
+          {
+            "type": "shape",
+            "gradientPack": [
+              "radial",
+              1,
+              0.73758,
+              0.5,
+              0,
+              "rgb(185,144,209)",
+              1,
+              "rgba(137,164,240,0)"
+            ],
+            "opacity": 0.6,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 45\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 135\n  },\n  {\n    \"x\": 80,\n    \"y\": 180\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 135\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88458,
+              "height": 180
+            }
+          },
+          {
+            "type": "shape",
+            "gradientPack": [
+              "radial",
+              0,
+              0.31611,
+              0.5,
+              0,
+              "rgb(115,166,255)",
+              1,
+              "rgba(137,164,240,0)"
+            ],
+            "opacity": 0.6,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 45\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 135\n  },\n  {\n    \"x\": 80,\n    \"y\": 180\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 135\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88458,
+              "height": 180
+            }
+          },
+          {
+            "type": "shape",
+            "fillRule": "evenodd",
+            "gradientPack": [
+              "radial",
+              0.5,
+              1,
+              1,
+              0,
+              "rgb(255,255,255)",
+              1,
+              "rgba(135,156,237,0.00)"
+            ],
+            "opacity": 0.2,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 90\n  },\n  {\n    \"x\": 157.94228,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88457,
+              "height": 90
+            }
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.03,
+      "opacityValues": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 160,
+      "height": 180,
+      "x": 90,
+      "y": 90
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "scaleX": -1,
+      "image": {
+        "dataBindings": [],
+        "width": 160,
+        "height": 180,
+        "comps": [
+          {
+            "type": "shape",
+            "gradientPack": [
+              "radial",
+              1,
+              0.73758,
+              0.5,
+              0,
+              "rgb(185,144,209)",
+              1,
+              "rgba(137,164,240,0)"
+            ],
+            "opacity": 0.6,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 45\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 135\n  },\n  {\n    \"x\": 80,\n    \"y\": 180\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 135\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88458,
+              "height": 180
+            }
+          },
+          {
+            "type": "shape",
+            "gradientPack": [
+              "radial",
+              0,
+              0.31611,
+              0.5,
+              0,
+              "rgb(115,166,255)",
+              1,
+              "rgba(137,164,240,0)"
+            ],
+            "opacity": 0.6,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 45\n  },\n  {\n    \"x\": 157.94229,\n    \"y\": 135\n  },\n  {\n    \"x\": 80,\n    \"y\": 180\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 135\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88458,
+              "height": 180
+            }
+          },
+          {
+            "type": "shape",
+            "fillRule": "evenodd",
+            "gradientPack": [
+              "radial",
+              0.5,
+              1,
+              1,
+              0,
+              "rgb(255,255,255)",
+              1,
+              "rgba(135,156,237,0.00)"
+            ],
+            "opacity": 0.2,
+            "points": "list[\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 90\n  },\n  {\n    \"x\": 157.94228,\n    \"y\": 45\n  },\n  {\n    \"x\": 80,\n    \"y\": 0\n  },\n  {\n    \"x\": 2.05771,\n    \"y\": 45\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.05771,
+              "y": 0,
+              "width": 155.88457,
+              "height": 90
+            }
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.03,
+      "opacityValues": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 160,
+      "height": 180,
+      "x": 90,
+      "y": 90
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "icon",
+      "valueType": "Image"
+    }
+  ]
+}

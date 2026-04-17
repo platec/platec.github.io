@@ -1,0 +1,153 @@
+{
+  "width": 80,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(0,102,130)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "points": [
+        {
+          "x": 60,
+          "y": 52.18493
+        },
+        {
+          "x": 60,
+          "y": 52.18493
+        },
+        {
+          "x": 44,
+          "y": 71.18493
+        },
+        {
+          "x": 44,
+          "y": 74.18493
+        },
+        {
+          "x": 44,
+          "y": 77.18493
+        },
+        {
+          "x": 60,
+          "y": 64.18493
+        },
+        {
+          "x": 60,
+          "y": 64.18493
+        },
+        {
+          "x": 40,
+          "y": 90.18493
+        },
+        {
+          "x": 20,
+          "y": 64.18493
+        },
+        {
+          "x": 20,
+          "y": 64.18493
+        },
+        {
+          "x": 36,
+          "y": 77.18493
+        },
+        {
+          "x": 36,
+          "y": 74.18493
+        },
+        {
+          "x": 36,
+          "y": 71.18493
+        },
+        {
+          "x": 20,
+          "y": 52.18493
+        },
+        {
+          "x": 20,
+          "y": 52.18493
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        2,
+        2,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,91,105)",
+      "borderColor": "rgba(7,7,33,0.5)",
+      "gradient": "spread.antidiagonal",
+      "gradientColor": "rgb(177,236,252)",
+      "shape": "oval",
+      "width": 50,
+      "height": 50,
+      "x": 40,
+      "y": 38
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,172,199)",
+      "borderColor": "#979797",
+      "gradient": "spread.antidiagonal",
+      "gradientColor": "rgb(165,196,217)",
+      "shape": "oval",
+      "width": 37.99646,
+      "height": 37.99646,
+      "x": 40.00177,
+      "y": 38.00177
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(219,0,0)",
+      "borderColor": "#979797",
+      "gradient": "spread.antidiagonal",
+      "gradientColor": "rgb(230,163,163)",
+      "polygonSide": 3,
+      "visible": {
+        "func": "attr@status1",
+        "value": false
+      },
+      "shape": "polygon",
+      "width": 26.1886,
+      "height": 26.1886,
+      "x": 40.00177,
+      "y": 38
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(232,232,232)",
+      "borderColor": "#979797",
+      "gradient": "spread.antidiagonal",
+      "visible": {
+        "func": "attr@status2"
+      },
+      "shape": "rect",
+      "width": 6.57777,
+      "height": 24.20752,
+      "x": 35.122565,
+      "y": 37.89624
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(232,232,232)",
+      "borderColor": "#979797",
+      "gradient": "spread.antidiagonal",
+      "visible": {
+        "func": "attr@status2"
+      },
+      "shape": "rect",
+      "width": 6.57777,
+      "height": 24.20752,
+      "x": 44.877435,
+      "y": 38.00177
+    }
+  ],
+  "bind": []
+}

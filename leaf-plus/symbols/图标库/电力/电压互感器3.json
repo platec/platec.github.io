@@ -1,0 +1,102 @@
+{
+  "width": 48,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "4",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 12.352885,
+      "y": 25.342815
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "4",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 24.000005,
+      "y": 18.623435
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "4",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 24.000005,
+      "y": 32.359255
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "4",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 36.151515,
+      "y": 25.342815
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(250,0,0)",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 24,
+          "y": 64
+        },
+        {
+          "x": 24,
+          "y": 42.2747
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    }
+  ]
+}

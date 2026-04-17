@@ -1,0 +1,85 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "wave",
+      "waveWidth": {
+        "func": "attr@waveWidth",
+        "value": 0.15
+      },
+      "waveHeight": {
+        "func": "attr@waveHeight",
+        "value": 1.25
+      },
+      "wareXOffset": {
+        "func": "attr@wareXOffset",
+        "value": 0
+      },
+      "waveForeground": {
+        "func": "attr@waveForeground",
+        "value": [
+          "#F39C6A",
+          "#FF7C7C"
+        ]
+      },
+      "waveBackground": {
+        "func": "attr@waveBackground",
+        "value": "#F8CDB5"
+      },
+      "waveRange": {
+        "func": "attr@waveRange",
+        "value": 0.5
+      },
+      "component": "components/basic/wave.json",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    }
+  ],
+  "bind": [
+    {
+      "attr": "waveCircle",
+      "valueType": "Boolean",
+      "defaultValue": false,
+      "name": "波浪圆形"
+    },
+    {
+      "attr": "waveRange",
+      "valueType": "Percentage",
+      "name": "波浪水位"
+    },
+    {
+      "attr": "waveWidth",
+      "valueType": "Number",
+      "name": "波浪宽度"
+    },
+    {
+      "attr": "waveHeight",
+      "valueType": "Number",
+      "name": "波浪高度"
+    },
+    {
+      "attr": "wareXOffset",
+      "valueType": "Number",
+      "name": "波浪位移"
+    },
+    {
+      "attr": "waveForeground",
+      "valueType": "ColorArray",
+      "defaultValue": [
+        "#F39C6A",
+        "#FF7C7C"
+      ],
+      "name": "波浪前景色"
+    },
+    {
+      "attr": "waveBackground",
+      "valueType": "Color",
+      "defaultValue": "#F8CDB5",
+      "name": "波浪背景色"
+    }
+  ]
+}

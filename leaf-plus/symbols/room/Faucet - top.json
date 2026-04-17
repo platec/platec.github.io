@@ -1,0 +1,1128 @@
+{
+  "width": 10,
+  "height": 5.875,
+  "elements": [
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 0.8961,
+          "y": 1.5
+        },
+        {
+          "x": 0.625,
+          "y": 1.5
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DDF",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 0.893,
+          "y": 1.25
+        },
+        {
+          "x": 0.625,
+          "y": 1.25
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE0",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.25,
+          "y": 0.8962
+        },
+        {
+          "x": 1.25,
+          "y": 0.625
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE2",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.5,
+          "y": 0.893
+        },
+        {
+          "x": 1.5,
+          "y": 0.625
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE3",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.5,
+          "y": 1.8539
+        },
+        {
+          "x": 1.5,
+          "y": 2.125
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE5",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.25,
+          "y": 1.8571
+        },
+        {
+          "x": 1.25,
+          "y": 2.125
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE6",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.8539,
+          "y": 1.25
+        },
+        {
+          "x": 2.125,
+          "y": 1.25
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE8",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 1.857,
+          "y": 1.5
+        },
+        {
+          "x": 2.125,
+          "y": 1.5
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DE9",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 4.5,
+          "y": 2.2389
+        },
+        {
+          "x": 4.5,
+          "y": 5.875
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DF2",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 5.5,
+          "y": 5.875
+        },
+        {
+          "x": 5.5,
+          "y": 2.2381
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DF3",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 9.1039,
+          "y": 1.25
+        },
+        {
+          "x": 9.375,
+          "y": 1.25
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DF8",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 9.107,
+          "y": 1.5
+        },
+        {
+          "x": 9.375,
+          "y": 1.5
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DF9",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.75,
+          "y": 1.8539
+        },
+        {
+          "x": 8.75,
+          "y": 2.125
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DFB",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.5,
+          "y": 1.8571
+        },
+        {
+          "x": 8.5,
+          "y": 2.125
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DFC",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.5,
+          "y": 0.8962
+        },
+        {
+          "x": 8.5,
+          "y": 0.625
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DFE",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.75,
+          "y": 0.893
+        },
+        {
+          "x": 8.75,
+          "y": 0.625
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11DFF",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.1461,
+          "y": 1.5
+        },
+        {
+          "x": 7.875,
+          "y": 1.5
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11E00",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Polyline",
+      "cadType": "LINE",
+      "cadLayer": "0",
+      "segments": [
+        1,
+        2
+      ],
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderWidthAbsolute": true,
+      "borderWidth": 1,
+      "points": [
+        {
+          "x": 8.143,
+          "y": 1.25
+        },
+        {
+          "x": 7.875,
+          "y": 1.25
+        }
+      ],
+      "dash": false,
+      "borderColor": "#ffffff",
+      "handle": "11E01",
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'shape','0');}else{return true;}\n}"
+      }
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DDC",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2.75,
+      "height": 2.75,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DDD",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 1,
+      "height": 1,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DDE",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 0.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DE1",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 1.375,
+      "y": 0.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DE4",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 1.375,
+      "y": 2.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DE7",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 2.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DF0",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 1,
+      "height": 1,
+      "x": 5,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DF4",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2.75,
+      "height": 2.75,
+      "x": 8.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DF5",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 7.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DF6",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 1,
+      "height": 1,
+      "x": 8.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DF7",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 9.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DFA",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 8.625,
+      "y": 2.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "CIRCLE",
+      "cadLayer": "0",
+      "handle": "11DFD",
+      "arcFrom": 0,
+      "arcTo": 6.28319,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 0.55902,
+      "height": 0.55902,
+      "x": 8.625,
+      "y": 0.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DEA",
+      "arcFrom": 3.41719,
+      "arcTo": 4.44639,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DEB",
+      "arcFrom": 4.99027,
+      "arcTo": 5.99623,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DEC",
+      "arcFrom": 1.85171,
+      "arcTo": 2.85825,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DED",
+      "arcFrom": 0.27771,
+      "arcTo": 1.28945,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 1.375,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DEE",
+      "arcFrom": 2.09866,
+      "arcTo": 1.04121,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 5,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DEF",
+      "arcFrom": 1.91357,
+      "arcTo": 1.22781,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 3,
+      "height": 3,
+      "x": 5,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11DF1",
+      "arcFrom": 6.28319,
+      "arcTo": 3.14159,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 1,
+      "height": 1,
+      "x": 5,
+      "y": 5.875
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11E02",
+      "arcFrom": 0.2756,
+      "arcTo": 1.3048,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 8.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11E03",
+      "arcFrom": 1.84867,
+      "arcTo": 2.85464,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 8.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11E04",
+      "arcFrom": 4.99331,
+      "arcTo": 5.99984,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 8.625,
+      "y": 1.375
+    },
+    {
+      "type": "Shape",
+      "cadType": "ARC",
+      "cadLayer": "0",
+      "handle": "11E05",
+      "arcFrom": 3.4193,
+      "arcTo": 4.43104,
+      "arcClose": false,
+      "cadLayerConfig": {
+        "borderColor": "layer"
+      },
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "borderWidthAbsolute": true,
+      "dash": false,
+      "visible": {
+        "func": "function anonymous(d, v\n) {\nif(v.$cad$){return v.$cad$(d,v,'arc','0');}else{return true;}\n}"
+      },
+      "shape": "arc",
+      "width": 2,
+      "height": 2,
+      "x": 8.625,
+      "y": 1.375
+    }
+  ],
+  "bind": [
+    {
+      "attr": "blockColor",
+      "valueType": "Color"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "width": 20.13908,
+  "height": 77.32721,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(105,51,18)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 4.20291
+        },
+        {
+          "x": 0,
+          "y": 69.80868
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(105,51,18)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 7.29506,
+          "y": 0
+        },
+        {
+          "x": 7.29506,
+          "y": 65.60577
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(105,51,18)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 12.84402,
+          "y": 11.72144
+        },
+        {
+          "x": 12.84402,
+          "y": 77.32721
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(105,51,18)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.13908,
+          "y": 7.51853
+        },
+        {
+          "x": 20.13908,
+          "y": 73.12429
+        }
+      ]
+    }
+  ],
+  "bind": []
+}

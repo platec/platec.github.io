@@ -1,0 +1,149 @@
+{
+  "width": 1238.04104,
+  "height": 116.70923,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 20,
+      "pixelPerfect": true,
+      "shape": "roundRect",
+      "width": 1158.53664,
+      "height": 80,
+      "x": 658.77272,
+      "y": 50
+    },
+    {
+      "type": "Image",
+      "stretch": "uniform",
+      "pixelPerfect": true,
+      "displayName": "国旗",
+      "scaleX": 0.9,
+      "scaleY": 0.9,
+      "image": "symbols/可视化/奥运/国旗.json",
+      "width": 72,
+      "height": 51,
+      "x": 137.53211,
+      "y": 50
+    },
+    {
+      "type": "Image",
+      "stretch": "uniform",
+      "displayName": "NO",
+      "image": "symbols/可视化/奥运/NO.json",
+      "width": 53.28201,
+      "height": 53.28201,
+      "x": 26.641015,
+      "y": 50.000005
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@NOCs",
+        "value": "CHN"
+      },
+      "color": "#272982",
+      "font": {
+        "func": "attr@stateFont",
+        "value": "bold 30px Arial Narrow"
+      },
+      "displayName": "",
+      "width": 54.6206,
+      "height": 44.1647,
+      "x": 222.12997000000001,
+      "y": 50
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@Gold",
+        "value": "40"
+      },
+      "align": "center",
+      "color": "#272982",
+      "font": "bold 30px Arial Narrow",
+      "displayName": "",
+      "width": 54.6206,
+      "height": 44.1647,
+      "x": 455.43870999999996,
+      "y": 50
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@Silver",
+        "value": "44"
+      },
+      "align": "center",
+      "color": "#272982",
+      "font": "bold 30px Arial Narrow",
+      "displayName": "",
+      "width": 54.6206,
+      "height": 44.1647,
+      "x": 693.50396,
+      "y": 50
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@Bronze",
+        "value": "42"
+      },
+      "align": "center",
+      "color": "#272982",
+      "font": "bold 30px Arial Narrow",
+      "displayName": "",
+      "width": 54.6206,
+      "height": 44.1647,
+      "x": 927.99342,
+      "y": 50
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@Totals",
+        "value": "126"
+      },
+      "align": "center",
+      "color": "#272982",
+      "font": "bold 30px Arial Narrow",
+      "displayName": "",
+      "width": 54.6206,
+      "height": 44.1647,
+      "x": 1137.86861,
+      "y": 50
+    }
+  ],
+  "bind": [
+    {
+      "attr": "flag",
+      "valueType": "Image"
+    },
+    {
+      "attr": "rank",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "NOCs",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "Gold",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "Silver",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "Bronze",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "Totals",
+      "valueType": "Multiline"
+    }
+  ],
+  "fitSize": true
+}

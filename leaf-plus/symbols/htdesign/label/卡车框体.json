@@ -1,0 +1,77 @@
+{
+  "width": 300,
+  "height": 300,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "边框",
+      "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtkaXNwbGF5Om5vbmU7fQ0KCS5zdDF7b3BhY2l0eTowLjI1O2VuYWJsZS1iYWNrZ3JvdW5kOm5ldyAgICA7fQ0KCS5zdDJ7ZmlsbDpub25lO3N0cm9rZTojRkZGRkZGO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCgkuc3Qze2ZpbGw6I0ZGRkZGRjt9DQoJLnN0NHtmaWxsOm5vbmU7c3Ryb2tlOiNGRkZGRkY7c3Ryb2tlLXdpZHRoOjM7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KCS5zdDV7ZGlzcGxheTppbmxpbmU7ZmlsbDpub25lO30NCgkuc3Q2e2Rpc3BsYXk6aW5saW5lO2ZpbGw6I0ZGRkZGRjt9DQoJLnN0N3tmb250LWZhbWlseTonWW91WXVhbic7fQ0KCS5zdDh7Zm9udC1zaXplOjM2cHg7fQ0KCS5zdDl7ZGlzcGxheTppbmxpbmU7fQ0KCS5zdDEwe2ZvbnQtc2l6ZToyMXB4O30NCgkuc3QxMXtmaWxsOiNGRkI2MTI7fQ0KCS5zdDEye2ZvbnQtZmFtaWx5OidCYWhuc2NocmlmdCc7fQ0KCS5zdDEze2Rpc3BsYXk6aW5saW5lO2ZpbGw6bm9uZTtzdHJva2U6I0ZGRkZGRjtzdHJva2Utd2lkdGg6MS4wMzMzO3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCjwvc3R5bGU+DQo8ZyBpZD0i5Zu+5bGCXzEiPg0KCTxnIGlkPSLlm77lsYJfMV8xXyIgY2xhc3M9InN0MCI+DQoJCQ0KCQkJPGltYWdlIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvdmVyZmxvdzp2aXNpYmxlO2VuYWJsZS1iYWNrZ3JvdW5kOm5ldyAgICA7IiB3aWR0aD0iNDgyIiBoZWlnaHQ9IjIwMCIgeGxpbms6aHJlZj0iQkJBQUUwRkQuanBlZyIgIHRyYW5zZm9ybT0ibWF0cml4KDAuOTk3OSAwIDAgMC45OTUgMTUuNSAyNC4zMzMzKSI+DQoJCTwvaW1hZ2U+DQoJPC9nPg0KCTxnIGlkPSLlm77lsYJfMyI+DQoJCTxwb2x5Z29uIGNsYXNzPSJzdDEiIHBvaW50cz0iMzYzLDIwNCA0MCwyMDQgNDAsODQgOTMuNSwzNyA0NTkuNSwzNyA0NTkuNSwxMDUuNSAJCSIvPg0KCTwvZz4NCgk8ZyBpZD0i5Zu+5bGCXzIiPg0KCQk8cG9seWdvbiBjbGFzcz0ic3QyIiBwb2ludHM9IjM2MywyMDQgNDAsMjA0IDQwLDg0IDkzLjUsMzcgNDU5LjUsMzcgNDU5LjUsMTA1LjUgCQkiLz4NCgkJPGxpbmUgY2xhc3M9InN0MiIgeDE9IjUwIiB5MT0iMTk0LjciIHgyPSIxNDYuNyIgeTI9IjE5NC43Ii8+DQoJCTxwb2x5Z29uIGNsYXNzPSJzdDMiIHBvaW50cz0iMTA4LjMsMTkyLjUgNTQsMTkyLjUgNjYuNCwxODIuNSA5NS45LDE4Mi41IAkJIi8+DQoJCTxwb2x5Z29uIGNsYXNzPSJzdDMiIHBvaW50cz0iMzkuNSwxODEuNSAyNS41LDE5NS41IDI1LjUsMjEwLjUgNTcuMiwyMTAuNSA2NC43LDIwNC41IDM5LjIsMjA0LjUgCQkiLz4NCgkJPHBvbHlsaW5lIGNsYXNzPSJzdDQiIHBvaW50cz0iNTEuMiwxMTIgNTEuMiw4Ni43IDk2LjMsNDYgMjU0LjgsNDYgCQkiLz4NCgkJPHBvbHlnb24gY2xhc3M9InN0MyIgcG9pbnRzPSIyNjIuMywyMDQgMjc2LjUsMTkwLjMgMzA0LjUsMTkwLjMgMzE5LjgsMjA0LjIgCQkiLz4NCgkJPHBvbHlnb24gY2xhc3M9InN0MyIgcG9pbnRzPSI0MjcuMywxMzYuNyA0MjcuMywxMjMuMiA0NTEuNyw5OS41IDQ1MS43LDgwLjIgNDU4LjMsNzIuOCA0NTguMywxMDQuMyAJCSIvPg0KCQk8bGluZSBjbGFzcz0ic3Q0IiB4MT0iMjI1IiB5MT0iMjE4IiB4Mj0iMjI1IiB5Mj0iNDk1Ii8+DQoJPC9nPg0KPC9nPg0KPGcgaWQ9IuWbvuWxgl8yXzFfIiBjbGFzcz0ic3QwIj4NCgk8cmVjdCB4PSIxMDMuNSIgeT0iNDkuMyIgY2xhc3M9InN0NSIgd2lkdGg9IjE2OS44IiBoZWlnaHQ9IjYyLjQiLz4NCgk8dGV4dCB0cmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAxIDEwMy40NjY3IDgwLjIzNzUpIiBjbGFzcz0ic3Q2IHN0NyBzdDgiPuS9meeDreWPkeeUtTwvdGV4dD4NCgk8cmVjdCB4PSIxMDYuNSIgeT0iODkiIGNsYXNzPSJzdDUiIHdpZHRoPSIyNzciIGhlaWdodD0iMjMuNSIvPg0KCTx0ZXh0IHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgMTA2LjQ2NjcgMTA3LjA0NjkpIiBjbGFzcz0ic3Q5Ij48dHNwYW4geD0iMCIgeT0iMCIgY2xhc3M9InN0MyBzdDcgc3QxMCI+5pyJ5Yqf5Yqf546HICAgICAgICAgICA8L3RzcGFuPjx0c3BhbiB4PSIxOTkuNSIgeT0iMCIgY2xhc3M9InN0MTEgc3QxMiBzdDEwIj4wPC90c3Bhbj48dHNwYW4geD0iMjExLjEiIHk9IjAiIGNsYXNzPSJzdDMgc3QxMiBzdDEwIj4ga1c8L3RzcGFuPjwvdGV4dD4NCgk8cmVjdCB4PSIxMDYuNSIgeT0iMTEzLjUiIGNsYXNzPSJzdDUiIHdpZHRoPSIyNzciIGhlaWdodD0iMjMuNSIvPg0KCTx0ZXh0IHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgMTA2LjQ2NjcgMTMxLjU0NjkpIiBjbGFzcz0ic3Q5Ij48dHNwYW4geD0iMCIgeT0iMCIgY2xhc3M9InN0MyBzdDcgc3QxMCI+5peg5Yqf5Yqf546HICAgICAgICAgICA8L3RzcGFuPjx0c3BhbiB4PSIxOTkuNSIgeT0iMCIgY2xhc3M9InN0MTEgc3QxMiBzdDEwIj4wPC90c3Bhbj48dHNwYW4geD0iMjExLjEiIHk9IjAiIGNsYXNzPSJzdDMgc3QxMiBzdDEwIj4ga1ZhcjwvdHNwYW4+PC90ZXh0Pg0KCTxyZWN0IHg9IjEwNi41IiB5PSIxMzcuOCIgY2xhc3M9InN0NSIgd2lkdGg9IjI3NyIgaGVpZ2h0PSIyMy41Ii8+DQoJPHRleHQgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSAxMDYuNDY2NyAxNTUuODgwMikiIGNsYXNzPSJzdDkiPjx0c3BhbiB4PSIwIiB5PSIwIiBjbGFzcz0ic3QzIHN0NyBzdDEwIj7lip/njoflm6DmlbAgICAgICAgICAgIDwvdHNwYW4+PHRzcGFuIHg9IjE5OS41IiB5PSIwIiBjbGFzcz0ic3QxMSBzdDEyIHN0MTAiPjA8L3RzcGFuPjx0c3BhbiB4PSIyMTEuMSIgeT0iMCIgY2xhc3M9InN0MyBzdDcgc3QxMCI+IDwvdHNwYW4+PC90ZXh0Pg0KCTxyZWN0IHg9IjEwNi41IiB5PSIxNjIuNiIgY2xhc3M9InN0NSIgd2lkdGg9IjI3NyIgaGVpZ2h0PSIyMy41Ii8+DQoJPHRleHQgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSAxMDYuNDY2NyAxODAuNjMwMikiIGNsYXNzPSJzdDkiPjx0c3BhbiB4PSIwIiB5PSIwIiBjbGFzcz0ic3QzIHN0NyBzdDEwIj7lkKjnhp/mlpnlj5HnlLXph48gICAgICAgPC90c3Bhbj48dHNwYW4geD0iMTk5LjUiIHk9IjAiIGNsYXNzPSJzdDExIHN0MTIgc3QxMCI+MDwvdHNwYW4+PHRzcGFuIHg9IjIxMS4xIiB5PSIwIiBjbGFzcz0ic3QzIHN0MTIgc3QxMCI+IGtXaC90PC90c3Bhbj48L3RleHQ+DQo8L2c+DQo8ZyBpZD0i5Zu+5bGCXzNfMV8iIGNsYXNzPSJzdDAiPg0KCTxyZWN0IHg9IjEwMy41IiB5PSI0OC44IiBjbGFzcz0ic3Q1IiB3aWR0aD0iMTY5LjgiIGhlaWdodD0iNjIuNCIvPg0KCTx0ZXh0IHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgMTAzLjQ2NjcgNzkuNzU0MikiIGNsYXNzPSJzdDYgc3Q3IHN0OCI+6LSn6L+Q5Y2h6L2mPC90ZXh0Pg0KCTxyZWN0IHg9IjMwOCIgeT0iMTE4LjMiIGNsYXNzPSJzdDUiIHdpZHRoPSIxMDEuMyIgaGVpZ2h0PSI1NC43Ii8+DQoJPHRleHQgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSAzMDguMDQ5NyAxNDkuMTEyNSkiIGNsYXNzPSJzdDYgc3QxMiBzdDgiPjMwIHQ8L3RleHQ+DQo8L2c+DQo8ZyBpZD0i5Zu+5bGCXzQiIGNsYXNzPSJzdDAiPg0KCTxyZWN0IHg9IjcyLjUiIHk9IjEwOSIgY2xhc3M9InN0MTMiIHdpZHRoPSIyMDcuNSIgaGVpZ2h0PSI1MiIvPg0KCTxyZWN0IHg9Ijc2LjMiIHk9IjExMS41IiBjbGFzcz0ic3Q2IiB3aWR0aD0iMTk5LjgiIGhlaWdodD0iNDciLz4NCjwvZz4NCjwvc3ZnPg0K",
+      "width": 322.62525,
+      "height": 322.62525,
+      "x": 152.999585,
+      "y": 146.144955
+    },
+    {
+      "type": "Text",
+      "text": "货运卡车",
+      "color": "rgb(255,255,255)",
+      "font": "21px arial",
+      "width": 88.14205,
+      "height": 24.77701,
+      "x": 97.688205,
+      "y": 29.989055
+    },
+    {
+      "type": "Component",
+      "displayName": "进度条",
+      "background": "rgb(66,66,66)",
+      "foreColor": "rgb(255,255,255)",
+      "value": {
+        "func": "attr@进度值",
+        "value": 1
+      },
+      "valueVisible": false,
+      "component": "components/progressBar/progressBar.json",
+      "width": 149.63474,
+      "height": 21.00137,
+      "x": 108.94459,
+      "y": 69.129505
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@重量",
+        "value": "10"
+      },
+      "color": "#FEB64D",
+      "font": "26px arial",
+      "width": 53.816,
+      "height": 32.37711,
+      "x": 221.05144,
+      "y": 70.626635
+    },
+    {
+      "type": "Text",
+      "text": "t",
+      "color": "rgb(255,255,255)",
+      "font": "25px arial",
+      "width": 26.45675,
+      "height": 26.45675,
+      "x": 243.786525,
+      "y": 70.85719499999999
+    }
+  ],
+  "bind": [
+    {
+      "attr": "进度值",
+      "valueType": "Percentage",
+      "defaultValue": 1,
+      "name": "PBValue"
+    },
+    {
+      "attr": "重量",
+      "valueType": "Number",
+      "defaultValue": 10
+    }
+  ]
+}

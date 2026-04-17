@@ -1,0 +1,87 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "rgb(255,255,255)",
+      "shape": "oval",
+      "width": 81.10182,
+      "height": 80.90915,
+      "x": 49.042370000000005,
+      "y": 49.708285
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "rotation": 4.71239,
+      "shape": "triangle",
+      "width": 43.48786,
+      "height": 16.57409,
+      "x": 80.03098,
+      "y": 49.708285
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "triangle",
+      "width": 43.48786,
+      "height": 16.57409,
+      "x": 21.329159999999998,
+      "y": 49.999995
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0)",
+      "borderWidth": 10,
+      "borderColor": "rgb(255,0,0)",
+      "shape": "oval",
+      "width": 83.01709,
+      "height": 81.49257,
+      "x": 50.000005,
+      "y": 49.999995
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@width",
+        "value": "3"
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold 50px 黑体",
+      "width": 56.09113,
+      "height": 35.82956,
+      "x": 41.087675,
+      "y": 50
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@maxwidth",
+        "value": "m"
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold 12px 黑体",
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 42.43314,
+      "height": 35.82956,
+      "x": 69.13324,
+      "y": 58.895270000000004
+    }
+  ],
+  "bind": [
+    {
+      "attr": "width",
+      "valueType": "String",
+      "defaultValue": "3",
+      "name": "限制宽度"
+    }
+  ]
+}

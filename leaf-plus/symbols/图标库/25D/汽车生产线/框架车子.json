@@ -1,0 +1,41 @@
+{
+  "width": 72,
+  "height": 58.57321,
+  "elements": [
+    {
+      "type": "Image",
+      "pixelPerfect": true,
+      "prefix": 21532,
+      "displayName": "底座车骨架",
+      "image": "symbols/图标库/25D/汽车生产线/设备/底座车骨架.json",
+      "width": 72,
+      "height": 43,
+      "x": 36,
+      "y": 37.07321
+    },
+    {
+      "type": "Image",
+      "pixelPerfect": true,
+      "prefix": 21533,
+      "displayName": "焊接车门立",
+      "image": "symbols/图标库/25D/汽车生产线/设备/焊接车门立.json",
+      "width": 57,
+      "height": 41,
+      "x": 43.5,
+      "y": 20.5
+    },
+    {
+      "type": "Image",
+      "pixelPerfect": true,
+      "prefix": 21534,
+      "displayName": "焊接车门立",
+      "image": "symbols/图标库/25D/汽车生产线/设备/焊接车门立.json",
+      "width": 57,
+      "height": 41,
+      "x": 28.5,
+      "y": 33.49571
+    }
+  ],
+  "bind": [],
+  "cacheRule": true
+}

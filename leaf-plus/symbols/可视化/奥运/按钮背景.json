@@ -1,0 +1,50 @@
+{
+  "width": 215.09631,
+  "height": 67.98513,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientPack": "rgb(67,65,186)",
+      "cornerRadius": 15.25082,
+      "pixelPerfect": true,
+      "shadow": true,
+      "shadowColor": "rgba(0,6,181,0.2)",
+      "shadowBlur": 15,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 9,
+      "shape": "roundRect",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 107.548155,
+      "y": 33.992565
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "radial",
+        0,
+        1.7331,
+        1.93862,
+        0,
+        "rgb(99,193,255)",
+        1,
+        "rgba(209,94,255,0.00)"
+      ],
+      "cornerRadius": 15.25082,
+      "pixelPerfect": true,
+      "shadowColor": "rgba(0,6,181,0.25)",
+      "shadowBlur": 15,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 9,
+      "shape": "roundRect",
+      "width": 215.09631,
+      "height": 67.98513,
+      "x": 107.548155,
+      "y": 33.992565
+    }
+  ]
+}

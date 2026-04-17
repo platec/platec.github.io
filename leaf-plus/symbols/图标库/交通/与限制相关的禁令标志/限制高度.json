@@ -1,0 +1,127 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "rgb(255,255,255)",
+      "shape": "oval",
+      "width": 81.10182,
+      "height": 80.90915,
+      "x": 50,
+      "y": 50.291705
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "rotation": 3.14159,
+      "shape": "triangle",
+      "width": 43.48786,
+      "height": 16.57409,
+      "x": 50,
+      "y": 22.313465
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "shape": "triangle",
+      "width": 43.48786,
+      "height": 16.57409,
+      "x": 50,
+      "y": 78.35099500000001
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0)",
+      "borderWidth": 10,
+      "borderColor": "rgb(255,0,0)",
+      "shape": "oval",
+      "width": 83.01709,
+      "height": 81.49257,
+      "x": 50.000005,
+      "y": 49.999995
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@height1",
+        "value": "3"
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold12px 黑体",
+      "scaleX": 4,
+      "scaleY": 4,
+      "width": 56.09113,
+      "height": 35.82956,
+      "x": 31.515365,
+      "y": 50.2917
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@height2",
+        "value": "5"
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold12px ���体",
+      "scaleX": 4,
+      "scaleY": 4,
+      "width": 56.09113,
+      "height": 35.82956,
+      "x": 57.214815,
+      "y": 50.2917
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@maxwidth",
+        "value": "."
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold 12px 黑体",
+      "scaleX": 2,
+      "scaleY": 2,
+      "rotation": 3.14159,
+      "width": 7.81504,
+      "height": 6.53158,
+      "x": 44.705999999999996,
+      "y": 70.06394999999999
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@maxwidth",
+        "value": "m"
+      },
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "bold 12px 黑体",
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 20.60127,
+      "height": 16.6469,
+      "x": 77.816085,
+      "y": 55.16263
+    }
+  ],
+  "bind": [
+    {
+      "attr": "height1",
+      "valueType": "Int",
+      "defaultValue": "5",
+      "name": "限宽整数"
+    },
+    {
+      "attr": "height2",
+      "valueType": "Int",
+      "defaultValue": "5",
+      "name": "限宽小数"
+    }
+  ]
+}

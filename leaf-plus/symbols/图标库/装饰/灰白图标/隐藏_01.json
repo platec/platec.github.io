@@ -1,0 +1,132 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 14.72699,
+          "y": 5.42942
+        },
+        {
+          "x": 12.86938,
+          "y": 8.04064
+        },
+        {
+          "x": 10.62705,
+          "y": 9.34624
+        },
+        {
+          "x": 8,
+          "y": 9.34626
+        },
+        {
+          "x": 5.37295,
+          "y": 9.34624
+        },
+        {
+          "x": 3.13062,
+          "y": 8.04064
+        },
+        {
+          "x": 1.27301,
+          "y": 5.42942
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 8,
+          "y": 9.61784
+        },
+        {
+          "x": 8,
+          "y": 10.84216
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 0.34907,
+      "points": [
+        {
+          "x": 4.76237,
+          "y": 9.04259
+        },
+        {
+          "x": 4.76237,
+          "y": 10.26692
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": -0.34907,
+      "points": [
+        {
+          "x": 11.23763,
+          "y": 9.04259
+        },
+        {
+          "x": 11.23763,
+          "y": 10.26692
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 0.69813,
+      "points": [
+        {
+          "x": 2.10644,
+          "y": 7.24462
+        },
+        {
+          "x": 2.10644,
+          "y": 8.46894
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": -0.69813,
+      "points": [
+        {
+          "x": 13.89356,
+          "y": 7.24462
+        },
+        {
+          "x": 13.89356,
+          "y": 8.46894
+        }
+      ]
+    }
+  ]
+}

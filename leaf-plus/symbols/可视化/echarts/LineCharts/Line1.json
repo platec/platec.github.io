@@ -1,0 +1,52 @@
+{
+  "width": 560,
+  "height": 376,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "xAxis.data",
+      "valueType": "Object",
+      "defaultValue": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "group": "chart"
+    },
+    {
+      "attr": "series0.data",
+      "valueType": "Object",
+      "defaultValue": [
+        150,
+        230,
+        224,
+        218,
+        135,
+        147,
+        260
+      ]
+    },
+    {
+      "attr": "chart.text",
+      "valueType": "String",
+      "defaultValue": "单折线图",
+      "name": "主标题"
+    },
+    {
+      "attr": "chart.subtext",
+      "valueType": "String",
+      "defaultValue": "一个简单的单折线图",
+      "name": "副标题"
+    },
+    {
+      "attr": "chart.backgroundColor",
+      "valueType": "Color",
+      "name": "背景色",
+      "defaultValue": "#fff"
+    }
+  ]
+}

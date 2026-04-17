@@ -1,0 +1,89 @@
+{
+  "width": 48,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcFrom": 3.14159,
+      "arcTo": 7.85398,
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "1",
+      "shape": "arc",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 23.999995,
+      "y": 26.172185
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "1",
+      "points": [
+        {
+          "x": 24,
+          "y": 64.02852
+        },
+        {
+          "x": 24,
+          "y": 36.08763
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "1",
+      "points": [
+        {
+          "x": 13.17104,
+          "y": 26.59881
+        },
+        {
+          "x": 24,
+          "y": 26.59881
+        },
+        {
+          "x": 24,
+          "y": 0
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    }
+  ]
+}

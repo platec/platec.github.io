@@ -1,0 +1,67 @@
+{
+  "width": 102,
+  "height": 8,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#3b3b3b",
+      "borderCap": "round",
+      "borderPattern": [
+        2,
+        4
+      ],
+      "pixelPerfect": true,
+      "layoutV": "topbottom",
+      "anchorY": 0,
+      "points": [
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 107,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#a6a6a6",
+      "borderCap": "round",
+      "borderPattern": [
+        2,
+        4
+      ],
+      "pixelPerfect": true,
+      "layoutV": "topbottom",
+      "anchorY": 0,
+      "points": [
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 104,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 6
+        },
+        {
+          "x": 104,
+          "y": 6
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        1,
+        2
+      ]
+    }
+  ],
+  "cacheRule": true
+}

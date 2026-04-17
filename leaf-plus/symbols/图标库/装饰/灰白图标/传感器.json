@@ -1,0 +1,74 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": 2.61799,
+      "arcClose": false,
+      "shape": "arc",
+      "width": 6,
+      "height": 7,
+      "x": 7,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": 2.0944,
+      "arcClose": false,
+      "shape": "arc",
+      "width": 12,
+      "height": 12,
+      "x": 7,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "cornerRadius": 1.5,
+      "anchorX": 0,
+      "shape": "roundRect",
+      "width": 9,
+      "height": 4,
+      "x": 6,
+      "y": 12
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 8.5,
+          "y": 12
+        },
+        {
+          "x": 9.5,
+          "y": 12
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "points": [
+        {
+          "x": 11.5,
+          "y": 12
+        },
+        {
+          "x": 12.5,
+          "y": 12
+        }
+      ]
+    }
+  ]
+}

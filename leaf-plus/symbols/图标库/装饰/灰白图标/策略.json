@@ -1,0 +1,153 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderPattern": [
+        0
+      ],
+      "cornerRadius": 2,
+      "shape": "roundRect",
+      "width": 14,
+      "height": 14,
+      "x": 8,
+      "y": 8
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 6.5,
+          "y": 6.75
+        },
+        {
+          "x": 5.25,
+          "y": 5.5
+        },
+        {
+          "x": 6.5,
+          "y": 4.25
+        },
+        {
+          "x": 4,
+          "y": 4.25
+        },
+        {
+          "x": 5.25,
+          "y": 5.5
+        },
+        {
+          "x": 4,
+          "y": 6.75
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 12,
+          "y": 6.75
+        },
+        {
+          "x": 10.75,
+          "y": 5.5
+        },
+        {
+          "x": 12,
+          "y": 4.25
+        },
+        {
+          "x": 9.5,
+          "y": 4.25
+        },
+        {
+          "x": 10.75,
+          "y": 5.5
+        },
+        {
+          "x": 9.5,
+          "y": 6.75
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 6.5,
+          "y": 12
+        },
+        {
+          "x": 5.25,
+          "y": 10.75
+        },
+        {
+          "x": 6.5,
+          "y": 9.5
+        },
+        {
+          "x": 4,
+          "y": 9.5
+        },
+        {
+          "x": 5.25,
+          "y": 10.75
+        },
+        {
+          "x": 4,
+          "y": 12
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "shape": "oval",
+      "width": 2.5,
+      "height": 2.5,
+      "x": 10.75,
+      "y": 10.75
+    }
+  ]
+}

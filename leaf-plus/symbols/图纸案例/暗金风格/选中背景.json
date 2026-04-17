@@ -1,0 +1,166 @@
+{
+  "width": 125,
+  "height": 45,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 23.455,
+          "y": 2
+        },
+        {
+          "x": 17.265,
+          "y": 7
+        },
+        {
+          "x": 17.265,
+          "y": 39
+        },
+        {
+          "x": 23.455,
+          "y": 43
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 100.865,
+          "y": 2
+        },
+        {
+          "x": 107.055,
+          "y": 7
+        },
+        {
+          "x": 107.055,
+          "y": 39
+        },
+        {
+          "x": 100.865,
+          "y": 43
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "points": [
+        {
+          "x": 109.215,
+          "y": 4
+        },
+        {
+          "x": 114.795,
+          "y": 8.51
+        },
+        {
+          "x": 114.795,
+          "y": 37.39
+        },
+        {
+          "x": 109.215,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "points": [
+        {
+          "x": 16.135,
+          "y": 4
+        },
+        {
+          "x": 10.545,
+          "y": 8.51
+        },
+        {
+          "x": 10.545,
+          "y": 37.39
+        },
+        {
+          "x": 16.135,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "opacity": 0.3,
+      "points": [
+        {
+          "x": 117.855,
+          "y": 7.15
+        },
+        {
+          "x": 122.365,
+          "y": 10.78
+        },
+        {
+          "x": 122.365,
+          "y": 34.09
+        },
+        {
+          "x": 117.855,
+          "y": 37
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#f5b04a",
+      "pixelPerfect": true,
+      "opacity": 0.3,
+      "points": [
+        {
+          "x": 7.145,
+          "y": 7.15
+        },
+        {
+          "x": 2.635,
+          "y": 10.78
+        },
+        {
+          "x": 2.635,
+          "y": 34.09
+        },
+        {
+          "x": 7.145,
+          "y": 37
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "#f5b04a",
+      "borderColor": "#979797",
+      "gradient": "spread.vertical",
+      "gradientColor": "rgba(245,176,74,0.2)",
+      "shape": "rect",
+      "width": 83.29863,
+      "height": 30.27288,
+      "x": 62.473975,
+      "y": 22.27081
+    }
+  ]
+}

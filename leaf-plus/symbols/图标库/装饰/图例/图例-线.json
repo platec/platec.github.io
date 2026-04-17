@@ -1,0 +1,44 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "points": [
+        {
+          "x": 0,
+          "y": 12
+        },
+        {
+          "x": 12,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderWidth": 3,
+      "borderColor": "rgba(255,255,255,0.5)",
+      "shape": "oval",
+      "width": 6,
+      "height": 6,
+      "x": 6,
+      "y": 6
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "opacity": 0.6,
+      "gray": true,
+      "shape": "circle",
+      "width": 3,
+      "height": 3,
+      "x": 6,
+      "y": 6
+    }
+  ]
+}

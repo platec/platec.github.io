@@ -1,0 +1,1114 @@
+{
+  "width": 503,
+  "height": 52,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(49,98,204,0.7)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "displayName": "不规则图形",
+      "points": [
+        {
+          "x": 478.29895,
+          "y": 10.25604
+        },
+        {
+          "x": 478.27878,
+          "y": 38.56846
+        },
+        {
+          "x": 468.4484,
+          "y": 46.37473
+        },
+        {
+          "x": 460.78686,
+          "y": 46.37473
+        },
+        {
+          "x": 460.78686,
+          "y": 10.25604
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(49,98,204,0.7)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 499.09455,
+          "y": 10.25604
+        },
+        {
+          "x": 499.09455,
+          "y": 19.01209
+        },
+        {
+          "x": 482.67697,
+          "y": 34.33517
+        },
+        {
+          "x": 482.67697,
+          "y": 10.25604
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(49,98,204,0.7)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 38.30773,
+          "y": 10.2451
+        },
+        {
+          "x": 38.28755,
+          "y": 38.55752
+        },
+        {
+          "x": 28.45718,
+          "y": 46.36378
+        },
+        {
+          "x": 20.79564,
+          "y": 46.36378
+        },
+        {
+          "x": 20.79564,
+          "y": 10.2451
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(49,98,204,0.7)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 16.41762,
+          "y": 10.2451
+        },
+        {
+          "x": 16.41762,
+          "y": 19.00114
+        },
+        {
+          "x": 0.00003,
+          "y": 34.32422
+        },
+        {
+          "x": 0.00003,
+          "y": 10.2451
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,12,43)",
+      "borderWidth": 2,
+      "borderColor": "rgb(0,30,89)",
+      "borderJoin": "bevel",
+      "shadowColor": "#1ABC9C",
+      "shape": "rect",
+      "width": 394.02199,
+      "height": 48.15824,
+      "x": 249.54729500000002,
+      "y": 25.57912
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(49,98,204,0.40)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 54.72531,
+          "y": 33.24066
+        },
+        {
+          "x": 80.73375,
+          "y": 33.24066
+        },
+        {
+          "x": 85.93544,
+          "y": 41.9967
+        },
+        {
+          "x": 54.72531,
+          "y": 41.9967
+        },
+        {
+          "x": 54.72531,
+          "y": 33.24066
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,30,89)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "shape": "rect",
+      "width": 2.18901,
+      "height": 41.59121,
+      "x": 449.841805,
+      "y": 25.579124999999998
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(49,101,204)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 452.03812,
+          "y": 4.78352
+        },
+        {
+          "x": 454.21983,
+          "y": 4.78352
+        },
+        {
+          "x": 459.69235,
+          "y": 10.25604
+        },
+        {
+          "x": 459.69235,
+          "y": 46.37099
+        },
+        {
+          "x": 452.03082,
+          "y": 46.37473
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(48,0,0,0.40)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 455.31433,
+          "y": 4.78352
+        },
+        {
+          "x": 473.92093,
+          "y": 4.78352
+        },
+        {
+          "x": 478.29895,
+          "y": 9.16154
+        },
+        {
+          "x": 459.69235,
+          "y": 9.16154
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 463.24949749999996,
+      "y": 13.3056951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 465.43850749999996,
+      "y": 13.3056951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "displayName": "矩形",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 467.62751749999995,
+      "y": 13.3056951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 463.24949749999996,
+      "y": 15.4947051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 463.24949749999996,
+      "y": 17.6837151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 463.24949749999996,
+      "y": 19.8727251032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 465.43850749999996,
+      "y": 15.4947051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 469.81652749999995,
+      "y": 13.3056951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 467.62751749999995,
+      "y": 15.4947051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 465.43850749999996,
+      "y": 17.6837151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 454.4934575,
+      "y": 16.5892051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 456.6824675,
+      "y": 16.5892051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 454.4934575,
+      "y": 18.7782151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 456.6824675,
+      "y": 18.7782151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 454.4934575,
+      "y": 20.9672251032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 456.6824675,
+      "y": 20.9672251032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 454.4934575,
+      "y": 23.1562451032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 456.6824675,
+      "y": 23.1562451032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 454.4934575,
+      "y": 25.5203951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 456.6824675,
+      "y": 25.5203951032
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 452.03082,
+          "y": 43.09121
+        },
+        {
+          "x": 459.69235,
+          "y": 35.42967
+        },
+        {
+          "x": 459.69235,
+          "y": 36.52418
+        },
+        {
+          "x": 452.03082,
+          "y": 44.18572
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 453.12532,
+          "y": 46.37473
+        },
+        {
+          "x": 459.69235,
+          "y": 39.80769
+        },
+        {
+          "x": 459.69235,
+          "y": 40.9022
+        },
+        {
+          "x": 454.21983,
+          "y": 46.37473
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,30,89)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 2.18901,
+      "height": 41.59121,
+      "x": 49.252784999999996,
+      "y": 25.579124999999998
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 76.6155,
+      "y": 40.655814853900004
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 76.6155,
+      "y": 38.4668048539
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 78.80452,
+      "y": 40.655814853900004
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 76.6155,
+      "y": 36.277794853900005
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 78.80452,
+      "y": 38.4668048539
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 19,
+      "anchorY": 0.77489,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 80.99352999999999,
+      "y": 40.655814853900004
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(49,101,204)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 39.40953,
+          "y": 4.78352
+        },
+        {
+          "x": 41.59124,
+          "y": 4.78352
+        },
+        {
+          "x": 47.06377,
+          "y": 10.25604
+        },
+        {
+          "x": 47.06377,
+          "y": 46.37099
+        },
+        {
+          "x": 39.40223,
+          "y": 46.37473
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(48,0,0,0.40)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 20.79564,
+          "y": 4.77257
+        },
+        {
+          "x": 39.40223,
+          "y": 4.77257
+        },
+        {
+          "x": 43.78025,
+          "y": 9.15059
+        },
+        {
+          "x": 25.17366,
+          "y": 9.15059
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 35.2978375,
+      "y": 12.6679851032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 35.2978375,
+      "y": 14.9405851032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "displayName": "矩形",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 35.2978375,
+      "y": 17.1295951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 30.9198175,
+      "y": 14.9405851032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 33.108827500000004,
+      "y": 12.7515751032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 28.7308075,
+      "y": 12.7515751032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 33.108827500000004,
+      "y": 14.9405851032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 35.2978375,
+      "y": 19.3186051032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 33.108827500000004,
+      "y": 17.1295951032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 30.9198175,
+      "y": 12.7515751032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 42.412127500000004,
+      "y": 25.3452551032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 44.6011375,
+      "y": 25.3452551032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 42.412127500000004,
+      "y": 23.1562451032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 44.6011375,
+      "y": 23.1562451032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 42.412127500000004,
+      "y": 20.9672251032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 44.6011375,
+      "y": 20.9672251032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 42.412127500000004,
+      "y": 18.7782151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 44.6011375,
+      "y": 18.7782151032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 42.412127500000004,
+      "y": 16.5782651032
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0.25,
+      "anchorY": 0.78632,
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 1.09451,
+      "height": 1.09451,
+      "x": 44.6011375,
+      "y": 16.5782651032
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 39.40223,
+          "y": 43.08026
+        },
+        {
+          "x": 47.06377,
+          "y": 35.41873
+        },
+        {
+          "x": 47.06377,
+          "y": 36.51323
+        },
+        {
+          "x": 39.40223,
+          "y": 44.17477
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(5,9,23)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 39.40223,
+          "y": 46.37473
+        },
+        {
+          "x": 45.96926,
+          "y": 39.80769
+        },
+        {
+          "x": 45.96926,
+          "y": 40.9022
+        },
+        {
+          "x": 40.49674,
+          "y": 46.37473
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "Inteligent Lighting Alliance",
+      "align": "center",
+      "color": "#ffffff",
+      "font": "24px sans-serif",
+      "width": 410.43957,
+      "height": 48.15824,
+      "x": 247.905535,
+      "y": 25.57912
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(224,118,25)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 54.72531,
+          "y": 47.38639
+        },
+        {
+          "x": 54.72531,
+          "y": 43.09121
+        },
+        {
+          "x": 86.58565,
+          "y": 43.09121
+        },
+        {
+          "x": 88.97085,
+          "y": 46.84427
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(224,118,25)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 481.58246,
+          "y": 10.25604
+        },
+        {
+          "x": 481.58246,
+          "y": 35.42967
+        },
+        {
+          "x": 479.39345,
+          "y": 37.61868
+        },
+        {
+          "x": 479.39345,
+          "y": 10.25604
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(224,118,25)",
+      "borderColor": "#979797",
+      "shadowColor": "#1ABC9C",
+      "scaleY": -1,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 19.70113,
+          "y": 10.2451
+        },
+        {
+          "x": 19.70113,
+          "y": 35.41873
+        },
+        {
+          "x": 17.51212,
+          "y": 37.60774
+        },
+        {
+          "x": 17.51212,
+          "y": 10.2451
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderColor": "rgb(41,155,217)",
+      "borderJoin": "bevel",
+      "shadowColor": "#1ABC9C",
+      "shape": "rect",
+      "width": 389.64397,
+      "height": 1.09451,
+      "x": 249.54729500000002,
+      "y": 46.921985
+    }
+  ]
+}

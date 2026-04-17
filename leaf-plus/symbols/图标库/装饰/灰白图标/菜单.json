@@ -1,0 +1,72 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 2,
+      "x": 1,
+      "y": 3
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 12,
+      "height": 2,
+      "x": 10,
+      "y": 3
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 2,
+      "x": 1,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 12,
+      "height": 2,
+      "x": 10,
+      "y": 8
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 2,
+      "x": 1,
+      "y": 13
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 12,
+      "height": 2,
+      "x": 10,
+      "y": 13
+    }
+  ]
+}

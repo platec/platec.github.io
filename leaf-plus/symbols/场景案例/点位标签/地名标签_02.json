@@ -1,0 +1,60 @@
+{
+  "width": 166,
+  "height": 50,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "五角星",
+      "image": "assets/场景案例/写实中国地图_01/pentagram_01.png",
+      "width": 51.01629,
+      "height": 51.01629,
+      "x": 33.375485,
+      "y": 24.999995
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "北京"
+      },
+      "align": "center",
+      "color": "rgb(23,23,23)",
+      "gradientColor": "rgb(255,255,255)",
+      "font": "40px arial, sans-serif",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "width": 174.94054,
+      "height": 50,
+      "x": 106.81626,
+      "y": 29.72835
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "北京"
+      },
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "gradientColor": "rgb(255,255,255)",
+      "font": "40px arial, sans-serif",
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 3,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "width": 174.94054,
+      "height": 50,
+      "x": 104.55387999999999,
+      "y": 28.07101
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    }
+  ]
+}

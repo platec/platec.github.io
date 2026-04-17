@@ -1,0 +1,12 @@
+{
+  "width": 200,
+  "height": 120,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "displayURL",
+      "valueType": "URL",
+      "defaultValue": "displays/industry/factory.json"
+    }
+  ]
+}

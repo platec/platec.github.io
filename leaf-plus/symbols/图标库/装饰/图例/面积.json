@@ -1,0 +1,103 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0.4)",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "shape": "rect",
+      "width": 11.5,
+      "height": 11.5,
+      "x": 6,
+      "y": 6
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 12,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 12
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 8,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 8
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 4,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 12,
+          "y": 4
+        },
+        {
+          "x": 4,
+          "y": 12
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(255,255,255)",
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 12,
+          "y": 8
+        },
+        {
+          "x": 8,
+          "y": 12
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "colors",
+      "valueType": "String"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "width": 41,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Image",
+      "prefix": "1661423948550121",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 4.11916,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 12.03376,
+      "height": 12.03376,
+      "x": 28.2867247984,
+      "y": 14.7121063264
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423628899351",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 3.41272,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 8.05126,
+      "height": 6.42297,
+      "x": 18.7126026234,
+      "y": 17.1745925408
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423628899351",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 4.40403,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 8.05126,
+      "height": 6.42297,
+      "x": 20.0431226234,
+      "y": 11.029412540800001
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423628899351",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 3.97023,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 8.05126,
+      "height": 6.42297,
+      "x": 12.354342623400001,
+      "y": 16.4321525408
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423628899351",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 2.48061,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 4.8931,
+      "height": 6.42297,
+      "x": 15.407117228999999,
+      "y": 13.1008025408
+    },
+    {
+      "type": "Image",
+      "displayName": "煤2",
+      "rotation": 0.75298,
+      "image": "symbols/图标库/IoT设备/煤厂/煤2.json",
+      "width": 6.84804,
+      "height": 2.85335,
+      "x": 24.769879999999997,
+      "y": 8.583885
+    },
+    {
+      "type": "Image",
+      "displayName": "煤2",
+      "rotation": 3.28112,
+      "image": "symbols/图标库/IoT设备/煤厂/煤2.json",
+      "width": 6.84804,
+      "height": 2.85335,
+      "x": 37.67638,
+      "y": 19.780245
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423948551863",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 3.46261,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 12.03376,
+      "height": 7.93556,
+      "x": 18.6978247984,
+      "y": 4.0905830784
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423948551155",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 3.37422,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 9.39916,
+      "height": 9.61431,
+      "x": 3.4460305844,
+      "y": 15.671237478399998
+    },
+    {
+      "type": "Image",
+      "displayName": "煤2",
+      "rotation": 5.33998,
+      "image": "symbols/图标库/IoT设备/煤厂/煤2.json",
+      "width": 6.84804,
+      "height": 5.68028,
+      "x": 10.22678,
+      "y": 10.702919999999999
+    },
+    {
+      "type": "Image",
+      "displayName": "煤2",
+      "rotation": 3.28112,
+      "image": "symbols/图标库/IoT设备/煤厂/煤2.json",
+      "width": 6.84804,
+      "height": 2.85335,
+      "x": 15.424380000000001,
+      "y": 8.813895
+    },
+    {
+      "type": "Image",
+      "prefix": "1661423628899351",
+      "displayName": "煤",
+      "anchorX": 0.61359,
+      "anchorY": 0.47264,
+      "rotation": 4.06763,
+      "image": "symbols/图标库/IoT设备/煤厂/煤.json",
+      "width": 4.8931,
+      "height": 7.61314,
+      "x": 7.9881572290000005,
+      "y": 8.4157444896
+    }
+  ],
+  "cacheRule": true
+}

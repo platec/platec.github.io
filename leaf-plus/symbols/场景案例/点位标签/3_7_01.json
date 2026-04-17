@@ -1,0 +1,202 @@
+{
+  "width": 228,
+  "height": 127,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.85)",
+      "borderColor": "#979797",
+      "selectable": false,
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 209.43473,
+      "height": 4,
+      "x": 122.963185,
+      "y": 60.92969
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(16,16,41,0.80)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "points": [
+        {
+          "x": 18.56273,
+          "y": 61.18278
+        },
+        {
+          "x": 0.00001,
+          "y": 50.85149
+        },
+        {
+          "x": 0.00001,
+          "y": 0.84194
+        },
+        {
+          "x": 211.43724,
+          "y": 0.84194
+        },
+        {
+          "x": 227.68054,
+          "y": 12.14425
+        },
+        {
+          "x": 227.68054,
+          "y": 61.18278
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgba(41,153,214,0.50)",
+      "borderCap": "round",
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 30.907,
+          "y": 60.92969
+        },
+        {
+          "x": 42.30261,
+          "y": 75.78131
+        },
+        {
+          "x": 82.19153,
+          "y": 75.78131
+        },
+        {
+          "x": 113.86836,
+          "y": 122.99313
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.51)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 31.175515,
+      "y": 61.182785
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.15)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 31.17551,
+      "y": 61.182790000000004
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.15)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 114,
+      "y": 122.86082
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.51)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 113.999995,
+      "y": 122.860815
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(77,127,176,0.05)",
+      "borderColor": "#979797",
+      "arcOval": true,
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "arc",
+      "width": 209.11528,
+      "height": 66.20308,
+      "x": 123.12291,
+      "y": 60.92969
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@text1",
+        "value": "图扑软件"
+      },
+      "align": "center",
+      "color": {
+        "func": "attr@text.color",
+        "value": "#60ACFC"
+      },
+      "font": "24px arial, sans-serif",
+      "width": 226.35953,
+      "height": 38.95904,
+      "x": 113.179765,
+      "y": 22.12665
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@text2",
+        "value": "Hightopo_Demo"
+      },
+      "align": "center",
+      "color": "rgb(124,145,155)",
+      "font": "14px arial, sans-serif",
+      "width": 226.35953,
+      "height": 38.95904,
+      "x": 113.179765,
+      "y": 45.726200000000006
+    }
+  ],
+  "bind": [
+    {
+      "attr": "text1",
+      "valueType": "String"
+    },
+    {
+      "attr": "text.color",
+      "valueType": "Color"
+    },
+    {
+      "attr": "text2",
+      "valueType": "String"
+    }
+  ]
+}

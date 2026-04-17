@@ -1,0 +1,145 @@
+{
+  "width": 95,
+  "height": 58,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@标题",
+        "value": "初效压差"
+      },
+      "align": "center",
+      "color": "#bababa",
+      "font": "14px MicrosoftYaHei, \"Microsoft YaHei\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 36,
+      "y": 10.86501
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.03457,
+        -0.08781,
+        0.96529,
+        1.0875,
+        0,
+        "#ea4b61",
+        1,
+        "#bc3361"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 2.78379,
+          "y": 23.68759
+        },
+        {
+          "x": 69.21621,
+          "y": 23.68759
+        },
+        {
+          "x": 71.1335,
+          "y": 23.68759
+        },
+        {
+          "x": 71.1335,
+          "y": 25.60487
+        },
+        {
+          "x": 71.1335,
+          "y": 53.89236
+        },
+        {
+          "x": 71.1335,
+          "y": 55.80965
+        },
+        {
+          "x": 69.21621,
+          "y": 55.80965
+        },
+        {
+          "x": 2.78379,
+          "y": 55.80965
+        },
+        {
+          "x": 0.8665,
+          "y": 55.80965
+        },
+        {
+          "x": 0.8665,
+          "y": 53.89236
+        },
+        {
+          "x": 0.8665,
+          "y": 25.60487
+        },
+        {
+          "x": 0.8665,
+          "y": 23.68759
+        },
+        {
+          "x": 2.78379,
+          "y": 23.68759
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@数据",
+        "value": "54.45"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "italic bold 18px Arial",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 36,
+      "y": 40.74862
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@unit",
+        "value": "Pa"
+      },
+      "color": "#bababa",
+      "font": "16px MicrosoftYaHei, \"Microsoft YaHei\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 70.90937,
+      "y": 41.93976
+    }
+  ],
+  "bind": [
+    {
+      "attr": "标题",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "数据",
+      "valueType": "Multiline"
+    },
+    {
+      "attr": "unit",
+      "valueType": "Multiline"
+    }
+  ]
+}

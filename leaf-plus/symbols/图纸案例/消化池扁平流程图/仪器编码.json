@@ -1,0 +1,27 @@
+{
+  "width": 50,
+  "height": 10,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@文字信息",
+        "value": "M4101-01"
+      },
+      "align": "center",
+      "color": "#3e3a31",
+      "font": "12px D-DINExp, \"D-DIN Exp\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 25.0005,
+      "y": 4.999499999999999
+    }
+  ],
+  "bind": [
+    {
+      "attr": "文字信息",
+      "valueType": "String"
+    }
+  ]
+}

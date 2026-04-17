@@ -1,0 +1,56 @@
+{
+  "width": 20,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1.5,
+      "borderColor": {
+        "func": "attr@color",
+        "value": "rgb(255,255,255)"
+      },
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 16.5,
+          "y": 16.5
+        },
+        {
+          "x": 10,
+          "y": 10
+        },
+        {
+          "x": 16.5,
+          "y": 3.5
+        },
+        {
+          "x": 3.5,
+          "y": 3.5
+        },
+        {
+          "x": 10,
+          "y": 10
+        },
+        {
+          "x": 3.5,
+          "y": 16.5
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "color",
+      "valueType": "Color"
+    }
+  ]
+}

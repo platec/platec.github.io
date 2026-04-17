@@ -1,0 +1,295 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color"
+      },
+      "pixelPerfect": true,
+      "opacity": 0.4,
+      "points": [
+        {
+          "x": 12,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 10.3923
+        },
+        {
+          "x": 1.6077,
+          "y": 9
+        },
+        {
+          "x": 3.21539,
+          "y": 7.60769
+        },
+        {
+          "x": 6,
+          "y": 6.80385
+        },
+        {
+          "x": 12,
+          "y": 12
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color"
+      },
+      "pixelPerfect": true,
+      "opacity": 0.6,
+      "points": [
+        {
+          "x": 0,
+          "y": 5.19615
+        },
+        {
+          "x": 12,
+          "y": 5.19615
+        },
+        {
+          "x": 12,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 5.19615
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color"
+      },
+      "pixelPerfect": true,
+      "opacity": 0.3,
+      "points": [
+        {
+          "x": 5.998,
+          "y": 0.00015
+        },
+        {
+          "x": 12,
+          "y": 5.19615
+        },
+        {
+          "x": 12,
+          "y": 12
+        },
+        {
+          "x": 5.998,
+          "y": 6.804
+        },
+        {
+          "x": 5.998,
+          "y": 0.00015
+        },
+        {
+          "x": 6.07136,
+          "y": -0.06259
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color"
+      },
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 12,
+          "y": 5.19615
+        },
+        {
+          "x": 0,
+          "y": 5.19615
+        },
+        {
+          "x": 0,
+          "y": 3.58846
+        },
+        {
+          "x": 1.6077,
+          "y": 2.19615
+        },
+        {
+          "x": 3.21539,
+          "y": 0.80385
+        },
+        {
+          "x": 6,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 5.19615
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color",
+        "value": [
+          "linear",
+          1,
+          0,
+          0,
+          1,
+          0,
+          "rgba(255,255,255,0)",
+          1,
+          "white"
+        ]
+      },
+      "pixelPerfect": true,
+      "opacity": 0.1,
+      "composite": "lighter",
+      "points": [
+        {
+          "x": 12,
+          "y": 5.19615
+        },
+        {
+          "x": 0,
+          "y": 5.19615
+        },
+        {
+          "x": 0,
+          "y": 3.58846
+        },
+        {
+          "x": 1.6077,
+          "y": 2.19615
+        },
+        {
+          "x": 3.21539,
+          "y": 0.80385
+        },
+        {
+          "x": 6,
+          "y": 0
+        },
+        {
+          "x": 12,
+          "y": 5.19615
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": {
+        "func": "attr@color",
+        "value": [
+          "linear",
+          0.5,
+          0,
+          0.5,
+          1,
+          0,
+          "white",
+          1,
+          "rgba(255,255,255,0)"
+        ]
+      },
+      "pixelPerfect": true,
+      "opacity": 0.2,
+      "composite": "lighter",
+      "points": [
+        {
+          "x": 0,
+          "y": 5.19615
+        },
+        {
+          "x": 12,
+          "y": 5.19615
+        },
+        {
+          "x": 12,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 5.19615
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "color",
+      "valueType": "Color"
+    }
+  ]
+}

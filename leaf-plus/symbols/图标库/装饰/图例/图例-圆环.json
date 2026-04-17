@@ -1,0 +1,56 @@
+{
+  "width": 24,
+  "height": 24,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 3,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": 2.35619,
+      "arcTo": 5.49779,
+      "arcClose": false,
+      "opacity": 0.4,
+      "shape": "arc",
+      "width": 19,
+      "height": 19,
+      "x": 12,
+      "y": 12
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "arcFrom": 0.7854,
+      "arcTo": 3.92699,
+      "arcClose": false,
+      "opacity": 0.6,
+      "shape": "arc",
+      "width": 18,
+      "height": 18,
+      "x": 12,
+      "y": 12
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,255,255)",
+      "arcFrom": -0.7854,
+      "arcTo": 2.35619,
+      "arcClose": false,
+      "opacity": 0.2,
+      "shape": "arc",
+      "width": 20,
+      "height": 20,
+      "x": 12,
+      "y": 12
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "shape": "circle",
+      "width": 12,
+      "height": 12,
+      "x": 12,
+      "y": 12
+    }
+  ]
+}

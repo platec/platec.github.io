@@ -1,0 +1,1488 @@
+{
+  "width": 900,
+  "height": 760,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 74.92866000000001,
+      "y": 150.79671000000002
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 87.46715,
+      "y": 204.84124
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 112.17905999999999,
+      "y": 261.39702
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 146.41142000000002,
+      "y": 315.43311
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 187.92224,
+      "y": 363.35561
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 234.75071,
+      "y": 402.89751
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 557.52727,
+      "y": 592.36196
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 511.5909,
+      "y": 565.84452
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 258.94096,
+      "y": 419.99863
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 304.8773,
+      "y": 446.51607
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 350.81366,
+      "y": 473.0335
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 396.75001,
+      "y": 499.55093
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 442.68637,
+      "y": 526.06836
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 488.62273,
+      "y": 552.5858
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 281.90913,
+      "y": 433.25734
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 327.84548,
+      "y": 459.77477
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 373.78184,
+      "y": 486.29221
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 419.71819,
+      "y": 512.80966
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 465.65454,
+      "y": 539.32708
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 71.74233,
+      "y": 124.7536
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 78.115,
+      "y": 176.83981
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 96.81929,
+      "y": 232.84267
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 127.53883,
+      "y": 289.95139
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 165.28403,
+      "y": 340.91483
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 210.56045,
+      "y": 385.79638
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 534.55908,
+      "y": 579.10324
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 580.49544,
+      "y": 605.62067
+    },
+    {
+      "type": "Polyline",
+      "background": "#ff7300",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgb(255,84,84)",
+        1,
+        "rgb(255,198,84)"
+      ],
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "shadowColor": "rgba(255,132,0,0.6)",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 585.53851,
+          "y": 624.27708
+        },
+        {
+          "x": 242.18977,
+          "y": 426.04402
+        },
+        {
+          "x": 193.73689,
+          "y": 398.06954
+        },
+        {
+          "x": 148.32719,
+          "y": 353.12855
+        },
+        {
+          "x": 114.32317,
+          "y": 299.49482
+        },
+        {
+          "x": 79.99602,
+          "y": 245.3462
+        },
+        {
+          "x": 61.09069,
+          "y": 188.25737
+        },
+        {
+          "x": 61.09069,
+          "y": 138.7392
+        },
+        {
+          "x": 61.09069,
+          "y": 81.9238
+        },
+        {
+          "x": 103.70224,
+          "y": 57.376
+        },
+        {
+          "x": 103.70224,
+          "y": 138.7392
+        },
+        {
+          "x": 103.70224,
+          "y": 225.94019
+        },
+        {
+          "x": 175.38552,
+          "y": 338.25713
+        },
+        {
+          "x": 263.49555,
+          "y": 389.14242
+        },
+        {
+          "x": 628.12674,
+          "y": 599.64136
+        },
+        {
+          "x": 585.53851,
+          "y": 624.27708
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        4,
+        4,
+        2,
+        2,
+        2,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#ff7300",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0,
+        0,
+        "rgb(255,33,33)",
+        1,
+        "rgb(255,138,13)"
+      ],
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "shadowColor": "rgba(255,132,0,0.6)",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 585.52404,
+          "y": 620.36723
+        },
+        {
+          "x": 244.54334,
+          "y": 423.50136
+        },
+        {
+          "x": 196.42463,
+          "y": 395.71981
+        },
+        {
+          "x": 151.32811,
+          "y": 351.08878
+        },
+        {
+          "x": 117.55862,
+          "y": 297.82495
+        },
+        {
+          "x": 83.46822,
+          "y": 244.04979
+        },
+        {
+          "x": 64.69328,
+          "y": 187.3547
+        },
+        {
+          "x": 64.69328,
+          "y": 138.17805
+        },
+        {
+          "x": 64.69328,
+          "y": 81.7545
+        },
+        {
+          "x": 107.01094,
+          "y": 57.376
+        },
+        {
+          "x": 107.01094,
+          "y": 138.17805
+        },
+        {
+          "x": 107.01094,
+          "y": 224.77762
+        },
+        {
+          "x": 178.19983,
+          "y": 336.31992
+        },
+        {
+          "x": 265.70217,
+          "y": 386.85426
+        },
+        {
+          "x": 627.81854,
+          "y": 595.90142
+        },
+        {
+          "x": 585.52404,
+          "y": 620.36723
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        4,
+        4,
+        2,
+        2,
+        2,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "clip",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 880,
+          "y": 359.62927
+        },
+        {
+          "x": 480,
+          "y": 359.62927
+        },
+        {
+          "x": 480,
+          "y": 759.62927
+        },
+        {
+          "x": 820.64209,
+          "y": 759.62927
+        },
+        {
+          "x": 880,
+          "y": 725.35901
+        },
+        {
+          "x": 880,
+          "y": 359.62927
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 0.5236,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "width": 182,
+            "height": 46,
+            "comps": [
+              {
+                "type": "shape",
+                "background": "rgb(255,84,84)",
+                "points": "list[\n  {\n    \"x\": 2.31855,\n    \"y\": 45.89951\n  },\n  {\n    \"x\": 157.28617,\n    \"y\": 45.89967\n  },\n  {\n    \"x\": 181.68145,\n    \"y\": 3.56443\n  },\n  {\n    \"x\": 26.70981,\n    \"y\": 3.5711\n  },\n  {\n    \"x\": 2.31855,\n    \"y\": 45.89951\n  },\n  {\n    \"x\": 2.31855,\n    \"y\": 45.89951\n  }\n]",
+                "unionRect": {
+                  "x": 2.31855,
+                  "y": 3.56443,
+                  "width": 179.3629,
+                  "height": 42.33524
+                }
+              },
+              {
+                "type": "shape",
+                "background": "rgb(255,33,33)",
+                "points": "list[\n  {\n    \"x\": 0.31855,\n    \"y\": 42.43541\n  },\n  {\n    \"x\": 155.28617,\n    \"y\": 42.43557\n  },\n  {\n    \"x\": 179.68145,\n    \"y\": 0.10033\n  },\n  {\n    \"x\": 24.70981,\n    \"y\": 0.107\n  },\n  {\n    \"x\": 0.31855,\n    \"y\": 42.43541\n  },\n  {\n    \"x\": 0.31855,\n    \"y\": 42.43541\n  }\n]",
+                "unionRect": {
+                  "x": 0.31855,
+                  "y": 0.10033,
+                  "width": 179.3629,
+                  "height": 42.33524
+                }
+              }
+            ]
+          },
+          "width": 182,
+          "height": 46,
+          "gap": 0
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 8,
+      "component": "ht.drawing.marquee",
+      "width": 400,
+      "height": 46,
+      "x": 696.2091,
+      "y": 661.53165
+    },
+    {
+      "type": "restore"
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1.00004,
+        0.97993,
+        0.00804,
+        0.07592,
+        0,
+        "rgb(225,233,240)",
+        1,
+        "rgb(159,179,196)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 39.41009,
+          "y": 119.55683
+        },
+        {
+          "x": 39.41009,
+          "y": 134.32383
+        },
+        {
+          "x": 4.00009,
+          "y": 113.87683
+        },
+        {
+          "x": 4.00009,
+          "y": 99.10983
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        1,
+        0,
+        0,
+        0,
+        "rgb(184,198,212)",
+        1,
+        "rgb(106,126,145)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 150.41237,
+          "y": 55.50293
+        },
+        {
+          "x": 39.40696,
+          "y": 119.56349
+        },
+        {
+          "x": 3.99696,
+          "y": 99.11649
+        },
+        {
+          "x": 115.00337,
+          "y": 35.03293
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        1,
+        0,
+        0,
+        0,
+        "rgb(184,198,212)",
+        1,
+        "rgb(106,126,145)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 13.31,
+          "y": 91.527
+        },
+        {
+          "x": 114.54065,
+          "y": 33.07337
+        },
+        {
+          "x": 141.09265,
+          "y": 48.40337
+        },
+        {
+          "x": 39.862,
+          "y": 106.818
+        },
+        {
+          "x": 13.31,
+          "y": 91.527
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.956,
+        0.008,
+        0.052,
+        0,
+        "rgb(99,114,128)",
+        1,
+        "rgb(101,124,143)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 150.41779,
+          "y": 55.49368
+        },
+        {
+          "x": 39.41009,
+          "y": 119.55683
+        },
+        {
+          "x": 39.41009,
+          "y": 134.32383
+        },
+        {
+          "x": 150.41779,
+          "y": 70.26068
+        },
+        {
+          "x": 150.41779,
+          "y": 55.49368
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0,
+        0,
+        1,
+        0,
+        "rgb(78,93,102)",
+        1,
+        "rgb(50,55,71)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 55.077,
+          "y": 87.462
+        },
+        {
+          "x": 107.515,
+          "y": 57.181
+        },
+        {
+          "x": 99.334,
+          "y": 52.465
+        },
+        {
+          "x": 46.896,
+          "y": 82.745
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#647686",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 46.896,
+          "y": 82.734
+        },
+        {
+          "x": 48.181,
+          "y": 83.48
+        },
+        {
+          "x": 99.334,
+          "y": 53.934
+        },
+        {
+          "x": 99.334,
+          "y": 52.465
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#cfdae4",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 107.515,
+          "y": 57.192
+        },
+        {
+          "x": 106.241,
+          "y": 57.926
+        },
+        {
+          "x": 99.357,
+          "y": 53.945
+        },
+        {
+          "x": 99.357,
+          "y": 52.465
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1.00004,
+        0.97993,
+        0.00804,
+        0.07592,
+        0,
+        "rgb(225,233,240)",
+        1,
+        "rgb(159,179,196)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 39.85956,
+          "y": 106.85718
+        },
+        {
+          "x": 39.85956,
+          "y": 114.23518
+        },
+        {
+          "x": 13.30756,
+          "y": 98.90518
+        },
+        {
+          "x": 13.30756,
+          "y": 91.52718
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 92.41282000000001,
+      "y": 136.67539
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 97.987,
+      "y": 183.04802
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 114.65302,
+      "y": 232.84289
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 141.19714,
+      "y": 282.57482
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 175.72710999999998,
+      "y": 329.03238
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 215.85966,
+      "y": 368.82189
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 258.94096,
+      "y": 399.43662
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 304.87732,
+      "y": 425.95407
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 350.81366,
+      "y": 452.4715
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 396.75001,
+      "y": 478.98894
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 442.68637,
+      "y": 505.50637
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 488.62273,
+      "y": 532.02381
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 534.55908,
+      "y": 558.54123
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 580.49544,
+      "y": 585.05867
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 557.52727,
+      "y": 571.79995
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 95.19991999999999,
+      "y": 159.86171000000002
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 106.32001,
+      "y": 207.94546
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 127.92508,
+      "y": 257.70885
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 158.46214,
+      "y": 305.80361
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 195.79339,
+      "y": 348.92714
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 237.40031,
+      "y": 384.12926
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 281.90913,
+      "y": 412.69534
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 327.84549,
+      "y": 439.21278
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 373.78184,
+      "y": 465.73021
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 419.71819,
+      "y": 492.24766
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 465.65454,
+      "y": 518.76508
+    },
+    {
+      "type": "Image",
+      "displayName": "辊6",
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "image": "symbols/图标库/IoT设备/钢厂/灰蓝色/辊.json",
+      "width": 111,
+      "height": 70,
+      "x": 511.5909,
+      "y": 545.28252
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.956,
+        0.008,
+        0.052,
+        0,
+        "rgb(99,114,128)",
+        1,
+        "rgb(101,124,143)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 39.85956,
+          "y": 106.85718
+        },
+        {
+          "x": 39.85956,
+          "y": 114.23518
+        },
+        {
+          "x": 141.103,
+          "y": 55.778
+        },
+        {
+          "x": 141.103,
+          "y": 48.4
+        },
+        {
+          "x": 39.85956,
+          "y": 106.85718
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0,
+        0,
+        1,
+        0,
+        "#ff793d",
+        0.17,
+        "#ff9036",
+        1,
+        "#ffd23e"
+      ],
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 55.077,
+          "y": 87.462
+        },
+        {
+          "x": 107.515,
+          "y": 57.181
+        },
+        {
+          "x": 99.334,
+          "y": 52.465
+        },
+        {
+          "x": 46.896,
+          "y": 82.745
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#dc9260",
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 46.896,
+          "y": 82.734
+        },
+        {
+          "x": 48.181,
+          "y": 83.48
+        },
+        {
+          "x": 99.334,
+          "y": 53.934
+        },
+        {
+          "x": 99.334,
+          "y": 52.465
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#dc9260",
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 107.515,
+          "y": 57.192
+        },
+        {
+          "x": 106.241,
+          "y": 57.926
+        },
+        {
+          "x": 99.357,
+          "y": 53.945
+        },
+        {
+          "x": 99.357,
+          "y": 52.465
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "#919aa1",
+        0.23913,
+        "rgb(233,239,245)",
+        0.8,
+        "rgb(98,111,122)",
+        1,
+        "rgb(95,108,117)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 77.20549,
+          "y": 0.2117
+        },
+        {
+          "x": 72.61532,
+          "y": 0.2117
+        },
+        {
+          "x": 72.61532,
+          "y": 69.06618
+        },
+        {
+          "x": 72.61532,
+          "y": 70.33326
+        },
+        {
+          "x": 74.67135,
+          "y": 71.36495
+        },
+        {
+          "x": 77.20549,
+          "y": 71.36495
+        },
+        {
+          "x": 79.73967,
+          "y": 71.36495
+        },
+        {
+          "x": 81.79568,
+          "y": 70.33785
+        },
+        {
+          "x": 81.79568,
+          "y": 69.06618
+        },
+        {
+          "x": 81.79568,
+          "y": 0.2117
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        1,
+        0.5,
+        0.2,
+        0,
+        "#ff8500",
+        0.62609,
+        "rgba(167, 142, 115, 0)",
+        1,
+        "rgba(19,35,69,0.5)"
+      ],
+      "visible": {
+        "func": "attr@visiable"
+      },
+      "pixelPerfect": true,
+      "opacity": 0.7,
+      "points": [
+        {
+          "x": 77.20549,
+          "y": 0.2117
+        },
+        {
+          "x": 72.61532,
+          "y": 0.2117
+        },
+        {
+          "x": 72.61532,
+          "y": 69.06618
+        },
+        {
+          "x": 72.61532,
+          "y": 70.33326
+        },
+        {
+          "x": 74.67135,
+          "y": 71.36495
+        },
+        {
+          "x": 77.20549,
+          "y": 71.36495
+        },
+        {
+          "x": 79.73967,
+          "y": 71.36495
+        },
+        {
+          "x": 81.79568,
+          "y": 70.33785
+        },
+        {
+          "x": 81.79568,
+          "y": 69.06618
+        },
+        {
+          "x": 81.79568,
+          "y": 0.2117
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        2,
+        5
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "visiable",
+      "valueType": "Boolean"
+    }
+  ]
+}

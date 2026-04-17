@@ -1,0 +1,39 @@
+{
+  "width": 14,
+  "height": 14,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 3,
+      "borderColor": {
+        "func": "attr@color",
+        "value": "rgb(255,255,255)"
+      },
+      "borderCap": "round",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@color",
+        "value": "rgba(255,255,255,0.25)"
+      },
+      "shadowBlur": 1,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "points": [
+        {
+          "x": 1.5,
+          "y": 7
+        },
+        {
+          "x": 12.5,
+          "y": 7
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "color",
+      "valueType": "Color"
+    }
+  ]
+}

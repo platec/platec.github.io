@@ -1,0 +1,59 @@
+{
+  "width": 325,
+  "height": 313,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "jiang",
+      "image": "assets/2D/jiang.png",
+      "width": 123.98423,
+      "height": 204.25934,
+      "x": 61.992115,
+      "y": 102.12967
+    },
+    {
+      "type": "Image",
+      "displayName": "车",
+      "image": "symbols/车.json",
+      "width": 80,
+      "height": 80,
+      "x": 171.13902,
+      "y": 44.125
+    },
+    {
+      "type": "Image",
+      "displayName": "换热站",
+      "image": "symbols/换热站.json",
+      "width": 100.21495,
+      "height": 87.11496,
+      "x": 261.246495,
+      "y": 87.68248
+    },
+    {
+      "type": "Image",
+      "displayName": "采矿车",
+      "image": "symbols/采矿车.json",
+      "width": 61,
+      "height": 56,
+      "x": 134.8493,
+      "y": 248.25467
+    },
+    {
+      "type": "Image",
+      "displayName": "毛玻璃",
+      "image": "symbols/毛玻璃.json",
+      "width": 100,
+      "height": 120,
+      "x": 237.80141,
+      "y": 235.53099
+    }
+  ],
+  "bind": [
+    {
+      "attr": "text",
+      "valueType": "String",
+      "defaultValue": "Hello",
+      "name": "名称"
+    }
+  ]
+}

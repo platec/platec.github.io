@@ -1,0 +1,83 @@
+{
+  "width": 130,
+  "height": 95,
+  "elements": [
+    {
+      "type": "Image",
+      "prefix": "left",
+      "image": "symbols/图纸案例/light/TrafficLight.json",
+      "width": 40,
+      "height": 95,
+      "x": 20,
+      "y": 47.5
+    },
+    {
+      "type": "Image",
+      "prefix": "center",
+      "image": "symbols/图纸案例/light/TrafficLight.json",
+      "width": 40,
+      "height": 95,
+      "x": 65,
+      "y": 47.5
+    },
+    {
+      "type": "Image",
+      "prefix": "right",
+      "image": "symbols/图纸案例/light/TrafficLight.json",
+      "width": 40,
+      "height": 95,
+      "x": 110,
+      "y": 47.5
+    }
+  ],
+  "bind": [
+    {
+      "attr": "left.light1.circle.background",
+      "valueType": "Color",
+      "name": "左灯1圆背景",
+      "group": "左灯光"
+    },
+    {
+      "attr": "left.light2.circle.background",
+      "valueType": "Color",
+      "name": "左灯2圆背景"
+    },
+    {
+      "attr": "left.light3.circle.background",
+      "valueType": "Color",
+      "name": "左灯3圆背景"
+    },
+    {
+      "attr": "center.light1.circle.background",
+      "valueType": "Color",
+      "name": "中灯1圆背景",
+      "group": "中灯光"
+    },
+    {
+      "attr": "center.light2.circle.background",
+      "valueType": "Color",
+      "name": "中灯2圆背景"
+    },
+    {
+      "attr": "center.light3.circle.background",
+      "valueType": "Color",
+      "name": "中灯3圆背景"
+    },
+    {
+      "attr": "right.light1.circle.background",
+      "valueType": "Color",
+      "name": "右灯1圆背景",
+      "group": "右灯光"
+    },
+    {
+      "attr": "right.light2.circle.background",
+      "valueType": "Color",
+      "name": "右灯2圆背景"
+    },
+    {
+      "attr": "right.light3.circle.background",
+      "valueType": "Color",
+      "name": "右灯3圆背景"
+    }
+  ]
+}

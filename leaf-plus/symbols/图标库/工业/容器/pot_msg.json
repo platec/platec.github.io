@@ -1,0 +1,221 @@
+{
+  "width": 116,
+  "height": 200,
+  "elements": [
+    {
+      "type": "Image",
+      "shadowColor": "#1ABC9C",
+      "displayName": "油罐",
+      "image": "symbols/图标库/工业/容器/油罐.json",
+      "width": 115.44682,
+      "height": 177.42353,
+      "x": 57.72341,
+      "y": 111.288235
+    },
+    {
+      "type": "Image",
+      "shadowColor": "#1ABC9C",
+      "image": "symbols/可视化/basic/vProgressBar.json",
+      "width": 5.86627,
+      "height": 44.76014,
+      "x": 33.973725,
+      "y": 103.28335
+    },
+    {
+      "type": "Text",
+      "text": "m³",
+      "color": "rgb(89,89,89)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 89.19098,
+      "y": 118.89722
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@height",
+        "value": "16.666"
+      },
+      "align": "right",
+      "color": "rgb(255,255,255)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 89.18698,
+      "y": 86.52687
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@volume",
+        "value": "16666.6"
+      },
+      "align": "right",
+      "color": "rgb(255,255,255)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 89.18698,
+      "y": 118.89772
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@temperature",
+        "value": "16.6"
+      },
+      "align": "right",
+      "color": "rgb(255,255,255)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 89.18698,
+      "y": 102.7123
+    },
+    {
+      "type": "Text",
+      "text": "M",
+      "color": "rgb(89,89,89)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 89.18498,
+      "y": 86.52787000000001
+    },
+    {
+      "type": "Text",
+      "text": " ℃",
+      "color": "rgb(89,89,89)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 85.81013,
+      "y": 102.71255000000001
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(0,0,0)",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "cornerRadius": 2,
+      "shadowColor": "#1ABC9C",
+      "shape": "roundRect",
+      "width": 47.05816,
+      "height": 17.12193,
+      "x": 57.72341,
+      "y": 64.922515
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nvar s = data.a('pb.value');\nif (s < 0.2) return '空罐';\nif (s < 0.8) return '加油';\nreturn '合格';\n}",
+        "value": "加油"
+      },
+      "align": "center",
+      "color": {
+        "func": "function(data, view) {\nvar s = data.a('pb.value');\nif (s < 0.2) return 'rgb(197,130,255)';\nif (s < 0.8) return '#B8E986';\nreturn '#4990E2';\n}",
+        "value": "rgb(153,255,51)"
+      },
+      "shadowColor": "#B8E986",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 57.72341,
+      "y": 64.92252
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@title",
+        "value": "T101"
+      },
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 57.722910000000006,
+      "y": 11.81699
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@subtitle",
+        "value": "1号罐"
+      },
+      "align": "center",
+      "color": "rgb(138,138,138)",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 57.722910000000006,
+      "y": 27.39803
+    }
+  ],
+  "bind": [
+    {
+      "attr": "pb.fore.color",
+      "valueType": "Color",
+      "defaultValue": "#3399FF",
+      "name": "进度条前景"
+    },
+    {
+      "attr": "pb.value.visible",
+      "valueType": "Boolean",
+      "defaultValue": false,
+      "name": "进度条值可见"
+    },
+    {
+      "attr": "pb.background",
+      "valueType": "Color",
+      "defaultValue": "#38373B",
+      "name": "进度条背景"
+    },
+    {
+      "attr": "height",
+      "valueType": "Number",
+      "defaultValue": 19,
+      "name": "高度"
+    },
+    {
+      "attr": "temperature",
+      "valueType": "Number",
+      "defaultValue": 20,
+      "name": "温度"
+    },
+    {
+      "attr": "volume",
+      "valueType": "Number",
+      "defaultValue": 1000,
+      "name": "体积"
+    },
+    {
+      "attr": "pb.value",
+      "valueType": "Percentage",
+      "defaultValue": 0.3,
+      "name": "进度条值"
+    },
+    {
+      "attr": "pb.border.color",
+      "valueType": "Color",
+      "defaultValue": "rgb(255,255,255)",
+      "name": "进度条边框颜色"
+    },
+    {
+      "attr": "pb.border.width",
+      "valueType": "PositiveNumber",
+      "defaultValue": 1,
+      "name": "进度条边框大小"
+    },
+    {
+      "attr": "status",
+      "valueType": "Number",
+      "defaultValue": 0,
+      "name": "油管状态"
+    },
+    {
+      "attr": "title",
+      "valueType": "String",
+      "defaultValue": "T101",
+      "name": "标题"
+    },
+    {
+      "attr": "subtitle",
+      "valueType": "String",
+      "defaultValue": "1号罐",
+      "name": "子标题"
+    }
+  ]
+}

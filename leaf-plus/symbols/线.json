@@ -1,0 +1,25 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "文本",
+      "color": "rgb(0,199,7)",
+      "decoration": "underline",
+      "width": 44.64953,
+      "height": 19.95327,
+      "x": 37.698595,
+      "y": 31.238315
+    },
+    {
+      "type": "Image",
+      "displayName": "车",
+      "image": "symbols/车.json",
+      "width": 44.73429,
+      "height": 44.73429,
+      "x": 57.028825,
+      "y": 67.938135
+    }
+  ]
+}

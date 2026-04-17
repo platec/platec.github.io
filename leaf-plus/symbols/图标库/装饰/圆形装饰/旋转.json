@@ -1,0 +1,367 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "radial",
+        0.5,
+        0.5,
+        0.5,
+        0.01835,
+        "rgba(186,240,255,0.9)",
+        0.1422,
+        "rgba(176,230,252,0.89)",
+        0.32569,
+        "rgba(165,218,248,0.76)",
+        0.59174,
+        "rgba(140,194,242,0.48)",
+        1,
+        "rgba(97,154,232,0)"
+      ],
+      "opacity": 0.6,
+      "shape": "rect",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgba(186,240,255,0.80)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 76.50427,
+          "y": 39.92638
+        },
+        {
+          "x": 67.36752,
+          "y": 24.10107
+        },
+        {
+          "x": 85.64102,
+          "y": 24.10107
+        },
+        {
+          "x": 76.50427,
+          "y": 39.92638
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(222,251,255)",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 24.30791,
+          "y": 45.5
+        },
+        {
+          "x": 33.25684,
+          "y": 30
+        },
+        {
+          "x": 66.74316,
+          "y": 30
+        },
+        {
+          "x": 75.69209,
+          "y": 45.5
+        },
+        {
+          "x": 58.94893,
+          "y": 74.5
+        },
+        {
+          "x": 41.05107,
+          "y": 74.5
+        },
+        {
+          "x": 24.30791,
+          "y": 45.5
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Wed Mar 26 2025 16:40:31 GMT+0800 (中国标准时间)",
+        "background": "rgb(0,0,0)",
+        "dataBindings": [],
+        "width": 20,
+        "height": 20,
+        "comps": [
+          {
+            "type": "polygon",
+            "borderWidth": 1,
+            "borderColor": "rgb(217,250,255)",
+            "polygonSide": 3,
+            "rotation": 4.71239,
+            "rect": [
+              0,
+              2,
+              20,
+              20
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.015,
+      "opacityValues": [
+        0.2,
+        1
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 26,
+      "height": 26,
+      "x": 48,
+      "y": 12.10107
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Wed Mar 26 2025 16:40:31 GMT+0800 (中国标准时间)",
+        "background": "rgb(0,0,0)",
+        "dataBindings": [],
+        "width": 20,
+        "height": 20,
+        "comps": [
+          {
+            "type": "polygon",
+            "borderWidth": 1,
+            "borderColor": "rgb(217,250,255)",
+            "polygonSide": 3,
+            "rotation": 4.71239,
+            "rect": [
+              0,
+              2,
+              20,
+              20
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityValues": [
+        1,
+        0.2
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 26,
+      "height": 26,
+      "x": 81.35635,
+      "y": 63.5
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "scaleY": -1,
+      "image": {
+        "modified": "Wed Mar 26 2025 16:40:31 GMT+0800 (中国标准时间)",
+        "background": "rgb(0,0,0)",
+        "dataBindings": [],
+        "width": 20,
+        "height": 20,
+        "comps": [
+          {
+            "type": "polygon",
+            "borderWidth": 1,
+            "borderColor": "rgb(217,250,255)",
+            "polygonSide": 3,
+            "rotation": 4.71239,
+            "rect": [
+              0,
+              2,
+              20,
+              20
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.02,
+      "opacityValues": [
+        1,
+        0.2
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 16,
+      "height": 16,
+      "x": 52,
+      "y": 87.94435
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "scaleY": -1,
+      "image": {
+        "modified": "Wed Mar 26 2025 16:40:31 GMT+0800 (中国标准时间)",
+        "background": "rgb(0,0,0)",
+        "dataBindings": [],
+        "width": 20,
+        "height": 20,
+        "comps": [
+          {
+            "type": "polygon",
+            "borderWidth": 1,
+            "borderColor": "rgb(217,250,255)",
+            "polygonSide": 3,
+            "rotation": 4.71239,
+            "rect": [
+              0,
+              2,
+              20,
+              20
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.03,
+      "opacityValues": [
+        1,
+        0.2
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 26,
+      "height": 26,
+      "x": 19.272190000000002,
+      "y": 39.92638
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Wed Mar 26 2025 16:40:31 GMT+0800 (中国标准时间)",
+        "background": "rgb(0,0,0)",
+        "dataBindings": [],
+        "width": 20,
+        "height": 20,
+        "comps": [
+          {
+            "type": "polygon",
+            "borderWidth": 1,
+            "borderColor": "rgb(217,250,255)",
+            "polygonSide": 3,
+            "rotation": 4.71239,
+            "rect": [
+              0,
+              2,
+              20,
+              20
+            ]
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateEnabled": false,
+      "opacityEnabled": true,
+      "opacityStep": 0.006,
+      "opacityValues": [
+        1,
+        0.2
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 28,
+      "height": 28,
+      "x": 19.64365,
+      "y": 66.94435
+    },
+    {
+      "type": "Component",
+      "displayName": "commonAnimation",
+      "image": {
+        "width": 56,
+        "height": 56,
+        "comps": [
+          {
+            "type": "shape",
+            "borderWidth": 2,
+            "borderColor": "rgb(255,255,255)",
+            "shadow": true,
+            "shadowColor": "rgb(33,126,255)",
+            "shadowBlur": 4,
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "scaleY": -1,
+            "points": "list[\n  {\n    \"x\": 19.05107,\n    \"y\": 48.16941\n  },\n  {\n    \"x\": 2.30791,\n    \"y\": 19.16941\n  },\n  {\n    \"x\": 11.25684,\n    \"y\": 3.66941\n  },\n  {\n    \"x\": 44.74316,\n    \"y\": 3.66941\n  },\n  {\n    \"x\": 53.69209,\n    \"y\": 19.16941\n  },\n  {\n    \"x\": 36.94893,\n    \"y\": 48.16941\n  },\n  {\n    \"x\": 19.05107,\n    \"y\": 48.16941\n  }\n]",
+            "segments": "list[\n  1,\n  2,\n  2,\n  2,\n  2,\n  2,\n  2,\n  5\n]",
+            "unionRect": {
+              "x": 2.30791,
+              "y": 3.66941,
+              "width": 51.38418,
+              "height": 44.5
+            }
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "rotateStep": 0.06981,
+      "rotateValues": [
+        0,
+        120,
+        120,
+        240,
+        240
+      ],
+      "opacityStep": 0.015,
+      "opacityValues": [
+        0.2,
+        1
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 56,
+      "height": 56,
+      "x": 50,
+      "y": 50
+    }
+  ]
+}

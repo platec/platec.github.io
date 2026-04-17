@@ -1,0 +1,66 @@
+{
+  "width": 100,
+  "height": {
+    "func": "attr@height",
+    "value": 100
+  },
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 99.76636,
+      "height": 99.6028,
+      "x": 49.88318,
+      "y": 49.96495
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@text",
+        "value": "文本"
+      },
+      "width": 100,
+      "height": 20.11682,
+      "x": 50,
+      "y": 10.05841
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nreturn data.a('text') + 'HAHA'\n}",
+        "value": "下一行文本"
+      },
+      "width": 100,
+      "height": 20.11682,
+      "x": 50,
+      "y": 30.17523
+    },
+    {
+      "type": "Image",
+      "clipPercentage": 0.62,
+      "displayName": "采矿车 2",
+      "image": "symbols/采矿车 2.json",
+      "width": 61,
+      "height": 56,
+      "x": 46.1215,
+      "y": 63.45794
+    }
+  ],
+  "bind": [
+    {
+      "attr": "text",
+      "valueType": "String",
+      "defaultValue": "测试文本",
+      "name": "文本"
+    },
+    {
+      "attr": "height",
+      "valueType": "Number",
+      "name": "高度",
+      "defaultValue": 120
+    }
+  ]
+}

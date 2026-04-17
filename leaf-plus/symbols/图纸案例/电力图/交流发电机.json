@@ -1,0 +1,208 @@
+{
+  "width": 64,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "rgb(124,145,155)",
+      "state": "不运行",
+      "shape": "oval",
+      "width": 48,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(124,145,155)",
+      "state": "不运行",
+      "points": [
+        {
+          "x": 32,
+          "y": 64
+        },
+        {
+          "x": 32,
+          "y": 51.10894
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(124,145,155)",
+      "state": "不运行",
+      "points": [
+        {
+          "x": 21.73136,
+          "y": 39.17469
+        },
+        {
+          "x": 27.37345,
+          "y": 42.72262
+        },
+        {
+          "x": 34.87878,
+          "y": 33.42757
+        },
+        {
+          "x": 42.26864,
+          "y": 39.17469
+        }
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "G",
+      "align": "center",
+      "color": "rgb(124,145,155)",
+      "font": "24px arial, sans-serif",
+      "state": "不运行",
+      "width": 50,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "rgb(242,83,75)",
+      "state": "运行",
+      "shape": "oval",
+      "width": 48,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(242,83,75)",
+      "state": "运行",
+      "points": [
+        {
+          "x": 32,
+          "y": 64
+        },
+        {
+          "x": 32,
+          "y": 51.10894
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(242,83,75)",
+      "state": "运行",
+      "points": [
+        {
+          "x": 21.73136,
+          "y": 39.17469
+        },
+        {
+          "x": 27.37345,
+          "y": 42.72262
+        },
+        {
+          "x": 34.87878,
+          "y": 33.42757
+        },
+        {
+          "x": 42.26864,
+          "y": 39.17469
+        }
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "G",
+      "align": "center",
+      "color": "rgb(242,83,75)",
+      "font": "24px arial, sans-serif",
+      "state": "运行",
+      "width": 50,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "state": "白",
+      "shape": "oval",
+      "width": 48,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "state": "白",
+      "points": [
+        {
+          "x": 32,
+          "y": 64
+        },
+        {
+          "x": 32,
+          "y": 51.10894
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "state": "白",
+      "points": [
+        {
+          "x": 21.73136,
+          "y": 39.17469
+        },
+        {
+          "x": 27.37345,
+          "y": 42.72262
+        },
+        {
+          "x": 34.87878,
+          "y": 33.42757
+        },
+        {
+          "x": 42.26864,
+          "y": 39.17469
+        }
+      ],
+      "segments": [
+        1,
+        4
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "G",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "24px arial, sans-serif",
+      "state": "白",
+      "width": 50,
+      "height": 48,
+      "x": 32,
+      "y": 27.10894
+    }
+  ],
+  "state": "不运行"
+}

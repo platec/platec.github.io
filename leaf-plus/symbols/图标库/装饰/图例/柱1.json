@@ -1,0 +1,22 @@
+{
+  "width": 12,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 12,
+      "height": 12,
+      "x": 6,
+      "y": 6
+    }
+  ],
+  "bind": [
+    {
+      "attr": "colors",
+      "valueType": "String"
+    }
+  ]
+}

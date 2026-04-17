@@ -1,0 +1,28 @@
+{
+  "width": 20,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1.5,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 4.38514,
+          "y": 1.62828
+        },
+        {
+          "x": 15.61486,
+          "y": 12.85801
+        },
+        {
+          "x": 10.10115,
+          "y": 18.37172
+        }
+      ]
+    }
+  ]
+}

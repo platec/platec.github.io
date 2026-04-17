@@ -1,0 +1,38 @@
+{
+  "width": 100,
+  "height": 100,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "wave",
+      "waveRange": {
+        "func": "attr@height",
+        "value": 0.77
+      },
+      "component": "components/line/wave.json",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 5,
+      "borderColor": "rgb(0,199,7)",
+      "shape": "rect",
+      "width": 100,
+      "height": 100,
+      "x": 50,
+      "y": 50
+    }
+  ],
+  "bind": [
+    {
+      "attr": "height",
+      "valueType": "Percentage",
+      "name": "高度",
+      "defaultValue": 0.2
+    }
+  ],
+  "fitSize": true
+}

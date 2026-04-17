@@ -1,0 +1,48 @@
+{
+  "width": 14,
+  "height": 14,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0.40)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(255,255,255,0.01)",
+      "shape": "rect",
+      "width": 14,
+      "height": 11,
+      "x": 7,
+      "y": 8.5
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(37,153,112,0.20)",
+      "shape": "rect",
+      "width": 14,
+      "height": 2,
+      "x": 7,
+      "y": 1
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(37,153,112,0.20)",
+      "opacity": 0.2,
+      "gray": true,
+      "shape": "rect",
+      "width": 14,
+      "height": 2,
+      "x": 7,
+      "y": 1
+    }
+  ],
+  "bind": [
+    {
+      "attr": "color",
+      "valueType": "Color"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "width": 563,
+  "height": 81,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(0,0,0,0.4)",
+      "borderColor": "#979797",
+      "visible": false,
+      "shape": "rect",
+      "width": 563,
+      "height": 81,
+      "x": 281.5,
+      "y": 40.5
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@ht.color",
+        "value": null
+      },
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 43.33656,
+          "y": 4.60845
+        },
+        {
+          "x": 237.21066,
+          "y": 4.60845
+        },
+        {
+          "x": 237.21066,
+          "y": 76.2692
+        },
+        {
+          "x": 43.33656,
+          "y": 76.2692
+        },
+        {
+          "x": 43.33656,
+          "y": 4.60845
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "opacity": 0.3,
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 34.5
+        },
+        {
+          "x": 3.99812,
+          "y": 46.5
+        },
+        {
+          "x": 15.99812,
+          "y": 46.5
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "46.3"
+      },
+      "align": "center",
+      "color": "rgb(124,145,155)",
+      "font": "bold 52px sans-serif, Arial",
+      "width": 170.41757,
+      "height": 71.66075,
+      "x": 139.784855,
+      "y": 40.438824999999994
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@unit",
+        "value": "%"
+      },
+      "align": "center",
+      "color": "rgb(124,145,155)",
+      "font": "40px PingFangSC-Thin",
+      "width": 69.87713,
+      "height": 71.66075,
+      "x": 217.623645,
+      "y": 40.438824999999994
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@t1",
+        "value": "Tunnel Excavation"
+      },
+      "color": "rgb(124,145,155)",
+      "font": "32px PingFangSC-Thin",
+      "width": 211.06191,
+      "height": 32.65584,
+      "x": 367.531255,
+      "y": 20.93637
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@t2",
+        "value": "Reference equipment"
+      },
+      "color": "rgb(124,145,155)",
+      "font": "24px PingFangSC-Thin",
+      "width": 211.06191,
+      "height": 32.65584,
+      "x": 367.531255,
+      "y": 53.59221
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "opacity": 0.6,
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 47.59221
+        },
+        {
+          "x": 3.99812,
+          "y": 59.59221
+        },
+        {
+          "x": 15.99812,
+          "y": 59.59221
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 60.1752
+        },
+        {
+          "x": 3.99812,
+          "y": 72.1752
+        },
+        {
+          "x": 15.99812,
+          "y": 72.1752
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String",
+      "defaultValue": "文本"
+    },
+    {
+      "attr": "t1",
+      "valueType": "String"
+    },
+    {
+      "attr": "t2",
+      "valueType": "String"
+    },
+    {
+      "attr": "unit",
+      "valueType": "String"
+    }
+  ]
+}

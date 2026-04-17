@@ -1,0 +1,199 @@
+{
+  "width": 256,
+  "height": 256,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(255,51,51,0.29)",
+      "borderColor": "#979797",
+      "gradient": "linear.north",
+      "gradientColor": "rgba(0,0,0,0.00)",
+      "opacity": 0.5,
+      "shadow": true,
+      "shadowColor": "rgb(51,153,255)",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rotation": -1.5708,
+      "shape": "rect",
+      "width": 253.99999,
+      "height": 130.74499,
+      "x": 190.611315,
+      "y": 127.98381499999999
+    },
+    {
+      "type": "Shape",
+      "background": "#FEB64D",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "#FEB64D",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 2,
+      "height": 253.99999,
+      "x": 255.98381,
+      "y": 127.983805
+    },
+    {
+      "type": "Shape",
+      "background": "#FEB64D",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "#FEB64D",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 2,
+      "height": 253.99999,
+      "x": 0.016190000000000038,
+      "y": 127.983805
+    },
+    {
+      "type": "Polyline",
+      "background": "#FF7C7C",
+      "fillRule": "evenodd",
+      "scaleX": -1,
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 248.6566,
+          "y": 0.98388
+        },
+        {
+          "x": 255.98379,
+          "y": 8.36032
+        },
+        {
+          "x": 235.25135,
+          "y": 8.36032
+        },
+        {
+          "x": 227.76304,
+          "y": 0.98388
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(255,125,125,0.60)",
+      "fillRule": "evenodd",
+      "scaleX": -1,
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 222.60544,
+          "y": 0.98388
+        },
+        {
+          "x": 229.93263,
+          "y": 8.36032
+        },
+        {
+          "x": 209.20018,
+          "y": 8.36032
+        },
+        {
+          "x": 201.71188,
+          "y": 0.98388
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(255,125,125,0.30)",
+      "fillRule": "evenodd",
+      "scaleX": -1,
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 196.55427,
+          "y": 0.98388
+        },
+        {
+          "x": 203.88146,
+          "y": 8.36032
+        },
+        {
+          "x": 183.14902,
+          "y": 8.36032
+        },
+        {
+          "x": 175.66071,
+          "y": 0.98388
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#FF7C7C",
+      "fillRule": "evenodd",
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 74.01254,
+          "y": 247.6073
+        },
+        {
+          "x": 81.33973,
+          "y": 254.98374
+        },
+        {
+          "x": 60.60728,
+          "y": 254.98374
+        },
+        {
+          "x": 53.11898,
+          "y": 247.6073
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(255,125,125,0.60)",
+      "fillRule": "evenodd",
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 47.96138,
+          "y": 247.6073
+        },
+        {
+          "x": 55.28857,
+          "y": 254.98374
+        },
+        {
+          "x": 34.55612,
+          "y": 254.98374
+        },
+        {
+          "x": 27.06781,
+          "y": 247.6073
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(255,125,125,0.30)",
+      "fillRule": "evenodd",
+      "rotation": -3.14159,
+      "points": [
+        {
+          "x": 21.91021,
+          "y": 247.6073
+        },
+        {
+          "x": 29.2374,
+          "y": 254.98374
+        },
+        {
+          "x": 8.50495,
+          "y": 254.98374
+        },
+        {
+          "x": 1.01665,
+          "y": 247.6073
+        }
+      ]
+    }
+  ]
+}

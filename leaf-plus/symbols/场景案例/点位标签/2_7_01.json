@@ -1,0 +1,258 @@
+{
+  "width": 563,
+  "height": 81,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(0,0,0,0.4)",
+      "borderColor": "#979797",
+      "visible": false,
+      "shape": "rect",
+      "width": 563,
+      "height": 81,
+      "x": 281.5,
+      "y": 40.5
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@ht.color",
+        "value": null
+      },
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 38.01947,
+          "y": 24.99504
+        },
+        {
+          "x": 38.01947,
+          "y": 4.60845
+        },
+        {
+          "x": 213.75,
+          "y": 4.60845
+        },
+        {
+          "x": 321,
+          "y": 76.2692
+        },
+        {
+          "x": 38.01947,
+          "y": 76.2692
+        },
+        {
+          "x": 38.01947,
+          "y": 58.76027
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "opacity": 0.3,
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 34.5
+        },
+        {
+          "x": 3.99812,
+          "y": 46.5
+        },
+        {
+          "x": 15.99812,
+          "y": 46.5
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "流量: "
+      },
+      "color": "rgb(247,247,247)",
+      "font": "bold 64px sans-serif, Arial",
+      "width": 147.492,
+      "height": 71.66075,
+      "x": 121.24659,
+      "y": 45.106925
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@unit",
+        "value": "%"
+      },
+      "align": "center",
+      "color": "rgb(124,145,155)",
+      "font": "40px PingFangSC-Thin",
+      "visible": false,
+      "width": 69.87713,
+      "height": 71.66075,
+      "x": 217.623645,
+      "y": 40.438824999999994
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@t1",
+        "value": "Tunnel Excavation"
+      },
+      "color": "rgb(124,145,155)",
+      "font": "32px PingFangSC-Thin",
+      "visible": false,
+      "width": 211.06191,
+      "height": 32.65584,
+      "x": 367.531255,
+      "y": 20.93637
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@t2",
+        "value": "Reference equipment"
+      },
+      "color": "rgb(124,145,155)",
+      "font": "24px PingFangSC-Thin",
+      "visible": false,
+      "width": 211.06191,
+      "height": 32.65584,
+      "x": 367.531255,
+      "y": 53.59221
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "opacity": 0.6,
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 47.59221
+        },
+        {
+          "x": 3.99812,
+          "y": 59.59221
+        },
+        {
+          "x": 15.99812,
+          "y": 59.59221
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(124,145,155)",
+      "borderJoin": "bevel",
+      "rotation": 5.49779,
+      "points": [
+        {
+          "x": 3.99812,
+          "y": 60.1752
+        },
+        {
+          "x": 3.99812,
+          "y": 72.1752
+        },
+        {
+          "x": 15.99812,
+          "y": 72.1752
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "(       )",
+      "color": "rgb(247,247,247)",
+      "font": "bold 64px sans-serif, Arial",
+      "width": 147.492,
+      "height": 71.66075,
+      "x": 444.89427,
+      "y": 45.169624999999996
+    },
+    {
+      "type": "Text",
+      "text": "%",
+      "color": "rgb(247,247,247)",
+      "font": "bold 64px sans-serif, Arial",
+      "width": 67.77838,
+      "height": 71.66075,
+      "x": 509.74307999999996,
+      "y": 45.106925
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@num1",
+        "value": "1024"
+      },
+      "color": "rgb(247,247,247)",
+      "font": "bold 64px sans-serif, Arial",
+      "width": 147.492,
+      "height": 71.66075,
+      "x": 287.02993,
+      "y": 45.169624999999996
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@num2",
+        "value": "20"
+      },
+      "color": "rgb(247,247,247)",
+      "font": "bold 64px sans-serif, Arial",
+      "width": 147.492,
+      "height": 71.66075,
+      "x": 469.88628,
+      "y": 45.169624999999996
+    }
+  ],
+  "bind": [
+    {
+      "attr": "ht.color",
+      "valueType": "Color"
+    },
+    {
+      "attr": "name",
+      "valueType": "String"
+    },
+    {
+      "attr": "unit",
+      "valueType": "String"
+    },
+    {
+      "attr": "t1",
+      "valueType": "String"
+    },
+    {
+      "attr": "t2",
+      "valueType": "String"
+    },
+    {
+      "attr": "num1",
+      "valueType": "Number"
+    },
+    {
+      "attr": "num2",
+      "valueType": "Number"
+    }
+  ]
+}

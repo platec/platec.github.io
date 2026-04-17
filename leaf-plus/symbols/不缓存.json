@@ -1,0 +1,15 @@
+{
+  "width": 390,
+  "height": 324,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "ct",
+      "image": "symbols/ct.json",
+      "width": 390,
+      "height": 324,
+      "x": 195,
+      "y": 162
+    }
+  ]
+}

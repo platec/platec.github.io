@@ -1,0 +1,106 @@
+{
+  "width": 177,
+  "height": 177,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name2",
+        "value": "门急诊大楼"
+      },
+      "align": "center",
+      "color": "#32D3EB",
+      "font": "bold 20px sans-serif, Arial",
+      "width": 84.95374,
+      "height": 28.04564,
+      "x": 88.5,
+      "y": 109.5296
+    },
+    {
+      "type": "Polyline",
+      "background": "#32D3EB",
+      "borderColor": "#32D3EB",
+      "borderJoin": "bevel",
+      "rotation": 3.92699,
+      "points": [
+        {
+          "x": 20.97961,
+          "y": 105.5296
+        },
+        {
+          "x": 28.97961,
+          "y": 105.5296
+        },
+        {
+          "x": 28.97961,
+          "y": 113.5296
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#32D3EB",
+      "borderColor": "#32D3EB",
+      "borderJoin": "bevel",
+      "rotation": 0.7854,
+      "points": [
+        {
+          "x": 144.30537,
+          "y": 105.5296
+        },
+        {
+          "x": 152.30537,
+          "y": 105.5296
+        },
+        {
+          "x": 152.30537,
+          "y": 113.5296
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#32D3EB",
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 54.0522,
+          "y": 127.76532
+        },
+        {
+          "x": 123.15921,
+          "y": 127.76532
+        },
+        {
+          "x": 88.59398,
+          "y": 127.76532
+        },
+        {
+          "x": 88.59398,
+          "y": 167.96868
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        1,
+        2
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "namec",
+      "valueType": "Color"
+    },
+    {
+      "attr": "name2",
+      "valueType": "String"
+    },
+    {
+      "attr": "name",
+      "valueType": "String"
+    }
+  ]
+}

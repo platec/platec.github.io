@@ -1,0 +1,19 @@
+{
+  "width": 32,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.00)",
+      "borderColor": "#979797",
+      "gradient": "linear.northwest",
+      "gradientColor": "rgba(49,210,235,0.67)",
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 32,
+      "height": 64,
+      "x": 16.00008,
+      "y": 31.99996
+    }
+  ]
+}

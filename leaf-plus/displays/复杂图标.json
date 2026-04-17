@@ -1,0 +1,140 @@
+{
+  "contentRect": {
+    "x": -174.43745,
+    "y": 95.60975,
+    "width": 1319.36361,
+    "height": 764.19842
+  },
+  "props": {
+    "layers": [
+      {
+        "name": "0",
+        "visible": true,
+        "selectable": true,
+        "movable": true,
+        "editable": true
+      }
+    ],
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": true
+  },
+  "attrs": {},
+  "elements": [
+    {
+      "type": "Image",
+      "id": 29073,
+      "props": {
+        "displayName": "ct",
+        "image": "symbols/ct.json",
+        "x": 20.56255,
+        "y": 257.60975
+      },
+      "styles": {},
+      "attrs": {}
+    },
+    {
+      "type": "Image",
+      "id": 29074,
+      "props": {
+        "displayName": "夏至",
+        "image": "symbols/夏至.json",
+        "x": 976.13563,
+        "y": 426.40027,
+        "width": 337.58104,
+        "height": 337.58104
+      },
+      "styles": {},
+      "attrs": {}
+    },
+    {
+      "type": "Image",
+      "id": 29076,
+      "props": {
+        "displayName": "学校",
+        "image": "symbols/学校.json",
+        "x": 229.84585,
+        "y": 674.06715
+      },
+      "styles": {},
+      "attrs": {}
+    },
+    {
+      "type": "Connector",
+      "id": 33347,
+      "props": {
+        "start": {
+          "id": 33125
+        },
+        "end": {
+          "id": 29075
+        }
+      },
+      "styles": {
+        "borderColor": "rgb(0,199,7)",
+        "borderWidth": 9,
+        "type": "points",
+        "segments": [
+          1,
+          4,
+          4
+        ],
+        "points": [
+          {
+            "x": 561.29923,
+            "y": 287.68191
+          },
+          {
+            "x": 98.5596,
+            "y": 447.19578
+          },
+          {
+            "x": 338.33892,
+            "y": 495.74006
+          },
+          {
+            "x": 578.11824,
+            "y": 544.28434
+          },
+          {
+            "x": 561.29923,
+            "y": 845.12842
+          }
+        ],
+        "startAnchorX": 0.5,
+        "startAnchorY": 0.5,
+        "sourceAnchorElevation": 0.5,
+        "endAnchorX": 0.5,
+        "endAnchorY": 0.5,
+        "targetAnchorElevation": 0.5
+      },
+      "attrs": {}
+    },
+    {
+      "type": "Image",
+      "id": 29075,
+      "props": {
+        "displayName": "大雪",
+        "image": "symbols/大雪.json",
+        "x": 807.34511,
+        "y": 759.80817
+      },
+      "styles": {},
+      "attrs": {}
+    },
+    {
+      "type": "Image",
+      "id": 33125,
+      "props": {
+        "displayName": "立冬",
+        "image": "symbols/立冬.json",
+        "x": 561.29923,
+        "y": 287.68191,
+        "width": 200,
+        "height": 200,
+        "tall": 20
+      },
+      "styles": {},
+      "attrs": {}
+    }
+  ]
+}

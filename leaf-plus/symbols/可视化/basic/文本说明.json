@@ -1,0 +1,39 @@
+{
+  "width": 204,
+  "height": 48,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "文本说明文本",
+      "align": "center",
+      "color": "rgb(61,61,61)",
+      "font": "24px arial, sans-serif",
+      "width": 118.0751,
+      "height": 35.49683,
+      "x": 101.96904,
+      "y": 24.000005
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(61,61,61)",
+      "borderColor": "#979797",
+      "cornerRadius": 8,
+      "shape": "roundRect",
+      "width": 16,
+      "height": 35.49683,
+      "x": 195.86531,
+      "y": 24.000005
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(61,61,61)",
+      "borderColor": "#979797",
+      "cornerRadius": 8,
+      "shape": "roundRect",
+      "width": 16,
+      "height": 35.49683,
+      "x": 8.13469,
+      "y": 24.000005
+    }
+  ]
+}

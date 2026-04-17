@@ -1,0 +1,85 @@
+{
+  "width": 32,
+  "height": 32,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nreturn data.a('closed') ? 'rgb(232,232,232)' : 'red';\n}",
+        "value": "rgb(232,232,232)"
+      },
+      "borderColor": "rgb(0,0,0)",
+      "rotation": 4.71239,
+      "shape": "arc",
+      "width": 13.78162,
+      "height": 13.78162,
+      "x": 12.13936,
+      "y": 16.00001
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nreturn data.a('closed') ? 'rgb(232,232,232)' : 'red';\n}",
+        "value": "rgb(232,232,232)"
+      },
+      "borderColor": "rgb(0,0,0)",
+      "rotation": 3.14159,
+      "shape": "triangle",
+      "width": 13.78162,
+      "height": 13.78162,
+      "x": 19.86062,
+      "y": 9.1092
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nreturn data.a('closed') ? 'rgb(232,232,232)' : 'red';\n}",
+        "value": "rgb(232,232,232)"
+      },
+      "borderColor": "rgb(0,0,0)",
+      "shape": "triangle",
+      "width": 13.78162,
+      "height": 13.78162,
+      "x": 19.86062,
+      "y": 22.890819999999998
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nreturn data.a('closed') ? 'rgb(232,232,232)' : 'red';\n}",
+        "value": "rgb(232,232,232)"
+      },
+      "shape": "rect",
+      "width": 5.80021,
+      "height": 14.84786,
+      "x": 19.860615,
+      "y": 15.4669
+    },
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nreturn data.a('closed') ? 'rgb(232,232,232)' : 'red';\n}",
+        "value": "rgb(232,232,232)"
+      },
+      "borderColor": "rgb(0,0,0)",
+      "rotation": 3.14159,
+      "shape": "rect",
+      "width": 4.80384,
+      "height": 1.70502,
+      "x": 15.71596,
+      "y": 16.10949
+    }
+  ],
+  "bind": [
+    {
+      "attr": "closed",
+      "valueType": "Boolean",
+      "defaultValue": false
+    },
+    {
+      "attr": "switch",
+      "valueType": "Boolean",
+      "defaultValue": true
+    }
+  ]
+}

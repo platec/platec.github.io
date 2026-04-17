@@ -1,0 +1,118 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 5.42885,
+          "y": 9.93582
+        },
+        {
+          "x": 6.54412,
+          "y": 9
+        },
+        {
+          "x": 8,
+          "y": 9
+        },
+        {
+          "x": 9.45588,
+          "y": 9
+        },
+        {
+          "x": 10.57115,
+          "y": 9.93582
+        }
+      ],
+      "segments": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 3.17909,
+          "y": 7.25467
+        },
+        {
+          "x": 5.27022,
+          "y": 5.5
+        },
+        {
+          "x": 8,
+          "y": 5.5
+        },
+        {
+          "x": 10.72978,
+          "y": 5.5
+        },
+        {
+          "x": 12.82091,
+          "y": 7.25467
+        }
+      ],
+      "segments": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.2,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0.92934,
+          "y": 4.57351
+        },
+        {
+          "x": 3.99633,
+          "y": 2
+        },
+        {
+          "x": 8,
+          "y": 2
+        },
+        {
+          "x": 12.00367,
+          "y": 2
+        },
+        {
+          "x": 15.07066,
+          "y": 4.57351
+        }
+      ],
+      "segments": [
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "shape": "oval",
+      "width": 2,
+      "height": 2,
+      "x": 8,
+      "y": 13
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "width": 500,
+  "height": 200,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(27,85,245,0.6)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(117,175,255,0.3)",
+      "shadowColor": "rgb(110,205,240)",
+      "displayName": "线图",
+      "points": [
+        {
+          "x": 28.98881,
+          "y": 171.47231
+        },
+        {
+          "x": 28.98881,
+          "y": 126.62632
+        },
+        {
+          "x": 93.13162,
+          "y": 134.38729
+        },
+        {
+          "x": 148.27534,
+          "y": 126.62632
+        },
+        {
+          "x": 217.71558,
+          "y": 107.83661
+        },
+        {
+          "x": 283.0711,
+          "y": 75.56732
+        },
+        {
+          "x": 341.89107,
+          "y": 115.18911
+        },
+        {
+          "x": 397.44327,
+          "y": 93.13162
+        },
+        {
+          "x": 474.93853,
+          "y": 122.5416
+        },
+        {
+          "x": 474.93853,
+          "y": 171.47231
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(224,118,25)",
+      "shadow": true,
+      "shadowColor": "rgb(10,22,38)",
+      "shadowBlur": 8,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 8,
+      "points": [
+        {
+          "x": 26.08759,
+          "y": 150.37201
+        },
+        {
+          "x": 93.01919,
+          "y": 123.67808
+        },
+        {
+          "x": 155.41017,
+          "y": 142.012
+        },
+        {
+          "x": 219.58374,
+          "y": 89.62938
+        },
+        {
+          "x": 285.49698,
+          "y": 134.16714
+        },
+        {
+          "x": 342.58309,
+          "y": 136.77374
+        },
+        {
+          "x": 410.12802,
+          "y": 156.11763
+        },
+        {
+          "x": 477.67805,
+          "y": 94.84508
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 25.98881,
+      "y": 150.26604
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "anchorX": 11.10653,
+      "anchorY": -3.8491,
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 156.3807,
+      "y": 97.85069
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 154.80901,
+      "y": 141.97514
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 219.39272,
+      "y": 89.92451
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 285.46926,
+      "y": 134.17394
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 341.90992,
+      "y": 137.17394
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 410.67876,
+      "y": 155.13933
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(224,118,25)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,120,120)",
+      "shape": "circle",
+      "width": 6,
+      "height": 6,
+      "x": 478.6298,
+      "y": 94.13001
+    }
+  ],
+  "fitSize": true
+}

@@ -1,0 +1,186 @@
+{
+  "width": 200,
+  "height": 200,
+  "elements": [
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 66.08926,
+      "y": 120.09497999999999
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 88.68659,
+      "y": 133.20748
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 111.28394,
+      "y": 146.31998
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 133.88128,
+      "y": 159.43249
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 133.91074,
+      "y": 99.65457
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 111.30358000000001,
+      "y": 112.8449
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 88.69641,
+      "y": 126.03523000000001
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 66.08926,
+      "y": 139.22557
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 66.08926,
+      "y": 79.78208000000001
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 88.68659,
+      "y": 92.89457999999999
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 111.28394,
+      "y": 106.00709
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯3",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯3.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 133.88128,
+      "y": 119.11958999999999
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 133.91074,
+      "y": 59.5711
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 111.30358000000001,
+      "y": 72.76144
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 88.69641,
+      "y": 85.95177
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯2",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯2.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 66.08926,
+      "y": 99.14211
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯1.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 66.08926,
+      "y": 40.16156
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯1.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 88.68659,
+      "y": 53.15866
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯1.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 111.28394,
+      "y": 66.15577
+    },
+    {
+      "type": "Image",
+      "displayName": "方坯1",
+      "image": "symbols/图标库/IoT设备/钢厂/仓库/方坯1.json",
+      "width": 102.8846,
+      "height": 79.93342,
+      "x": 133.88128,
+      "y": 79.15288
+    }
+  ]
+}

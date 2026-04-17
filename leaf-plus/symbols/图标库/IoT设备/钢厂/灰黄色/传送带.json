@@ -1,0 +1,874 @@
+{
+  "width": 400,
+  "height": 35,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "rgb(128,128,128)",
+      "dashPattern": [
+        16,
+        8
+      ],
+      "dashColor": "#5f9fd3",
+      "dashWidth": 6,
+      "cornerRadius": 16,
+      "pixelPerfect": true,
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "anchorX": 0,
+      "shape": "roundRect",
+      "width": 397,
+      "height": 32,
+      "x": 1.75,
+      "y": 17.5
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(125,125,125)",
+      "dashPattern": [
+        16,
+        8
+      ],
+      "dashColor": "#5f9fd3",
+      "dashWidth": 6,
+      "cornerRadius": 13.5,
+      "pixelPerfect": true,
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "anchorX": 0,
+      "shape": "roundRect",
+      "width": 392,
+      "height": 27,
+      "x": 4,
+      "y": 17.5
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 395,
+          "y": 17.5
+        },
+        {
+          "x": 395,
+          "y": 10.64271
+        },
+        {
+          "x": 389.35729,
+          "y": 5
+        },
+        {
+          "x": 382.5,
+          "y": 5
+        },
+        {
+          "x": 375.64271,
+          "y": 5
+        },
+        {
+          "x": 370,
+          "y": 10.64271
+        },
+        {
+          "x": 370,
+          "y": 17.5
+        },
+        {
+          "x": 370,
+          "y": 24.35731
+        },
+        {
+          "x": 375.64271,
+          "y": 30
+        },
+        {
+          "x": 382.5,
+          "y": 30
+        },
+        {
+          "x": 389.35729,
+          "y": 30
+        },
+        {
+          "x": 395,
+          "y": 24.35731
+        },
+        {
+          "x": 395,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(128,128,128)",
+        1,
+        "rgb(214,214,214)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 393,
+          "y": 17.5
+        },
+        {
+          "x": 393,
+          "y": 11.73988
+        },
+        {
+          "x": 388.26012,
+          "y": 7
+        },
+        {
+          "x": 382.5,
+          "y": 7
+        },
+        {
+          "x": 376.73988,
+          "y": 7
+        },
+        {
+          "x": 372,
+          "y": 11.73988
+        },
+        {
+          "x": 372,
+          "y": 17.5
+        },
+        {
+          "x": 372,
+          "y": 23.26014
+        },
+        {
+          "x": 376.73988,
+          "y": 28
+        },
+        {
+          "x": 382.5,
+          "y": 28
+        },
+        {
+          "x": 388.26012,
+          "y": 28
+        },
+        {
+          "x": 393,
+          "y": 23.26014
+        },
+        {
+          "x": 393,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 387.5,
+          "y": 17.5
+        },
+        {
+          "x": 387.5,
+          "y": 14.75708
+        },
+        {
+          "x": 385.24292,
+          "y": 12.5
+        },
+        {
+          "x": 382.5,
+          "y": 12.5
+        },
+        {
+          "x": 379.75708,
+          "y": 12.5
+        },
+        {
+          "x": 377.5,
+          "y": 14.75708
+        },
+        {
+          "x": 377.5,
+          "y": 17.5
+        },
+        {
+          "x": 377.5,
+          "y": 20.24292
+        },
+        {
+          "x": 379.75708,
+          "y": 22.5
+        },
+        {
+          "x": 382.5,
+          "y": 22.5
+        },
+        {
+          "x": 385.24292,
+          "y": 22.5
+        },
+        {
+          "x": 387.5,
+          "y": 20.24292
+        },
+        {
+          "x": 387.5,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 385.5,
+          "y": 17.5
+        },
+        {
+          "x": 385.5,
+          "y": 15.85425
+        },
+        {
+          "x": 384.14575,
+          "y": 14.5
+        },
+        {
+          "x": 382.5,
+          "y": 14.5
+        },
+        {
+          "x": 380.85425,
+          "y": 14.5
+        },
+        {
+          "x": 379.5,
+          "y": 15.85425
+        },
+        {
+          "x": 379.5,
+          "y": 17.5
+        },
+        {
+          "x": 379.5,
+          "y": 19.14575
+        },
+        {
+          "x": 380.85425,
+          "y": 20.5
+        },
+        {
+          "x": 382.5,
+          "y": 20.5
+        },
+        {
+          "x": 384.14575,
+          "y": 20.5
+        },
+        {
+          "x": 385.5,
+          "y": 19.14575
+        },
+        {
+          "x": 385.5,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 30,
+          "y": 17.5
+        },
+        {
+          "x": 30,
+          "y": 10.64271
+        },
+        {
+          "x": 24.35729,
+          "y": 5
+        },
+        {
+          "x": 17.5,
+          "y": 5
+        },
+        {
+          "x": 10.64271,
+          "y": 5
+        },
+        {
+          "x": 5,
+          "y": 10.64271
+        },
+        {
+          "x": 5,
+          "y": 17.5
+        },
+        {
+          "x": 5,
+          "y": 24.35731
+        },
+        {
+          "x": 10.64271,
+          "y": 30
+        },
+        {
+          "x": 17.5,
+          "y": 30
+        },
+        {
+          "x": 24.35729,
+          "y": 30
+        },
+        {
+          "x": 30,
+          "y": 24.35731
+        },
+        {
+          "x": 30,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(128,128,128)",
+        1,
+        "rgb(214,214,214)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 28,
+          "y": 17.5
+        },
+        {
+          "x": 28,
+          "y": 11.73988
+        },
+        {
+          "x": 23.26012,
+          "y": 7
+        },
+        {
+          "x": 17.5,
+          "y": 7
+        },
+        {
+          "x": 11.73987,
+          "y": 7
+        },
+        {
+          "x": 7,
+          "y": 11.73988
+        },
+        {
+          "x": 7,
+          "y": 17.5
+        },
+        {
+          "x": 7,
+          "y": 23.26014
+        },
+        {
+          "x": 11.73987,
+          "y": 28
+        },
+        {
+          "x": 17.5,
+          "y": 28
+        },
+        {
+          "x": 23.26012,
+          "y": 28
+        },
+        {
+          "x": 28,
+          "y": 23.26014
+        },
+        {
+          "x": 28,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 22.5,
+          "y": 17.5
+        },
+        {
+          "x": 22.5,
+          "y": 14.75708
+        },
+        {
+          "x": 20.24291,
+          "y": 12.5
+        },
+        {
+          "x": 17.5,
+          "y": 12.5
+        },
+        {
+          "x": 14.75708,
+          "y": 12.5
+        },
+        {
+          "x": 12.5,
+          "y": 14.75708
+        },
+        {
+          "x": 12.5,
+          "y": 17.5
+        },
+        {
+          "x": 12.5,
+          "y": 20.24292
+        },
+        {
+          "x": 14.75708,
+          "y": 22.5
+        },
+        {
+          "x": 17.5,
+          "y": 22.5
+        },
+        {
+          "x": 20.24291,
+          "y": 22.5
+        },
+        {
+          "x": 22.5,
+          "y": 20.24292
+        },
+        {
+          "x": 22.5,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#1d4aa0",
+      "gradient": "linear.north",
+      "gradientColor": "rgb(118,164,219)",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(214,214,214)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "layoutV": "center",
+      "points": [
+        {
+          "x": 20.5,
+          "y": 17.5
+        },
+        {
+          "x": 20.5,
+          "y": 15.85425
+        },
+        {
+          "x": 19.14575,
+          "y": 14.5
+        },
+        {
+          "x": 17.5,
+          "y": 14.5
+        },
+        {
+          "x": 15.85425,
+          "y": 14.5
+        },
+        {
+          "x": 14.5,
+          "y": 15.85425
+        },
+        {
+          "x": 14.5,
+          "y": 17.5
+        },
+        {
+          "x": 14.5,
+          "y": 19.14575
+        },
+        {
+          "x": 15.85425,
+          "y": 20.5
+        },
+        {
+          "x": 17.5,
+          "y": 20.5
+        },
+        {
+          "x": 19.14575,
+          "y": 20.5
+        },
+        {
+          "x": 20.5,
+          "y": 19.14575
+        },
+        {
+          "x": 20.5,
+          "y": 17.5
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Component",
+      "layoutH": "left",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Tue Mar 25 2025 17:40:04 GMT+0800 (中国标准时间)",
+        "width": 18,
+        "height": 18,
+        "comps": [
+          {
+            "type": "shape",
+            "background": "rgb(0,0,0)",
+            "pixelPerfect": true,
+            "opacity": 0.4,
+            "points": "list[\n  {\n    \"x\": 10.6875,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 0.76177\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 0\n  },\n  {\n    \"x\": 9,\n    \"y\": 0\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 0\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 0.76177\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 2.61323\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 9,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 2.61323\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 2.61323,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 1.6875,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 0.76176,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 0,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 0,\n    \"y\": 9\n  },\n  {\n    \"x\": 0,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 0.76176,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 1.6875,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 2.61323,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 15.38677\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 9,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 15.38677\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 17.23823\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 18\n  },\n  {\n    \"x\": 9,\n    \"y\": 18\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 18\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 17.23823\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 18,\n    \"y\": 9\n  },\n  {\n    \"x\": 18,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 17.23823,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 16.3125,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 15.38676,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 9\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 15.38676,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 16.3125,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 17.23823,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 18,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 18,\n    \"y\": 9\n  }\n]",
+            "segments": "list[\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4\n]",
+            "unionRect": {
+              "x": 0,
+              "y": 0,
+              "width": 18,
+              "height": 18
+            }
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 18,
+      "height": 18,
+      "x": 17.5,
+      "y": 17.5
+    },
+    {
+      "type": "Component",
+      "layoutH": "right",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": {
+        "modified": "Tue Mar 25 2025 17:40:04 GMT+0800 (中国标准时间)",
+        "width": 18,
+        "height": 18,
+        "comps": [
+          {
+            "type": "shape",
+            "background": "rgb(0,0,0)",
+            "pixelPerfect": true,
+            "opacity": 0.4,
+            "points": "list[\n  {\n    \"x\": 10.6875,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 0.76177\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 0\n  },\n  {\n    \"x\": 9,\n    \"y\": 0\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 0\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 0.76177\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 2.61323\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 9,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 3.375\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 2.61323\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 1.6875\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 2.61323,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 1.6875,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 0.76176,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 0,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 0,\n    \"y\": 9\n  },\n  {\n    \"x\": 0,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 0.76176,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 1.6875,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 2.61323,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 3.375,\n    \"y\": 9\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 15.38677\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 9,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 14.625\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 15.38677\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 7.3125,\n    \"y\": 17.23823\n  },\n  {\n    \"x\": 8.07426,\n    \"y\": 18\n  },\n  {\n    \"x\": 9,\n    \"y\": 18\n  },\n  {\n    \"x\": 9.92573,\n    \"y\": 18\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 17.23823\n  },\n  {\n    \"x\": 10.6875,\n    \"y\": 16.3125\n  },\n  {\n    \"x\": 18,\n    \"y\": 9\n  },\n  {\n    \"x\": 18,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 17.23823,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 16.3125,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 15.38676,\n    \"y\": 7.3125\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 8.07427\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 9\n  },\n  {\n    \"x\": 14.625,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 15.38676,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 16.3125,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 17.23823,\n    \"y\": 10.6875\n  },\n  {\n    \"x\": 18,\n    \"y\": 9.92573\n  },\n  {\n    \"x\": 18,\n    \"y\": 9\n  }\n]",
+            "segments": "list[\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4,\n  1,\n  4,\n  4,\n  4,\n  4\n]",
+            "unionRect": {
+              "x": 0,
+              "y": 0,
+              "width": 18,
+              "height": 18
+            }
+          }
+        ]
+      },
+      "padding": [
+        0
+      ],
+      "component": "ht.drawing.commonAnimation",
+      "width": 18,
+      "height": 18,
+      "x": 382.5,
+      "y": 17.5
+    },
+    {
+      "type": "Component",
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": "symbols/图标库/IoT设备/钢厂/灰黄色/传送带块.json",
+          "width": 12,
+          "height": 2,
+          "gap": 0
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 2,
+      "speed": 0.5,
+      "component": "ht.drawing.marquee",
+      "width": 365,
+      "height": 2,
+      "x": 200,
+      "y": 1.5
+    },
+    {
+      "type": "Component",
+      "clipPercentage": 0.5,
+      "clipDirection": "right",
+      "layoutH": "left",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": "symbols/图标库/IoT设备/钢厂/灰黄色/传送带转角.json",
+      "padding": [
+        0
+      ],
+      "rotateStep": 0.02723,
+      "component": "ht.drawing.commonAnimation",
+      "width": 35,
+      "height": 35,
+      "x": 17.5,
+      "y": 17.5
+    },
+    {
+      "type": "Component",
+      "clipPercentage": 0.5,
+      "clipDirection": "left",
+      "layoutH": "right",
+      "layoutV": "center",
+      "displayName": "commonAnimation",
+      "image": "symbols/图标库/IoT设备/钢厂/灰黄色/传送带转角.json",
+      "padding": [
+        0
+      ],
+      "rotateStep": 0.02723,
+      "component": "ht.drawing.commonAnimation",
+      "width": 35,
+      "height": 35,
+      "x": 382.5,
+      "y": 17.5
+    },
+    {
+      "type": "Component",
+      "layoutH": "leftright",
+      "layoutV": "center",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": "symbols/图标库/IoT设备/钢厂/灰黄色/传送带块.json",
+          "width": 12,
+          "height": 2,
+          "gap": 0
+        }
+      ],
+      "connect": true,
+      "connectGap": 2,
+      "speed": 0.5,
+      "component": "ht.drawing.marquee",
+      "width": 365,
+      "height": 2,
+      "x": 200,
+      "y": 33.5
+    }
+  ],
+  "fitSize": true
+}

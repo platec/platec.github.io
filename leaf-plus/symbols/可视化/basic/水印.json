@@ -1,0 +1,315 @@
+{
+  "width": 200,
+  "height": 70,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@logo.color4",
+        "value": "rgba(138,138,138,0.30)"
+      },
+      "gradient": "linear.northwest",
+      "gradientColor": "rgba(255,255,255,0.00)",
+      "fillRule": "evenodd",
+      "shadowColor": "rgba(0,0,0,0.39)",
+      "onEnter": "function(event, data, view, point, width, height) {\ndata.a('logo.color4','rgb(105,196,245)');\n}",
+      "onLeave": "function(event, data, view, point, width, height) {\ndata.a('logo.color4', undefined);\n}",
+      "points": [
+        {
+          "x": 42.58678,
+          "y": 57.79422
+        },
+        {
+          "x": 50.59138,
+          "y": 57.79422
+        },
+        {
+          "x": 55.01221,
+          "y": 57.79422
+        },
+        {
+          "x": 58.59599,
+          "y": 54.44636
+        },
+        {
+          "x": 58.59599,
+          "y": 50.3247
+        },
+        {
+          "x": 58.59599,
+          "y": 20.43941
+        },
+        {
+          "x": 42.58678,
+          "y": 20.43941
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@logo.color3",
+        "value": "rgba(138,138,138,0.30)"
+      },
+      "fillRule": "evenodd",
+      "shadowColor": "rgba(0,0,0,0.39)",
+      "onEnter": "function(event, data, view, point, width, height) {\ndata.a('logo.color3','#48F4E8');\n}",
+      "onLeave": "function(event, data, view, point, width, height) {\ndata.a('logo.color3', undefined);\n}",
+      "points": [
+        {
+          "x": 66.12938,
+          "y": 5.7643
+        },
+        {
+          "x": 70.81044,
+          "y": 5.7643
+        },
+        {
+          "x": 74.6052,
+          "y": 9.05768
+        },
+        {
+          "x": 74.6052,
+          "y": 13.10185
+        },
+        {
+          "x": 74.6052,
+          "y": 13.10185
+        },
+        {
+          "x": 74.6052,
+          "y": 17.15427
+        },
+        {
+          "x": 70.8165,
+          "y": 20.43941
+        },
+        {
+          "x": 66.12938,
+          "y": 20.43941
+        },
+        {
+          "x": 26.57757,
+          "y": 20.43941
+        },
+        {
+          "x": 26.57757,
+          "y": 13.10185
+        },
+        {
+          "x": 26.57757,
+          "y": 9.04943
+        },
+        {
+          "x": 30.36627,
+          "y": 5.7643
+        },
+        {
+          "x": 35.05339,
+          "y": 5.7643
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        2,
+        4,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@logo.color2",
+        "value": "rgba(140,140,140,0.20)"
+      },
+      "fillRule": "evenodd",
+      "shadowColor": "rgba(0,0,0,0.39)",
+      "onEnter": "function(event, data, view, point, width, height) {\ndata.a('logo.color2', '#F24D63');\n}",
+      "onLeave": "function(event, data, view, point, width, height) {\ndata.a('logo.color2', undefined);\n}",
+      "points": [
+        {
+          "x": 18.57297,
+          "y": 41.78502
+        },
+        {
+          "x": 14.15215,
+          "y": 41.78502
+        },
+        {
+          "x": 10.56837,
+          "y": 45.37779
+        },
+        {
+          "x": 10.56837,
+          "y": 49.78962
+        },
+        {
+          "x": 10.56837,
+          "y": 49.78962
+        },
+        {
+          "x": 10.56837,
+          "y": 54.21044
+        },
+        {
+          "x": 14.16114,
+          "y": 57.79422
+        },
+        {
+          "x": 18.57297,
+          "y": 57.79422
+        },
+        {
+          "x": 26.57757,
+          "y": 57.79422
+        },
+        {
+          "x": 26.57757,
+          "y": 49.78962
+        },
+        {
+          "x": 26.57757,
+          "y": 45.3688
+        },
+        {
+          "x": 22.98479,
+          "y": 41.78502
+        },
+        {
+          "x": 18.57297,
+          "y": 41.78502
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        2,
+        4,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@logo.color1",
+        "value": "rgba(140,140,140,0.15)"
+      },
+      "fillRule": "evenodd",
+      "shadowColor": "rgba(0,0,0,0.39)",
+      "onEnter": "function(event, data, view, point, width, height) {\ndata.a('logo.color1', '#FFC826');\n}",
+      "onLeave": "function(event, data, view, point, width, height) {\ndata.a('logo.color1', undefined);\n}",
+      "points": [
+        {
+          "x": 26.57757,
+          "y": 28.44075
+        },
+        {
+          "x": 26.57757,
+          "y": 32.86337
+        },
+        {
+          "x": 22.98479,
+          "y": 36.44861
+        },
+        {
+          "x": 18.57297,
+          "y": 36.44861
+        },
+        {
+          "x": 18.57297,
+          "y": 36.44861
+        },
+        {
+          "x": 14.15215,
+          "y": 36.44861
+        },
+        {
+          "x": 10.56837,
+          "y": 32.85583
+        },
+        {
+          "x": 10.56837,
+          "y": 28.44401
+        },
+        {
+          "x": 10.56837,
+          "y": 28.44401
+        },
+        {
+          "x": 10.56837,
+          "y": 24.02319
+        },
+        {
+          "x": 14.16114,
+          "y": 20.43941
+        },
+        {
+          "x": 18.57297,
+          "y": 20.43941
+        },
+        {
+          "x": 26.57757,
+          "y": 20.43941
+        },
+        {
+          "x": 26.57757,
+          "y": 28.43494
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        2,
+        4,
+        2,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "图扑软件",
+      "color": {
+        "func": "attr@logo.text.color",
+        "value": "rgba(138,138,138,0.30)"
+      },
+      "shadow": true,
+      "shadowOffsetX": 0,
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 50,
+      "height": 50,
+      "x": 137.89964,
+      "y": 17.4024
+    },
+    {
+      "type": "Text",
+      "text": "Hightopo",
+      "color": {
+        "func": "attr@logo.text.color",
+        "value": "rgba(138,138,138,0.30)"
+      },
+      "shadow": true,
+      "shadowOffsetX": 0,
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 50,
+      "height": 50,
+      "x": 137.89964,
+      "y": 50
+    }
+  ]
+}

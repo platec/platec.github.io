@@ -1,0 +1,32 @@
+{
+  "width": 166,
+  "height": 50,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "驻马店"
+      },
+      "align": "center",
+      "color": "rgb(230,230,230)",
+      "gradientColor": "rgb(255,255,255)",
+      "font": "40px arial, sans-serif",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 2,
+      "shadowOffsetY": 2,
+      "width": 174.94054,
+      "height": 50,
+      "x": 84.26176,
+      "y": 28.07101
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    }
+  ]
+}

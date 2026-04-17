@@ -1,0 +1,146 @@
+{
+  "width": 162,
+  "height": 96,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(0,0,0,0.16)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 109.24835,
+      "height": 34.22418,
+      "x": 80.927475,
+      "y": 32.206599999999995
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(0,0,0,0.16)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 109.24835,
+      "height": 34.22418,
+      "x": 80.927475,
+      "y": 71.57749
+    },
+    {
+      "type": "Text",
+      "text": "160.0",
+      "align": "right",
+      "color": "#32D3EB",
+      "scaleX": 2,
+      "scaleY": 2,
+      "width": 42.07281,
+      "height": 16.74002,
+      "x": 70.428215,
+      "y": 34.829620000000006
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.60)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 1.62526,
+      "height": 95.78628,
+      "x": 28.3554,
+      "y": 47.89314
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.60)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 1.62526,
+      "height": 118.91513,
+      "x": 78.04288,
+      "y": 17.276965000000004
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.60)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 1.62526,
+      "height": 118.91513,
+      "x": 78.04288,
+      "y": 87.87672500000001
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.60)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 1.62526,
+      "height": 161.64331,
+      "x": 80.82166,
+      "y": 52.382265000000004
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(49,210,235,0.60)",
+      "borderColor": "#979797",
+      "shape": "roundRect",
+      "width": 18.15991,
+      "height": 21.56489,
+      "x": 121.580975,
+      "y": 32.225845
+    },
+    {
+      "type": "Text",
+      "text": "T",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "scaleX": 2,
+      "scaleY": 2,
+      "rotation": 6.28319,
+      "width": 11.09154,
+      "height": 15.12905,
+      "x": 123.54831,
+      "y": 36.539895
+    },
+    {
+      "type": "Text",
+      "text": "图扑软件示例",
+      "align": "right",
+      "color": "#32D3EB",
+      "width": 89.3912,
+      "height": 16.08813,
+      "x": 89.94426,
+      "y": 61.23896499999999
+    },
+    {
+      "type": "Text",
+      "text": "DEMO",
+      "align": "right",
+      "color": "#32D3EB",
+      "width": 89.3912,
+      "height": 16.08813,
+      "x": 89.94426,
+      "y": 75.311485
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(47,210,235,0.14)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 4.41721,
+      "height": 14.68926,
+      "x": 39.908245,
+      "y": 83.30579999999999
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(47,210,235,0.30)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 4.41721,
+      "height": 38.29161,
+      "x": 51.709415,
+      "y": 75.311485
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "width": 16,
+  "height": 8,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0)",
+      "borderColor": "#979797",
+      "gradient": "linear.west",
+      "gradientColor": "rgb(255,255,255)",
+      "shape": "rect",
+      "width": 12,
+      "height": 6,
+      "x": 10,
+      "y": 4.11216
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientColor": null,
+      "shape": "circle",
+      "width": 8,
+      "height": 8,
+      "x": 4,
+      "y": 4
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientColor": null,
+      "opacity": 0.2,
+      "gray": true,
+      "shape": "circle",
+      "width": 8,
+      "height": 8,
+      "x": 4,
+      "y": 4
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradientColor": null,
+      "gray": true,
+      "shape": "circle",
+      "width": 4,
+      "height": 4,
+      "x": 4,
+      "y": 4
+    }
+  ],
+  "bind": []
+}

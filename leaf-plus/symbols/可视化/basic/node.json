@@ -1,0 +1,100 @@
+{
+  "width": 41,
+  "height": 38,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(99,99,99)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 40,
+      "height": 6.91861,
+      "x": 20.5,
+      "y": 26.826845000000002
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "rgb(255,255,255)",
+      "shape": "oval",
+      "width": 2,
+      "height": 2,
+      "x": 20.41617,
+      "y": 27.95889
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(56,55,59)",
+      "borderColor": "#979797",
+      "shape": "trapezoid",
+      "width": 8.64307,
+      "height": 4.08968,
+      "x": 20.519885000000002,
+      "y": 32.33099
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(99,99,99)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 18.92321,
+      "height": 2.3545,
+      "x": 20.543385,
+      "y": 35.48896
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(56,55,59)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 40,
+      "height": 22.78089,
+      "x": 20.5,
+      "y": 14.262385
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(56,55,59)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "shape": "roundRect",
+      "width": 40,
+      "height": 4.78719,
+      "x": 20.5,
+      "y": 3.727385
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "shape": "rect",
+      "width": 36.69128,
+      "height": 20.21052,
+      "x": 20.41617,
+      "y": 13.26228
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(51,153,255)",
+      "borderColor": "#979797",
+      "shape": "arc",
+      "width": 15.61304,
+      "height": 13.69465,
+      "x": 20.41617,
+      "y": 23.438825
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(51,153,255)",
+      "borderColor": "#979797",
+      "arcFrom": 0,
+      "shape": "arc",
+      "width": 9.10761,
+      "height": 8.87429,
+      "x": 20.519885,
+      "y": 11.251455
+    }
+  ]
+}

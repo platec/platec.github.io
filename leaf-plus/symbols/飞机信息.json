@@ -1,0 +1,367 @@
+{
+  "width": 256,
+  "height": 349,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(108,230,189,0.35)",
+      "borderColor": "#979797",
+      "visible": false,
+      "shadowBlur": 60,
+      "displayName": "按钮已隐藏按钮已隐藏按钮已隐藏按钮已隐藏按钮已隐藏",
+      "points": [
+        {
+          "x": -27.82163,
+          "y": 483.63597
+        },
+        {
+          "x": 63.5016,
+          "y": 483.63597
+        },
+        {
+          "x": 78.81571,
+          "y": 495.54694
+        },
+        {
+          "x": 78.81571,
+          "y": 517.10014
+        },
+        {
+          "x": -27.82163,
+          "y": 517.10014
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(6,13,36,0.80)",
+      "borderColor": "#979797",
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 0,
+          "y": 3.11837
+        },
+        {
+          "x": 17.2371,
+          "y": 3.11837
+        },
+        {
+          "x": 217.7086,
+          "y": 3.11837
+        },
+        {
+          "x": 254.47395,
+          "y": 43.31739
+        },
+        {
+          "x": 254.47395,
+          "y": 296.41296
+        },
+        {
+          "x": 12.41785,
+          "y": 296.41296
+        },
+        {
+          "x": 0,
+          "y": 285.45746
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "shadowBlur": 60,
+      "scaleX": -1,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": -113.70704,
+          "y": 157.7278
+        },
+        {
+          "x": -113.70711,
+          "y": 140.98042
+        },
+        {
+          "x": 44.62215,
+          "y": 140.98706
+        },
+        {
+          "x": 48.30708,
+          "y": 145.23223
+        },
+        {
+          "x": 66.34296,
+          "y": 145.23223
+        },
+        {
+          "x": 70.78758,
+          "y": 140.98706
+        },
+        {
+          "x": 145.44991,
+          "y": 140.97947
+        },
+        {
+          "x": 158.31405,
+          "y": 157.7268
+        },
+        {
+          "x": 158.31413,
+          "y": 176.71402
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,145,194)",
+      "borderCap": "square",
+      "shadowBlur": 60,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 37.06398,
+          "y": 78.17033
+        },
+        {
+          "x": 37.0634,
+          "y": 237.00333
+        },
+        {
+          "x": 280.64752,
+          "y": 237.00425
+        },
+        {
+          "x": 308.23119,
+          "y": 212.71842
+        },
+        {
+          "x": 308.23132,
+          "y": 175.91931
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "春秋航空9C8804",
+      "align": "center",
+      "color": "rgb(93,217,174)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 148.02019,
+      "height": 45.67211,
+      "x": 61.793432796000005,
+      "y": 16.248309853600002
+    },
+    {
+      "type": "Text",
+      "text": "首都机场 —— 厦门高崎",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 45.67211,
+      "x": 85.269788108,
+      "y": 76.3637898536
+    },
+    {
+      "type": "Text",
+      "text": "空客 A320",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 60.9485,
+      "x": 85.269788108,
+      "y": 43.68606836
+    },
+    {
+      "type": "Text",
+      "text": "计划出发： 0907-  15:50",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 41.14534,
+      "x": 85.269788108,
+      "y": 164.67456615839998
+    },
+    {
+      "type": "Text",
+      "text": "实际出发： 0907-  15:50",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 41.14534,
+      "x": 85.269788108,
+      "y": 194.9767961584
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 25.6189,
+          "y": 111.74232
+        },
+        {
+          "x": 232.45277,
+          "y": 111.74232
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "shadowBlur": 60,
+      "points": [
+        {
+          "x": 25.6189,
+          "y": 226.78398
+        },
+        {
+          "x": 232.45277,
+          "y": 226.78398
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "旅客人数： 287",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 45.67211,
+      "x": 85.269788108,
+      "y": 268.8205698536
+    },
+    {
+      "type": "Text",
+      "text": "落座率：88%",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 45.67211,
+      "x": 85.269788108,
+      "y": 245.9845198536
+    },
+    {
+      "type": "Text",
+      "text": "到达时间： 0907-  11:50",
+      "color": "rgb(76,205,252)",
+      "font": "16px arial, sans-serif",
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 206.83387,
+      "height": 41.14534,
+      "x": 85.269788108,
+      "y": 134.3723361584
+    },
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 64.238085,
+      "y": 294.025035
+    },
+    {
+      "type": "Shape",
+      "background": "#32D3EB",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 128,
+      "y": 343.99024
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#32D3EB",
+      "borderCap": "round",
+      "shadow": true,
+      "shadowColor": "#32D3EB",
+      "shadowBlur": 60,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 63.9696,
+          "y": 293.77188
+        },
+        {
+          "x": 71.8434,
+          "y": 305.72137
+        },
+        {
+          "x": 102.68244,
+          "y": 306.02777
+        },
+        {
+          "x": 127.78057,
+          "y": 343.87388
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.15)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 8.04586,
+      "height": 8.04586,
+      "x": 64.23808,
+      "y": 294.02504
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(41,155,217,0.51)",
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": "rgb(41,155,217)",
+      "shadowBlur": 24,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4.81895,
+      "height": 4.81895,
+      "x": 127.999995,
+      "y": 343.990235
+    }
+  ]
+}

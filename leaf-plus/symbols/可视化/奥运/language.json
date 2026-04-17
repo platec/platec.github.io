@@ -1,0 +1,39 @@
+{
+  "width": 79.69641,
+  "height": 67.88751,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "pixelPerfect": true,
+      "shape": "oval",
+      "width": 67.88751,
+      "height": 67.88751,
+      "x": 39.848205,
+      "y": 33.943755
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@language",
+        "value": "ZH"
+      },
+      "align": "center",
+      "color": "rgb(141,141,166)",
+      "font": "bold 22px Arial",
+      "displayName": "",
+      "width": 79.69641,
+      "height": 44.1647,
+      "x": 39.848205,
+      "y": 36.1579
+    }
+  ],
+  "bind": [
+    {
+      "attr": "language",
+      "valueType": "Multiline",
+      "defaultValue": "ZN"
+    }
+  ]
+}

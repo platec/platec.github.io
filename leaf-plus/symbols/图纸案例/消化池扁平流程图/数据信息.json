@@ -1,0 +1,105 @@
+{
+  "width": 59,
+  "height": 17,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#ffffff",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 59,
+          "y": 0
+        },
+        {
+          "x": 59,
+          "y": 0
+        },
+        {
+          "x": 59,
+          "y": 0
+        },
+        {
+          "x": 59,
+          "y": 17
+        },
+        {
+          "x": 59,
+          "y": 17
+        },
+        {
+          "x": 59,
+          "y": 17
+        },
+        {
+          "x": 0,
+          "y": 17
+        },
+        {
+          "x": 0,
+          "y": 17
+        },
+        {
+          "x": 0,
+          "y": 17
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "function(data, view) {\nlet num = data.a('tnum1');\r\nif(num !== undefined) {\r\n    num = Math.ceil(num)/10;\r\n    num = num.toFixed(1);\r\n} else {\r\n    num = 0;\r\n}\r\nreturn num;\n}",
+        "value": "49"
+      },
+      "color": "#3e3a31",
+      "font": "14px D-DINExp, \"D-DIN Exp\"",
+      "pixelPerfect": true,
+      "displayName": "48.2",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 4.920459999999999,
+      "y": 8.49949
+    },
+    {
+      "type": "Text",
+      "text": "Hz",
+      "align": "right",
+      "color": "#3e3a31",
+      "font": "14px D-DINExp, \"D-DIN Exp\"",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 54.07954,
+      "y": 8.499500000000001
+    }
+  ],
+  "bind": []
+}

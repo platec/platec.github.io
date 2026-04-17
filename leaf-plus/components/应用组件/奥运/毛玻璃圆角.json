@@ -1,0 +1,122 @@
+{
+  "modified": "Wed Nov 22 2023 18:55:53 GMT+0800 (中国标准时间)",
+  "width": 100,
+  "height": 100,
+  "func": "function(g, rect, comp, data, view) {var blur = comp.getValue('blur');\nif (blur <= 0) return;\n\nvar realView = view;\nvar getView = comp.getValue('getViewFunc');\n\nvar saturate = comp.getValue('saturate');\nvar brightness = comp.getValue('brightness');\nvar invert = comp.getValue('invert');\n\nif (ht.Default.isFunction(getView)) {\n    realView = getView(data, view);\n}\nif (!realView || !realView.getCanvas) return;\n\nvar x = rect.x;\nvar y = rect.y;\nvar width = rect.width;\nvar height = rect.height\nvar radius = comp.getValue('radius');\n\ng.save();\n\ng.beginPath();\ng.moveTo(x + radius, y);\ng.lineTo(x + width - radius, y);\ng.arcTo(x + width, y, x + width, y + radius, radius);\ng.lineTo(x + width, y + height - radius);\ng.arcTo(x + width, y + height, x + width - radius, y + height, radius);\ng.lineTo(x + radius, y + height);\ng.arcTo(x, y + height, x, y + height - radius, radius);\ng.lineTo(x, y + height);\ng.arcTo(x, y, x + radius, y, radius);\ng.clip();\n\ng.filter = 'blur(' + blur + 'px) saturate('+ saturate +') ' + 'brightness(' + brightness + ') ' +  'invert(' + invert +')';\n\nvar drawBackgroundFunc = comp.getValue('drawBackgroundFunc');\ndrawBackgroundFunc(g, rect, comp, blur, realView);\n\nvar getColorFunc = comp.getValue('getColorFunc');\nvar color = getColorFunc(comp, data, view);\nif (color) {\n    g.fillStyle = color;\n    g.fill();\n}\n\ng.restore();}",
+  "properties": {
+    "blur": {
+      "valueType": "PositiveNumber",
+      "defaultValue": 10,
+      "name": "模糊度"
+    },
+    "alpha": {
+      "valueType": "Opacity",
+      "defaultValue": 0.35,
+      "name": "透明度"
+    },
+    "color": {
+      "valueType": "Color",
+      "defaultValue": "rgb(181,181,181)",
+      "name": "颜色"
+    },
+    "getViewFunc": {
+      "valueType": "Function",
+      "name": "背景视图",
+      "description": "获取背景视图的方法，默认为当前 2D 视图，可以返回一个 3D 视图对象，实现类似景深的效果",
+      "extraInfo": {
+        "arguments": [
+          [
+            "ht.Node",
+            "data",
+            "节点对象"
+          ],
+          [
+            "View",
+            "view",
+            "视图对象"
+          ]
+        ]
+      }
+    },
+    "getColorFunc": {
+      "valueType": "Function",
+      "defaultValue": "function(comp, data, view) {var color = comp.getValue('color');\nif (!ht.Default.isString(color)) return;\n\nvar opacity = comp.getValue('alpha');\nif (opacity === 0) return;\n\nvar r, g, b;\n// #000 / #000000\nvar res = color.match(/#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})/i);\nif (res) res = res[1];\nif (res) {\n    if (res.length === 3) {\n        r = parseInt(res[0], 16);\n        g = parseInt(res[1], 16);\n        b = parseInt(res[2], 16);\n    }\n    else {\n        r = parseInt(res.slice(0, 2), 16);\n        g = parseInt(res.slice(2, 4), 16);\n        b = parseInt(res.slice(4), 16);\n    }\n    return 'rgba(' + ([r, g, b, opacity].join(', ')) + ')'\n}\n\n// rgb(0, 0, 0) / rgba(0, 0, 0, 1)\nres = color.match(/rgba?\\((.*)\\)/i);\nif (res) res = res[1];\nif (res) {\n    res = res.split(',');\n    res[3] = opacity;\n    return 'rgba(' + res.join(', ') + ')';\n}\n\n// 其他\nres = ht.Default.toColorData(color);\nres[3] = opacity;\nreturn 'rgba(' + res.join(', ') + ')';}",
+      "description": "内部方法，用于解析颜色和透明度",
+      "extraInfo": {
+        "visible": false,
+        "arguments": [
+          [
+            "Object",
+            "comp",
+            "组件对象"
+          ],
+          [
+            "ht.Node",
+            "data",
+            "节点对象"
+          ],
+          [
+            "ht.graph.GraphView",
+            "view",
+            "拓扑视图"
+          ]
+        ]
+      }
+    },
+    "drawBackgroundFunc": {
+      "valueType": "Function",
+      "defaultValue": "function(g, rect, comp, blur, view) {var filterCanvas = comp.__filterCanvas__;\nif (!filterCanvas) {\n    filterCanvas = comp.__filterCanvas__ = document.createElement('canvas');\n    filterCanvas.dynamic = true;\n}\n\nvar x = rect.x - blur, y = rect.y - blur;\nvar w = rect.width + 2 * blur;\nvar h = rect.height + 2 * blur;\n\nfilterCanvas.width = w;\nfilterCanvas.height = h;\n\nvar filterCtx = filterCanvas.getContext('2d');\nfilterCtx.clearRect(0, 0, w, h);\n\nvar t = g.getTransform();\nt = new ht.Math.Matrix2d().set(t.a, t.b, t.c, t.d, t.e, t.f);\nvar p0 = t.apply({ x: x, y: y });\nvar p1 = t.apply({ x: x + w, y: y + h });\nfilterCtx.drawImage(view.getCanvas(), p0.x, p0.y, p1.x - p0.x, p1.y - p0.y, 0, 0, w, h);\n\n// 往外扩充 blur 像素，为了让整体 blur 效果更均衡，因为 blur 的边缘会比较透\ng.drawImage(filterCanvas, x, y, w, h);}",
+      "description": "内部方法，用于绘制背景",
+      "extraInfo": {
+        "visible": false,
+        "arguments": [
+          [
+            "CanvasRenderingContext2D",
+            "g",
+            " Canvas 2d 渲染上下文对象"
+          ],
+          [
+            "Rect",
+            "rect",
+            "组件显示区域"
+          ],
+          [
+            "Object",
+            "comp",
+            "组件对象"
+          ],
+          [
+            "Number",
+            "blur",
+            "模糊度"
+          ],
+          [
+            "View",
+            "view",
+            "视图对象"
+          ]
+        ]
+      }
+    },
+    "radius": {
+      "valueType": "CornerRadius",
+      "defaultValue": 4,
+      "name": "圆角"
+    },
+    "saturate": {
+      "valueType": "Number",
+      "defaultValue": 1,
+      "name": "饱和度"
+    },
+    "brightness": {
+      "valueType": "Number",
+      "defaultValue": 1,
+      "name": "亮度"
+    },
+    "invert": {
+      "valueType": "Number",
+      "defaultValue": 0,
+      "name": "反色"
+    }
+  }
+}

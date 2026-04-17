@@ -1,0 +1,43 @@
+{
+  "width": 16,
+  "height": 8,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": "rgb(255,255,255)",
+      "points": [
+        {
+          "x": 0,
+          "y": 4.11216
+        },
+        {
+          "x": 16,
+          "y": 4.11216
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderWidth": 2,
+      "borderColor": "rgba(255,255,255,0.50)",
+      "shape": "oval",
+      "width": 6,
+      "height": 6,
+      "x": 8,
+      "y": 4
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0.5)",
+      "gray": true,
+      "shape": "oval",
+      "width": 4,
+      "height": 4,
+      "x": 8,
+      "y": 4
+    }
+  ],
+  "bind": []
+}

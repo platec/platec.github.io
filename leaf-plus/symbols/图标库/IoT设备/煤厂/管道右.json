@@ -1,0 +1,990 @@
+{
+  "width": 406,
+  "height": 24,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.505,
+        0,
+        0.505,
+        0,
+        "#dadce3",
+        1,
+        "#717b9b"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "leftright",
+      "points": [
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 24.76,
+          "y": 15
+        },
+        {
+          "x": 24.76,
+          "y": 15
+        },
+        {
+          "x": 24.76,
+          "y": 15
+        },
+        {
+          "x": 24.76,
+          "y": 1
+        },
+        {
+          "x": 24.76,
+          "y": 1
+        },
+        {
+          "x": 24.76,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 404,
+          "y": 15
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#1c1c1c",
+        1,
+        "#404040"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "leftright",
+      "points": [
+        {
+          "x": 404,
+          "y": 13
+        },
+        {
+          "x": 24.76,
+          "y": 13
+        },
+        {
+          "x": 24.76,
+          "y": 13
+        },
+        {
+          "x": 24.76,
+          "y": 13
+        },
+        {
+          "x": 24.76,
+          "y": 3
+        },
+        {
+          "x": 24.76,
+          "y": 3
+        },
+        {
+          "x": 24.76,
+          "y": 3
+        },
+        {
+          "x": 404,
+          "y": 3
+        },
+        {
+          "x": 404,
+          "y": 3
+        },
+        {
+          "x": 404,
+          "y": 3
+        },
+        {
+          "x": 404,
+          "y": 13
+        },
+        {
+          "x": 404,
+          "y": 13
+        },
+        {
+          "x": 404,
+          "y": 13
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": "symbols/图标库/IoT设备/煤厂/煤流.json",
+          "width": 102,
+          "height": 8,
+          "gap": 0
+        }
+      ],
+      "direction": {
+        "func": "attr@direction"
+      },
+      "connect": true,
+      "connectGap": 0,
+      "component": "ht.drawing.marquee",
+      "width": 379.24,
+      "height": 10,
+      "x": 214.38,
+      "y": 8
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        -0.00165,
+        0.5,
+        0.99835,
+        0,
+        "#979faf",
+        0.08,
+        "#b1b6c3",
+        0.18,
+        "#cfd2da",
+        0.24,
+        "#dadce3",
+        0.74,
+        "#717b9b",
+        0.83,
+        "#747e9e",
+        0.89,
+        "#7d87a7",
+        0.95,
+        "#8c97b5",
+        1,
+        "#a1acca",
+        1,
+        "#a3aecc"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "points": [
+        {
+          "x": 404,
+          "y": 0
+        },
+        {
+          "x": 406,
+          "y": 0
+        },
+        {
+          "x": 406,
+          "y": 0
+        },
+        {
+          "x": 406,
+          "y": 0
+        },
+        {
+          "x": 406,
+          "y": 16
+        },
+        {
+          "x": 406,
+          "y": 16
+        },
+        {
+          "x": 406,
+          "y": 16
+        },
+        {
+          "x": 404,
+          "y": 16
+        },
+        {
+          "x": 404,
+          "y": 16
+        },
+        {
+          "x": 404,
+          "y": 16
+        },
+        {
+          "x": 404,
+          "y": 0
+        },
+        {
+          "x": 404,
+          "y": 0
+        },
+        {
+          "x": 404,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.50021,
+        0.00068,
+        0.50021,
+        1.00068,
+        0,
+        "#979faf",
+        0.08,
+        "#b1b6c3",
+        0.18,
+        "#cfd2da",
+        0.24,
+        "#dadce3",
+        0.74,
+        "#717b9b",
+        0.83,
+        "#747e9e",
+        0.89,
+        "#7d87a7",
+        0.95,
+        "#8c97b5",
+        1,
+        "#a1acca",
+        1,
+        "#a3aecc"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "points": [
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 380,
+          "y": 1
+        },
+        {
+          "x": 380.91792,
+          "y": 2.58095
+        },
+        {
+          "x": 381.42329,
+          "y": 4.80952
+        },
+        {
+          "x": 381.42329,
+          "y": 7.99048
+        },
+        {
+          "x": 381.51896,
+          "y": 10.39553
+        },
+        {
+          "x": 381.0327,
+          "y": 12.7903
+        },
+        {
+          "x": 380,
+          "y": 15
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        -0.00098,
+        0.50034,
+        0.99902,
+        0.50034,
+        0,
+        "rgba(8, 20, 66, 0)",
+        0.45,
+        "rgba(8, 20, 66, 0.06)",
+        0.91,
+        "rgba(8, 20, 66, 0.25)",
+        1,
+        "rgba(8, 20, 66, 0.3)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "right",
+      "points": [
+        {
+          "x": 393.77,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 1
+        },
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 404,
+          "y": 15
+        },
+        {
+          "x": 393.77,
+          "y": 15
+        },
+        {
+          "x": 393.77,
+          "y": 15
+        },
+        {
+          "x": 393.77,
+          "y": 15
+        },
+        {
+          "x": 393.77,
+          "y": 1
+        },
+        {
+          "x": 393.77,
+          "y": 1
+        },
+        {
+          "x": 393.77,
+          "y": 1
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        -0.00165,
+        0.5,
+        0.99835,
+        0,
+        "#979faf",
+        0.08,
+        "#b1b6c3",
+        0.18,
+        "#cfd2da",
+        0.24,
+        "#dadce3",
+        0.74,
+        "#717b9b",
+        0.83,
+        "#747e9e",
+        0.89,
+        "#7d87a7",
+        0.95,
+        "#8c97b5",
+        1,
+        "#a1acca",
+        1,
+        "#a3aecc"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "points": [
+        {
+          "x": 22,
+          "y": 0
+        },
+        {
+          "x": 24.1,
+          "y": 0
+        },
+        {
+          "x": 24.1,
+          "y": 0
+        },
+        {
+          "x": 24.1,
+          "y": 0
+        },
+        {
+          "x": 24.1,
+          "y": 16
+        },
+        {
+          "x": 24.1,
+          "y": 16
+        },
+        {
+          "x": 24.1,
+          "y": 16
+        },
+        {
+          "x": 22,
+          "y": 16
+        },
+        {
+          "x": 22,
+          "y": 16
+        },
+        {
+          "x": 22,
+          "y": 16
+        },
+        {
+          "x": 22,
+          "y": 0
+        },
+        {
+          "x": 22,
+          "y": 0
+        },
+        {
+          "x": 22,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.49977,
+        0.00068,
+        0.49977,
+        1.00068,
+        0,
+        "#979faf",
+        0.08,
+        "#b1b6c3",
+        0.18,
+        "#cfd2da",
+        0.24,
+        "#dadce3",
+        0.74,
+        "#717b9b",
+        0.83,
+        "#747e9e",
+        0.89,
+        "#7d87a7",
+        0.95,
+        "#8c97b5",
+        1,
+        "#a1acca",
+        1,
+        "#a3aecc"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "points": [
+        {
+          "x": 24.1,
+          "y": 1.00952
+        },
+        {
+          "x": 24.1,
+          "y": 15
+        },
+        {
+          "x": 48.1,
+          "y": 15
+        },
+        {
+          "x": 47.12332,
+          "y": 13.41905
+        },
+        {
+          "x": 46.5856,
+          "y": 11.19048
+        },
+        {
+          "x": 46.5856,
+          "y": 8
+        },
+        {
+          "x": 46.48247,
+          "y": 5.59794
+        },
+        {
+          "x": 46.99995,
+          "y": 3.20601
+        },
+        {
+          "x": 48.1,
+          "y": 1
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        1,
+        0.50034,
+        0,
+        0.50034,
+        0,
+        "rgba(8, 20, 66, 0)",
+        0.45,
+        "rgba(8, 20, 66, 0.06)",
+        0.91,
+        "rgba(8, 20, 66, 0.25)",
+        1,
+        "rgba(8, 20, 66, 0.3)"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 24.1,
+          "y": 1
+        },
+        {
+          "x": 34.33,
+          "y": 1
+        },
+        {
+          "x": 34.33,
+          "y": 1
+        },
+        {
+          "x": 34.33,
+          "y": 1
+        },
+        {
+          "x": 34.33,
+          "y": 15
+        },
+        {
+          "x": 34.33,
+          "y": 15
+        },
+        {
+          "x": 34.33,
+          "y": 15
+        },
+        {
+          "x": 24.1,
+          "y": 15
+        },
+        {
+          "x": 24.1,
+          "y": 15
+        },
+        {
+          "x": 24.1,
+          "y": 15
+        },
+        {
+          "x": 24.1,
+          "y": 1
+        },
+        {
+          "x": 24.1,
+          "y": 1
+        },
+        {
+          "x": 24.1,
+          "y": 1
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        -0.00109,
+        0.5,
+        0.99891,
+        0.5,
+        0,
+        "#979faf",
+        0.08,
+        "#b1b6c3",
+        0.18,
+        "#cfd2da",
+        0.24,
+        "#dadce3",
+        0.74,
+        "#717b9b",
+        0.83,
+        "#747e9e",
+        0.89,
+        "#7d87a7",
+        0.95,
+        "#8c97b5",
+        1,
+        "#a1acca",
+        1,
+        "#a3aecc"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "points": [
+        {
+          "x": 16,
+          "y": 22
+        },
+        {
+          "x": 16,
+          "y": 24
+        },
+        {
+          "x": 16,
+          "y": 24
+        },
+        {
+          "x": 16,
+          "y": 24
+        },
+        {
+          "x": 0,
+          "y": 24
+        },
+        {
+          "x": 0,
+          "y": 24
+        },
+        {
+          "x": 0,
+          "y": 24
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 0,
+          "y": 22
+        },
+        {
+          "x": 16,
+          "y": 22
+        },
+        {
+          "x": 16,
+          "y": 22
+        },
+        {
+          "x": 16,
+          "y": 22
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "borderWidth": 14,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "radial",
+        1,
+        1,
+        1.72457,
+        0.15138,
+        "#a1acca",
+        0.4633,
+        "#717b9b",
+        0.76,
+        "#dadce3",
+        1,
+        "#979faf"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 8,
+          "y": 22
+        },
+        {
+          "x": 8,
+          "y": 18.13401
+        },
+        {
+          "x": 9.36683,
+          "y": 14.83417
+        },
+        {
+          "x": 12.1005,
+          "y": 12.1005
+        },
+        {
+          "x": 14.83417,
+          "y": 9.36683
+        },
+        {
+          "x": 18.13401,
+          "y": 8
+        },
+        {
+          "x": 22,
+          "y": 8
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(8, 20, 66, 0)",
+        0.45,
+        "rgba(8, 20, 66, 0.06)",
+        0.91,
+        "rgba(8, 20, 66, 0.25)",
+        1,
+        "rgba(8, 20, 66, 0.3)"
+      ],
+      "pixelPerfect": true,
+      "layoutH": "left",
+      "points": [
+        {
+          "x": 1,
+          "y": 22
+        },
+        {
+          "x": 1,
+          "y": 20
+        },
+        {
+          "x": 1,
+          "y": 20
+        },
+        {
+          "x": 1,
+          "y": 20
+        },
+        {
+          "x": 15,
+          "y": 20
+        },
+        {
+          "x": 15,
+          "y": 20
+        },
+        {
+          "x": 15,
+          "y": 20
+        },
+        {
+          "x": 15,
+          "y": 22
+        },
+        {
+          "x": 15,
+          "y": 22
+        },
+        {
+          "x": 15,
+          "y": 22
+        },
+        {
+          "x": 1,
+          "y": 22
+        },
+        {
+          "x": 1,
+          "y": 22
+        },
+        {
+          "x": 1,
+          "y": 22
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "direction",
+      "valueType": "String",
+      "name": "editor.valuetype.direction",
+      "extraInfo": {
+        "enum": {
+          "values": [
+            "left",
+            "right",
+            "pingpong"
+          ],
+          "i18nLabels": [
+            "drawing.toleft",
+            "drawing.toright",
+            "drawing.pingpong"
+          ]
+        }
+      }
+    }
+  ],
+  "fitSize": true
+}

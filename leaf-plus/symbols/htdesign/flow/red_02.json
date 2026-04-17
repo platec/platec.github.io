@@ -1,0 +1,49 @@
+{
+  "width": 64,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,194,194)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(255,184,77,0.00)",
+      "opacity": 0.3,
+      "displayName": "底图",
+      "rotation": 1.5708,
+      "shape": "rect",
+      "width": 64,
+      "height": 64,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,194,194)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(255,184,77,0.00)",
+      "opacity": {
+        "func": "function(data, view) {\nvar offset = data.a('offset')\r\nif(offset>0.8){\r\n    return   (1-offset)*5\r\n}else {\r\n    return 1\r\n}\n}",
+        "value": 1
+      },
+      "clipPercentage": {
+        "func": "attr@offset",
+        "value": 0.9
+      },
+      "rotation": 4.71239,
+      "shape": "rect",
+      "width": 64,
+      "height": 64,
+      "x": 32,
+      "y": 32
+    }
+  ],
+  "bind": [
+    {
+      "attr": "offset",
+      "valueType": "Number",
+      "defaultValue": 1
+    }
+  ]
+}

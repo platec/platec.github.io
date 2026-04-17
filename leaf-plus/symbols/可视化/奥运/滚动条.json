@@ -1,0 +1,96 @@
+{
+  "width": 200,
+  "height": 200,
+  "elements": [
+    {
+      "type": "Component",
+      "layoutH": "leftright",
+      "layoutV": "topbottom",
+      "displayName": "滚动条",
+      "onEnter": "function(event, data, view, point, width, height) {this._scrollVisible = true;\r\ndata.iv()}",
+      "onLeave": "function(event, data, view, point, width, height) {delete this._scrollVisible;\r\ndata.iv()}",
+      "onScroll": "function(event, data, view, point, width, height) {var scope = this;\r\nhandleScroll(event, data, view, point, width, height);\r\n\r\nfunction handleScroll(event, data, view, point, width, height) {\r\n    var scrollInfo = scope.__cunstomScrollInfo;\r\n    if(!scrollInfo){\r\n        return\r\n    }\r\n    var scrollSpeed = 1;\r\n    var tyName, txName;\r\n    tyName = getBindingInfo(scope, 'translateY', data);\r\n    txName = getBindingInfo(scope, 'translateX', data);\r\n    if (!scrollInfo) return;\r\n    var { scrollBarX, scrollBarY, minX, minY } = scrollInfo;\r\n    var deltaX = (event.wheelDeltaX || -event.deltaX || 0) / 40 * 5 * scrollSpeed;\r\n    var deltaY = (event.wheelDeltaY || -event.deltaY || 0) / 40 * 5 * scrollSpeed;\r\n    var deal = false;\r\n    if (scrollBarY && tyName && deltaY) {\r\n        var ty = (data.a(tyName) || 0) + deltaY;\r\n        ty = Math.min(0, ty);\r\n        ty = Math.max(minY, ty);\r\n        data.a(tyName, ty);\r\n        deal = true;\r\n    }\r\n    if (scrollBarX && txName && deltaX) {\r\n        var tx = (data.a(txName) || 0) + deltaX;\r\n        tx = Math.min(0, tx);\r\n        tx = Math.max(minX, tx);\r\n        data.a(txName, tx);\r\n        deal = true;\r\n    }\r\n    if (!deal && scrollBarX && !scrollBarY && txName && deltaY) {\r\n        var tx = (data.a(txName) || 0) + deltaY;\r\n        tx = Math.min(0, tx);\r\n        tx = Math.max(minX, tx);\r\n        data.a(txName, tx);\r\n    }\r\n    data.iv();\r\n}\r\n\r\nfunction getBindingInfo(comp, attributeName, data, view) {\r\n    if (!comp) {\r\n        return;\r\n    }\r\n    var attr = comp[attributeName];\r\n    const prefix = data.getCurrentPrefix();\r\n    if (attr && attr.func) {\r\n        if (typeof attr.func === 'string') {\r\n            var arr = attr.func.split('@'),\r\n                [accessType, name] = arr;\r\n            return (prefix || '') + name;\r\n        }\r\n    }\r\n    return null;\r\n}}",
+      "translateX": {
+        "func": "attr@ht.translateX"
+      },
+      "translateY": {
+        "func": "attr@ht.translateY"
+      },
+      "scrollBarWidth": {
+        "func": "attr@ht.scrollBarWidth"
+      },
+      "scrollBarColor": {
+        "func": "attr@ht.scrollBarColor"
+      },
+      "autoHideScrollBar": {
+        "func": "attr@ht.autoHideScrollBar"
+      },
+      "rows": {
+        "func": "attr@ht.rows"
+      },
+      "rowHeight": {
+        "func": "attr@ht.rowHeight"
+      },
+      "drawRow": {
+        "func": "attr@ht.drawRow"
+      },
+      "component": "components/应用组件/奥运/滚动条.json",
+      "width": 200,
+      "height": 200,
+      "x": 100,
+      "y": 100
+    }
+  ],
+  "bind": [
+    {
+      "attr": "ht.translateX",
+      "valueType": "Number",
+      "name": "滚动条横向偏移"
+    },
+    {
+      "attr": "ht.translateY",
+      "valueType": "Number",
+      "name": "滚动条纵向偏移"
+    },
+    {
+      "attr": "ht.scrollBarWidth",
+      "valueType": "Number",
+      "name": "滚动条宽度"
+    },
+    {
+      "attr": "ht.scrollBarColor",
+      "valueType": "Color",
+      "name": "滚动条颜色"
+    },
+    {
+      "attr": "ht.autoHideScrollBar",
+      "valueType": "Boolean",
+      "name": "自动隐藏滚动条"
+    },
+    {
+      "attr": "ht.rows",
+      "valueType": "Object",
+      "name": "行数据"
+    },
+    {
+      "attr": "ht.rowHeight",
+      "valueType": "PositiveNumber",
+      "name": "行高"
+    },
+    {
+      "attr": "ht.drawRow",
+      "valueType": "Function",
+      "name": "行自定义绘制",
+      "extraInfo": {
+        "arguments": [
+          "g",
+          "row",
+          "rect",
+          "data",
+          "view"
+        ]
+      }
+    }
+  ],
+  "fitSize": true
+}

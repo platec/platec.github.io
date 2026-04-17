@@ -1,0 +1,124 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "cornerRadius": 1,
+      "renderLayer": "main",
+      "shape": "roundRect",
+      "width": 14.66324,
+      "height": 12.21937,
+      "x": 7.99636,
+      "y": 8.380365
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 0.66474,
+          "y": 5.93649
+        },
+        {
+          "x": 15.32798,
+          "y": 5.93649
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 1.5708,
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 3.10862,
+          "y": 2.27068
+        },
+        {
+          "x": 5.55248,
+          "y": 2.27068
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 1.5708,
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 10.44024,
+          "y": 2.27068
+        },
+        {
+          "x": 12.88411,
+          "y": 2.27068
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 1.5708,
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 9,
+          "y": 4.03744
+        },
+        {
+          "x": 9,
+          "y": 12.03744
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 1.5708,
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 8,
+          "y": 5.20895
+        },
+        {
+          "x": 8,
+          "y": 15.20895
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "round",
+      "rotation": 1.5708,
+      "renderLayer": "main",
+      "points": [
+        {
+          "x": 7,
+          "y": 8.38047
+        },
+        {
+          "x": 7,
+          "y": 16.38047
+        }
+      ]
+    }
+  ]
+}

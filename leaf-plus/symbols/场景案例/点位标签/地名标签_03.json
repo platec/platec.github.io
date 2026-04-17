@@ -1,0 +1,151 @@
+{
+  "width": 1000,
+  "height": 150,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0)",
+      "borderColor": "#979797",
+      "gradient": "linear.northwest",
+      "gradientColor": "rgba(66,56,50,0.20)",
+      "shape": "rect",
+      "width": 485.08774,
+      "height": 126.29408,
+      "x": 242.54387,
+      "y": 74.80496
+    },
+    {
+      "type": "Shape",
+      "background": "rgba(255,255,255,0)",
+      "borderColor": "#979797",
+      "gradient": "linear.northwest",
+      "gradientColor": "rgb(255,208,181)",
+      "shape": "rect",
+      "width": 991.51143,
+      "height": 3.94847,
+      "x": 495.755715,
+      "y": 77.974235
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 3,
+      "borderColor": "rgb(255,209,181)",
+      "gradientColor": null,
+      "visible": false,
+      "points": [
+        {
+          "x": 17.75371,
+          "y": 78.44847
+        },
+        {
+          "x": 589.6962,
+          "y": 78.44847
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@country",
+        "value": "中国"
+      },
+      "color": "rgb(255,209,181)",
+      "font": "47px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 181.379235,
+      "y": 50.700810000000004
+    },
+    {
+      "type": "Text",
+      "text": "现存确诊：",
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 181.379235,
+      "y": 105.95617
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@confirmednumber",
+        "value": "0"
+      },
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 302.883065,
+      "y": 105.95617
+    },
+    {
+      "type": "Text",
+      "text": "治愈：",
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 406.886315,
+      "y": 105.95617
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@curednumber",
+        "value": "0"
+      },
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 485.087745,
+      "y": 105.95617
+    },
+    {
+      "type": "Text",
+      "text": "死亡：",
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 587.323255,
+      "y": 105.95617
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@deadnumber",
+        "value": "0"
+      },
+      "color": "rgb(255,209,181)",
+      "font": "25px Microsoft YaHei",
+      "width": 64.85771,
+      "height": 21.72574,
+      "x": 660.514825,
+      "y": 105.95617
+    }
+  ],
+  "bind": [
+    {
+      "attr": "country",
+      "valueType": "String",
+      "defaultValue": "中国"
+    },
+    {
+      "attr": "confirmednumber",
+      "valueType": "String",
+      "defaultValue": "0"
+    },
+    {
+      "attr": "curednumber",
+      "valueType": "String",
+      "defaultValue": "0"
+    },
+    {
+      "attr": "deadnumber",
+      "valueType": "String",
+      "defaultValue": "0"
+    }
+  ]
+}

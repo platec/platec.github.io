@@ -1,0 +1,49 @@
+{
+  "width": 128,
+  "height": 128,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgba(0,0,0,0.52)",
+      "borderWidth": 8,
+      "borderColor": "rgb(242,83,75)",
+      "shape": "triangle",
+      "width": 91.22007,
+      "height": 81.14784,
+      "x": 63.999995,
+      "y": 54.95385
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 8,
+      "borderColor": "rgb(242,83,75)",
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 64,
+          "y": 44.67692
+        },
+        {
+          "x": 64,
+          "y": 69.04615
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 8,
+      "borderColor": "rgb(242,83,75)",
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 64,
+          "y": 77.35385
+        },
+        {
+          "x": 64,
+          "y": 86.76923
+        }
+      ]
+    }
+  ]
+}

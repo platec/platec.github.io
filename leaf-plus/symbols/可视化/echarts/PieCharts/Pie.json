@@ -1,0 +1,60 @@
+{
+  "width": 500,
+  "height": 376,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "series0.data",
+      "valueType": "Object",
+      "defaultValue": [
+        {
+          "value": 24,
+          "name": "大连"
+        },
+        {
+          "value": 47,
+          "name": "北京"
+        },
+        {
+          "value": 124,
+          "name": "天津"
+        },
+        {
+          "value": 124,
+          "name": "青岛"
+        },
+        {
+          "value": 15,
+          "name": "上海"
+        },
+        {
+          "value": 89,
+          "name": "成都"
+        },
+        {
+          "value": 142,
+          "name": "厦门"
+        }
+      ],
+      "group": "chart"
+    },
+    {
+      "attr": "chart.text",
+      "valueType": "String",
+      "defaultValue": "饼图",
+      "name": "主标题"
+    },
+    {
+      "attr": "chart.subtext",
+      "valueType": "String",
+      "defaultValue": "一个简单的饼图",
+      "name": "副标题"
+    },
+    {
+      "attr": "chart.backgroundColor",
+      "valueType": "Color",
+      "name": "背景色",
+      "defaultValue": "#fff"
+    }
+  ]
+}

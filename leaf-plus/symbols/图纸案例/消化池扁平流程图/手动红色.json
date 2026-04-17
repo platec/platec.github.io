@@ -1,0 +1,114 @@
+{
+  "width": 53,
+  "height": 17,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "#3e3a31",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 11,
+          "y": 0
+        },
+        {
+          "x": 53,
+          "y": 0
+        },
+        {
+          "x": 53,
+          "y": 0
+        },
+        {
+          "x": 53,
+          "y": 0
+        },
+        {
+          "x": 53,
+          "y": 17
+        },
+        {
+          "x": 53,
+          "y": 17
+        },
+        {
+          "x": 53,
+          "y": 17
+        },
+        {
+          "x": 11,
+          "y": 17
+        },
+        {
+          "x": 11,
+          "y": 17
+        },
+        {
+          "x": 11,
+          "y": 17
+        },
+        {
+          "x": 11,
+          "y": 0
+        },
+        {
+          "x": 11,
+          "y": 0
+        },
+        {
+          "x": 11,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "手动",
+      "align": "center",
+      "color": "#ecebea",
+      "font": "12px SimHei",
+      "pixelPerfect": true,
+      "width": 0.001,
+      "height": 0.001,
+      "x": 31.999499999999998,
+      "y": 8.5
+    },
+    {
+      "type": "Polyline",
+      "background": "#ba520e",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 7,
+          "y": 8.5
+        },
+        {
+          "x": 0,
+          "y": 12
+        },
+        {
+          "x": 0,
+          "y": 5
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        5
+      ]
+    }
+  ]
+}

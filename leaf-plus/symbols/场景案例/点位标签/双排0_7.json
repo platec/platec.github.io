@@ -1,0 +1,76 @@
+{
+  "width": 700,
+  "height": 150,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "污水处理厂"
+      },
+      "align": "center",
+      "color": {
+        "func": "attr@namec",
+        "value": "rgb(194,203,207)"
+      },
+      "font": "bold 64px sans-serif, Arial",
+      "shadow": true,
+      "shadowColor": "rgba(0,0,0,0.7)",
+      "shadowBlur": 0,
+      "shadowOffsetX": -2,
+      "shadowOffsetY": -2,
+      "width": 497.32375,
+      "height": 71.66075,
+      "x": 349.999995,
+      "y": 38.500004999999994
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name2",
+        "value": "HT-666"
+      },
+      "align": "center",
+      "vAlign": "top",
+      "color": {
+        "func": "attr@namec2",
+        "value": "rgb(194,203,207)"
+      },
+      "font": {
+        "func": "attr@size",
+        "value": "bold 64px sans-serif, Arial"
+      },
+      "shadow": true,
+      "shadowColor": "rgba(0,0,0,0.7)",
+      "shadowBlur": 0,
+      "shadowOffsetX": -2,
+      "shadowOffsetY": -2,
+      "width": 497.32375,
+      "height": 75,
+      "x": 349.999995,
+      "y": 112.5
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    },
+    {
+      "attr": "namec",
+      "valueType": "Color"
+    },
+    {
+      "attr": "name2",
+      "valueType": "String"
+    },
+    {
+      "attr": "namec2",
+      "valueType": "Color"
+    },
+    {
+      "attr": "size",
+      "valueType": "Font"
+    }
+  ]
+}

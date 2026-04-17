@@ -1,0 +1,52 @@
+{
+  "width": 65.62885,
+  "height": 46.52673,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#edeaff",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#f3f5f9",
+        1,
+        "#edeaff"
+      ],
+      "pixelPerfect": true,
+      "shadow": true,
+      "shadowColor": "rgba(180,188,224,0.2)",
+      "shadowBlur": 4,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 1,
+      "shape": "rect",
+      "width": 65.62885,
+      "height": 46.52673,
+      "x": 32.814425,
+      "y": 23.263365
+    },
+    {
+      "type": "Image",
+      "pixelPerfect": true,
+      "displayName": "国旗-2",
+      "image": {
+        "func": "attr@flag",
+        "value": "assets/2D/奥运/国旗/中国.png"
+      },
+      "width": 57.49166,
+      "height": 38.26029,
+      "x": 32.81442,
+      "y": 23.263365
+    }
+  ],
+  "bind": [
+    {
+      "attr": "flag",
+      "valueType": "Image"
+    }
+  ]
+}

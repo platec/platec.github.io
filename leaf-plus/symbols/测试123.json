@@ -1,0 +1,40 @@
+{
+  "width": 400,
+  "height": 400,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "文本",
+      "width": 99.71963,
+      "height": 73.50467,
+      "x": 228.224305,
+      "y": 188.901865
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderWidth": 13,
+      "borderColor": "#979797",
+      "border3d": true,
+      "border3dColor": "#FEB64D",
+      "anchorX": 0.17061,
+      "anchorY": 0.25,
+      "shape": "rect",
+      "width": 214.85981,
+      "height": 62.19626,
+      "x": 50.0217221841,
+      "y": 43.684535000000004
+    },
+    {
+      "type": "Image",
+      "stretch": "uniform",
+      "displayName": "jiang",
+      "image": "assets/2D/jiang.png",
+      "width": 122.30202,
+      "height": 201.48797,
+      "x": 88.32601,
+      "y": 289.645845
+    }
+  ],
+  "fitSize": true
+}

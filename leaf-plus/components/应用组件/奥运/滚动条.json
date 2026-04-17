@@ -1,0 +1,92 @@
+{
+  "modified": "Tue Aug 20 2024 15:43:41 GMT+0800 (GMT+08:00)",
+  "width": 200,
+  "height": 200,
+  "func": "function(g, rect, comp, data, view) {var { x, y, width, height } = rect;\r\n\r\nvar scrollBarWidth = comp.getValue('scrollBarWidth') || 6;\r\nvar scrollBarColor = comp.getValue('scrollBarColor') || \"#54bdf8\";\r\nvar translateX = comp.getValue('translateX') || 0;\r\nvar translateY = comp.getValue('translateY') || 0;\r\nvar rows = comp.getValue('rows') || [];\r\nvar rowHeight = comp.getValue('rowHeight') || 0;\r\nvar drawRow = comp.getValue('drawRow');\r\nvar autoHideScrollBar = comp.getValue('autoHideScrollBar');\r\n\r\n\r\nvar bodyRect = {\r\n    x: x,\r\n    y: y,\r\n    width: width,\r\n    height: height\r\n}\r\nvar contentSize = {\r\n    width: width,\r\n    height: rowHeight * rows.length\r\n}\r\nvar offset = {\r\n    x: translateX,\r\n    y: translateY\r\n};\r\n\r\n\r\n\r\n// draw row item\r\ng.save();\r\ng.beginPath();\r\ng.rect(x, y, width, height)\r\ng.clip();\r\nfor (var i = 0; i < rows.length; i++) {\r\n    var rowRect = {\r\n        x: offset.x,\r\n        y: offset.y + i * rowHeight,\r\n        width: width,\r\n        height: rowHeight\r\n    }\r\n    \r\n    if (drawRow) {\r\n        drawRow(g, rows[i], rowRect, data, view)\r\n    }\r\n    else {\r\n        ht.Default.drawText(g, rows[i], '12px Arial', 'red', rowRect.x, rowRect.y, rowRect.width, rowRect.height, 'center', 'middle')\r\n    }\r\n\r\n}\r\ng.restore();\r\n\r\nvar scrollVisible = true;\r\nif(autoHideScrollBar && !comp._scrollVisible){\r\n    scrollVisible = false\r\n}\r\ndrawScrollBar(g, bodyRect, contentSize, offset, {\r\n    visible: scrollVisible,\r\n    color: scrollBarColor,\r\n    barWidth: scrollBarWidth\r\n});\r\n\r\n\r\nfunction drawScrollBar(g, bodyRect, contentSize, offset, option = {}) {\r\n    var { x, y, width, height } = bodyRect,\r\n        contentWidth = contentSize.width,\r\n        contentHeight = contentSize.height,\r\n        ox = offset.x,\r\n        oy = offset.y,\r\n        minX, minY, xRect = null, yRect = null, scaleX, scaleY;\r\n    var { color = 'red', barWidth = 8, gap = 2, visible } = option;\r\n    g.save();\r\n    // scroll bar y\r\n    if (contentHeight > height) {\r\n        scaleY = height / contentHeight;\r\n        let barHeight = height * scaleY,\r\n            barOffsetY = - oy * scaleY,\r\n            bx = x + width - barWidth - gap,\r\n            by = y + barOffsetY;\r\n\r\n        yRect = [bx, by, barWidth, Math.max(barHeight, 16)];\r\n        minY = height - contentHeight;\r\n        if (visible) {\r\n            g.beginPath();\r\n            ht.Default.drawRoundRect(g, ...yRect, Math.min(barWidth, barHeight) / 2);\r\n            g.fillStyle = color;\r\n            g.fill();\r\n        }\r\n    }\r\n    // scroll bar x\r\n    if (contentWidth > width) {\r\n        scaleX = width / contentWidth;\r\n        var barHeight = width * scaleX,\r\n            barOffsetX = - ox * scaleX,\r\n            by = y + height - barWidth - gap,\r\n            bx = x + barOffsetX;\r\n\r\n        xRect = [bx, by, Math.max(barHeight, 16), barWidth];\r\n        minX = width - contentWidth;\r\n        if (visible) {\r\n            g.beginPath();\r\n            ht.Default.drawRoundRect(g, ...xRect, Math.min(barWidth, barHeight) / 2);\r\n            g.fillStyle = color;\r\n            g.fill();\r\n        }\r\n    }\r\n\r\n    comp.__cunstomScrollInfo = {\r\n        minX, minY,\r\n        scrollBarY: yRect,\r\n        scrollBarX: xRect\r\n    }\r\n    g.restore();\r\n}}",
+  "properties": {
+    "translateX": {
+      "valueType": "Number",
+      "defaultValue": 0,
+      "name": "滚动条横向偏移"
+    },
+    "translateY": {
+      "valueType": "Number",
+      "defaultValue": 0,
+      "name": "滚动条纵向偏移"
+    },
+    "scrollBarWidth": {
+      "valueType": "Number",
+      "defaultValue": 6,
+      "name": "滚动条宽度"
+    },
+    "scrollBarColor": {
+      "valueType": "Color",
+      "defaultValue": "rgb(87,188,247)",
+      "name": "滚动条颜色"
+    },
+    "autoHideScrollBar": {
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "自动隐藏滚动条"
+    },
+    "rows": {
+      "valueType": "Object",
+      "defaultValue": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "name": "行数据"
+    },
+    "rowHeight": {
+      "valueType": "PositiveNumber",
+      "defaultValue": 30,
+      "name": "行高"
+    },
+    "drawRow": {
+      "valueType": "Function",
+      "name": "行自定义绘制",
+      "extraInfo": {
+        "arguments": [
+          "g",
+          "row",
+          "rect",
+          "data",
+          "view"
+        ]
+      }
+    }
+  },
+  "events": {
+    "onEnter": "function(event, data, view, point, width, height) {this._scrollVisible = true;\r\ndata.iv()}",
+    "onLeave": "function(event, data, view, point, width, height) {delete this._scrollVisible;\r\ndata.iv()}",
+    "onScroll": "function(event, data, view, point, width, height) {var scope = this;\r\nhandleScroll(event, data, view, point, width, height);\r\n\r\nfunction handleScroll(event, data, view, point, width, height) {\r\n    var scrollInfo = scope.__cunstomScrollInfo;\r\n    if(!scrollInfo){\r\n        return\r\n    }\r\n    var scrollSpeed = 1;\r\n    var tyName, txName;\r\n    tyName = getBindingInfo(scope, 'translateY', data);\r\n    txName = getBindingInfo(scope, 'translateX', data);\r\n    if (!scrollInfo) return;\r\n    var { scrollBarX, scrollBarY, minX, minY } = scrollInfo;\r\n    var deltaX = (event.wheelDeltaX || -event.deltaX || 0) / 40 * 5 * scrollSpeed;\r\n    var deltaY = (event.wheelDeltaY || -event.deltaY || 0) / 40 * 5 * scrollSpeed;\r\n    var deal = false;\r\n    if (scrollBarY && tyName && deltaY) {\r\n        var ty = (data.a(tyName) || 0) + deltaY;\r\n        ty = Math.min(0, ty);\r\n        ty = Math.max(minY, ty);\r\n        data.a(tyName, ty);\r\n        deal = true;\r\n    }\r\n    if (scrollBarX && txName && deltaX) {\r\n        var tx = (data.a(txName) || 0) + deltaX;\r\n        tx = Math.min(0, tx);\r\n        tx = Math.max(minX, tx);\r\n        data.a(txName, tx);\r\n        deal = true;\r\n    }\r\n    if (!deal && scrollBarX && !scrollBarY && txName && deltaY) {\r\n        var tx = (data.a(txName) || 0) + deltaY;\r\n        tx = Math.min(0, tx);\r\n        tx = Math.max(minX, tx);\r\n        data.a(txName, tx);\r\n    }\r\n    data.iv();\r\n}\r\n\r\nfunction getBindingInfo(comp, attributeName, data, view) {\r\n    if (!comp) {\r\n        return;\r\n    }\r\n    var attr = comp[attributeName];\r\n    const prefix = data.getCurrentPrefix();\r\n    if (attr && attr.func) {\r\n        if (typeof attr.func === 'string') {\r\n            var arr = attr.func.split('@'),\r\n                [accessType, name] = arr;\r\n            return (prefix || '') + name;\r\n        }\r\n    }\r\n    return null;\r\n}}"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "width": 16,
+  "height": 16,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "anchorX": 0,
+      "anchorY": 0,
+      "shape": "rect",
+      "width": 5.5,
+      "height": 4,
+      "x": 1,
+      "y": 1
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "anchorX": 1,
+      "anchorY": 0,
+      "shape": "rect",
+      "width": 5.5,
+      "height": 6,
+      "x": 15,
+      "y": 1
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "anchorX": 0,
+      "anchorY": 1,
+      "shape": "rect",
+      "width": 5.5,
+      "height": 7,
+      "x": 1,
+      "y": 15
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1.3,
+      "borderColor": "rgb(255,255,255)",
+      "anchorX": 1,
+      "anchorY": 1,
+      "shape": "rect",
+      "width": 5.5,
+      "height": 5,
+      "x": 15,
+      "y": 15
+    }
+  ],
+  "fitSize": true
+}

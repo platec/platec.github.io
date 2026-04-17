@@ -1,0 +1,16 @@
+{
+  "width": 512,
+  "height": 512,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 8,
+      "borderColor": "rgb(242,83,75)",
+      "shape": "circle",
+      "width": 512,
+      "height": 8,
+      "x": 256,
+      "y": 256
+    }
+  ]
+}

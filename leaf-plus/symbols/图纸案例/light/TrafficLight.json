@@ -1,0 +1,66 @@
+{
+  "width": 40,
+  "height": 95,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#020202",
+      "borderWidth": 2,
+      "borderColor": "#32D3EB",
+      "displayName": "panel",
+      "shape": "rect",
+      "width": 40,
+      "height": 95,
+      "x": 20,
+      "y": 47.5
+    },
+    {
+      "type": "Image",
+      "prefix": "light1",
+      "displayName": "",
+      "image": "symbols/图纸案例/light/Light.json",
+      "width": 30,
+      "height": 30,
+      "x": 20.55171,
+      "y": 18.29132
+    },
+    {
+      "type": "Image",
+      "prefix": "light2",
+      "displayName": "",
+      "image": "symbols/图纸案例/light/Light.json",
+      "width": 30,
+      "height": 30,
+      "x": 20.55171,
+      "y": 47.39566
+    },
+    {
+      "type": "Image",
+      "prefix": "light3",
+      "displayName": "",
+      "image": "symbols/图纸案例/light/Light.json",
+      "width": 30,
+      "height": 30,
+      "x": 20.55171,
+      "y": 76.5
+    }
+  ],
+  "bind": [
+    {
+      "attr": "light1.circle.background",
+      "valueType": "Color",
+      "name": "灯1圆背景",
+      "group": "灯光"
+    },
+    {
+      "attr": "light2.circle.background",
+      "valueType": "Color",
+      "name": "灯2圆背景"
+    },
+    {
+      "attr": "light3.circle.background",
+      "valueType": "Color",
+      "name": "灯3圆背景"
+    }
+  ]
+}

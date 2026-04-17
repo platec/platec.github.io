@@ -1,0 +1,249 @@
+{
+  "width": 43.56287,
+  "height": 415.86193,
+  "elements": [
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.50011,
+        1,
+        0.50011,
+        0,
+        0,
+        "#20232a",
+        0,
+        "#21242b",
+        0.13,
+        "#383d48",
+        0.26,
+        "#494f5c",
+        0.38,
+        "#545a69",
+        0.5,
+        "#575e6d",
+        0.62,
+        "#545a69",
+        0.74,
+        "#494f5c",
+        0.87,
+        "#383d48",
+        1,
+        "#21242b",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 415.86193
+        },
+        {
+          "x": 18.347,
+          "y": 415.86193
+        },
+        {
+          "x": 43.56287,
+          "y": 399.13467
+        },
+        {
+          "x": 0,
+          "y": 399.13467
+        },
+        {
+          "x": 0,
+          "y": 415.86193
+        },
+        {
+          "x": 0,
+          "y": 415.86193
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "gradientPack": [
+        "linear",
+        0.50011,
+        1,
+        0.50011,
+        0,
+        0,
+        "#20232a",
+        0,
+        "#21242b",
+        0.13,
+        "#383d48",
+        0.26,
+        "#494f5c",
+        0.38,
+        "#545a69",
+        0.5,
+        "#575e6d",
+        0.62,
+        "#545a69",
+        0.74,
+        "#494f5c",
+        0.87,
+        "#383d48",
+        1,
+        "#21242b",
+        1,
+        "#20232a"
+      ],
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 18.347,
+          "y": 0
+        },
+        {
+          "x": 43.56287,
+          "y": 16.73726
+        },
+        {
+          "x": 0,
+          "y": 16.73726
+        },
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "width": 16,
+            "height": 4,
+            "comps": [
+              {
+                "type": "shape",
+                "borderWidth": 4,
+                "borderColor": "rgba(87,94,109,1)",
+                "borderPattern": [
+                  8
+                ],
+                "points": "list[\n  {\n    \"x\": 16,\n    \"y\": 2\n  },\n  {\n    \"x\": 0,\n    \"y\": 2\n  },\n  {\n    \"x\": 0,\n    \"y\": 2\n  }\n]",
+                "unionRect": {
+                  "x": 0,
+                  "y": 2,
+                  "width": 16,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          "width": 16,
+          "height": 4,
+          "gap": 6
+        }
+      ],
+      "direction": "right",
+      "connect": true,
+      "connectGap": 0,
+      "component": "ht.drawing.marquee",
+      "width": 382.39741,
+      "height": 4,
+      "x": 1.9999949999999842,
+      "y": 207.93597
+    },
+    {
+      "type": "Component",
+      "displayName": "marquee",
+      "rotation": 1.5708,
+      "onClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onClick.apply(this, arguments);}",
+      "onDoubleClick": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDoubleClick.apply(this, arguments);}",
+      "onContextMenu": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onContextMenu.apply(this, arguments);}",
+      "onDown": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDown.apply(this, arguments);}",
+      "onUp": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onUp.apply(this, arguments);}",
+      "onMove": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onMove.apply(this, arguments);}",
+      "onEnter": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEnter.apply(this, arguments);}",
+      "onHover": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onHover.apply(this, arguments);}",
+      "onLeave": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onLeave.apply(this, arguments);}",
+      "onBeginDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onBeginDrag.apply(this, arguments);}",
+      "onDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onDrag.apply(this, arguments);}",
+      "onEndDrag": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onEndDrag.apply(this, arguments);}",
+      "onScroll": "function(event, data, view, point, width, height) {return ht.drawing.marqueeInteractor.onScroll.apply(this, arguments);}",
+      "iconConfig": [
+        {
+          "icon": {
+            "width": 16,
+            "height": 4,
+            "comps": [
+              {
+                "type": "shape",
+                "borderWidth": 4,
+                "borderColor": "rgba(87,94,109,1)",
+                "borderPattern": [
+                  8
+                ],
+                "points": "list[\n  {\n    \"x\": 16,\n    \"y\": 2\n  },\n  {\n    \"x\": 0,\n    \"y\": 2\n  },\n  {\n    \"x\": 0,\n    \"y\": 2\n  }\n]",
+                "unionRect": {
+                  "x": 0,
+                  "y": 2,
+                  "width": 16,
+                  "height": 0
+                }
+              }
+            ]
+          },
+          "width": 16,
+          "height": 4,
+          "gap": 6
+        }
+      ],
+      "connect": true,
+      "connectGap": 0,
+      "component": "ht.drawing.marquee",
+      "width": 382.39741,
+      "height": 4,
+      "x": 21.999994999999984,
+      "y": 207.93597
+    }
+  ]
+}

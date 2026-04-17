@@ -1,0 +1,53 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "elements": [
+    {
+      "type": "Component",
+      "displayName": "毛玻璃圆角",
+      "component": "components/应用组件/奥运/毛玻璃圆角.json",
+      "width": 1920,
+      "height": 1080,
+      "x": 960,
+      "y": 540
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.00)"
+      ],
+      "cornerRadius": 32,
+      "pixelPerfect": true,
+      "shape": "roundRect",
+      "width": 1920,
+      "height": 1080,
+      "x": 960,
+      "y": 540
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 20,
+      "visible": false,
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "shape": "roundRect",
+      "width": 1740,
+      "height": 700,
+      "x": 957.41062,
+      "y": 526.03823
+    }
+  ],
+  "bind": []
+}

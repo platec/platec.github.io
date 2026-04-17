@@ -1,0 +1,40 @@
+{
+  "width": 200,
+  "height": 120,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "sceneURL",
+      "valueType": "URL",
+      "defaultValue": "scenes/HT展厅.json"
+    },
+    {
+      "attr": "center",
+      "valueType": "NumberArray",
+      "defaultValue": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "attr": "eye",
+      "valueType": "NumberArray",
+      "defaultValue": [
+        0,
+        500,
+        1000
+      ]
+    },
+    {
+      "attr": "far",
+      "valueType": "Number",
+      "defaultValue": 10000
+    },
+    {
+      "attr": "near",
+      "valueType": "Number",
+      "defaultValue": 10
+    }
+  ]
+}

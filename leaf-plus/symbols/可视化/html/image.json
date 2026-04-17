@@ -1,0 +1,18 @@
+{
+  "width": {
+    "func": "function(data, view) {\nvar image = ht.Default.getImage(data.a('imageURL'));\nif (image && image.width) {\n    return image.width;\n}\nreturn undefined;\n}",
+    "value": 100
+  },
+  "height": {
+    "func": "function(data, view) {\nvar image = ht.Default.getImage(data.a('imageURL'));\nif (image && image.height) {\n    return image.height;\n}\nreturn undefined;\n}",
+    "value": 100
+  },
+  "elements": [],
+  "bind": [
+    {
+      "attr": "imageURL",
+      "valueType": "Image",
+      "defaultValue": "assets/hightopo.png"
+    }
+  ]
+}

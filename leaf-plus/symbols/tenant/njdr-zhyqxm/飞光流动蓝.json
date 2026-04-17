@@ -1,0 +1,82 @@
+{
+  "width": 512,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(75,192,242)",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(67,175,222,0.00)",
+      "shadow": true,
+      "shadowColor": "rgb(76,205,252)",
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rotation": -3.14159,
+      "shape": "rect",
+      "width": 512,
+      "height": 4,
+      "x": 256,
+      "y": 32
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(0,128,255)",
+      "gradient": "linear.west",
+      "gradientColor": "rgb(75,192,242)",
+      "shadow": true,
+      "shadowColor": "rgb(51,153,255)",
+      "shadowBlur": 15,
+      "shadowOffsetX": -1,
+      "shadowOffsetY": 0,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 154.87862,
+          "y": 31.91089
+        },
+        {
+          "x": 154.87862,
+          "y": 31.91089
+        },
+        {
+          "x": 283.71097,
+          "y": 24.74387
+        },
+        {
+          "x": 298.33907,
+          "y": 26.02893
+        },
+        {
+          "x": 309.86929,
+          "y": 27.3733
+        },
+        {
+          "x": 309.86929,
+          "y": 36.26836
+        },
+        {
+          "x": 298.33907,
+          "y": 37.63873
+        },
+        {
+          "x": 283.71097,
+          "y": 39.25613
+        },
+        {
+          "x": 154.87862,
+          "y": 31.91089
+        },
+        {
+          "x": 154.87862,
+          "y": 31.91089
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

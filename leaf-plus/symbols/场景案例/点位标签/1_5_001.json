@@ -1,0 +1,72 @@
+{
+  "width": 406,
+  "height": 77,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": {
+        "func": "attr@ht.color",
+        "value": null
+      },
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@c",
+        "value": "rgb(124,145,155)"
+      },
+      "borderJoin": "bevel",
+      "points": [
+        {
+          "x": 2.67625,
+          "y": 2.66963
+        },
+        {
+          "x": 403.32375,
+          "y": 2.66963
+        },
+        {
+          "x": 403.32375,
+          "y": 74.33037
+        },
+        {
+          "x": 2.67625,
+          "y": 74.33037
+        },
+        {
+          "x": 2.67625,
+          "y": 2.66963
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "污水处理厂"
+      },
+      "align": "center",
+      "color": {
+        "func": "attr@namec",
+        "value": "rgb(124,145,155)"
+      },
+      "font": "bold 64px sans-serif, Arial",
+      "width": 400.64749,
+      "height": 71.66075,
+      "x": 202.999995,
+      "y": 38.500004999999994
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    },
+    {
+      "attr": "c",
+      "valueType": "Color"
+    },
+    {
+      "attr": "namec",
+      "valueType": "Color"
+    }
+  ]
+}

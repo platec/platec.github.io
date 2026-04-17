@@ -1,0 +1,153 @@
+{
+  "width": 20,
+  "height": 20,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgba(255,255,255,0.00)",
+        1,
+        "rgb(255,255,255)"
+      ],
+      "borderGradientPack": [
+        "linear",
+        1,
+        0.5,
+        0.5,
+        0.5,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.01)"
+      ],
+      "opacity": 0.5,
+      "rotation": 0.7854,
+      "shape": "circle",
+      "width": 18,
+      "height": 18,
+      "x": 10,
+      "y": 10
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.8)"
+      ],
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(222,255,246)",
+        1,
+        "rgba(182,227,255,0.4)"
+      ],
+      "shape": "circle",
+      "width": 8,
+      "height": 8,
+      "x": 10,
+      "y": 10
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.2)"
+      ],
+      "gray": true,
+      "shape": "circle",
+      "width": 8,
+      "height": 8,
+      "x": 10,
+      "y": 10
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "borderGradientPack": [
+        "linear",
+        1,
+        0.5,
+        0.5,
+        0.5,
+        0,
+        "rgb(255,255,255)",
+        1,
+        "rgba(255,255,255,0.01)"
+      ],
+      "opacity": 0.2,
+      "gray": true,
+      "rotation": 0.7854,
+      "shape": "circle",
+      "width": 18,
+      "height": 18,
+      "x": 10,
+      "y": 10
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(255,255,255,0.6)",
+        1,
+        "rgba(255,255,255,0.2)"
+      ],
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgb(222,255,246)",
+        1,
+        "rgba(182,227,255,0.4)"
+      ],
+      "gray": true,
+      "shape": "circle",
+      "width": 8,
+      "height": 8,
+      "x": 10,
+      "y": 10
+    }
+  ],
+  "bind": []
+}

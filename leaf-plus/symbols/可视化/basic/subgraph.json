@@ -1,0 +1,219 @@
+{
+  "width": 64,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "cornerRadius": 12,
+      "shape": "roundRect",
+      "width": 61.80749,
+      "height": 24.44101,
+      "x": 31.941675,
+      "y": 45.711924999999994
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "shape": "oval",
+      "width": 22,
+      "height": 22,
+      "x": 21.11308,
+      "y": 32.54933
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderColor": "#979797",
+      "shape": "oval",
+      "width": 28,
+      "height": 28,
+      "x": 39.83837,
+      "y": 29.65885
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "rotation": 0.5236,
+      "shape": "polygon",
+      "width": 30.30147,
+      "height": 25.23165,
+      "x": 32.471175,
+      "y": 40.158935
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "points": [
+        {
+          "x": 21.84891,
+          "y": 34.98457
+        },
+        {
+          "x": 32.33592,
+          "y": 53.22285
+        },
+        {
+          "x": 43.73484,
+          "y": 34.87058
+        },
+        {
+          "x": 43.80715,
+          "y": 34.91976
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "points": [
+        {
+          "x": 32.59332,
+          "y": 27.84287
+        },
+        {
+          "x": 32.46136,
+          "y": 52.65074
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 2,
+      "height": 2,
+      "x": 32.570750000000004,
+      "y": 33.97468
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(159,230,217)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 32.47126,
+      "y": 42.18457
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 2,
+      "height": 2,
+      "x": 32.50208,
+      "y": 45.86839
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 21.59099,
+      "y": 45.80936
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 43.38268,
+      "y": 45.80936
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 5,
+      "height": 5,
+      "x": 32.45404,
+      "y": 51.90378
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(240,120,156)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 19.47514,
+      "y": 22.24341
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(158,230,217)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 5,
+      "height": 5,
+      "x": 22.42052,
+      "y": 9.255749999999999
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 5,
+      "height": 5,
+      "x": 32.59801,
+      "y": 28.34844
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(159,230,217)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 21.49114,
+      "y": 34.45287
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(159,230,217)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 3,
+      "height": 3,
+      "x": 43.4221,
+      "y": 34.34537
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(18,157,216)",
+      "borderWidth": 0.6,
+      "borderColor": "rgb(71,65,65)",
+      "shape": "oval",
+      "width": 2,
+      "height": 2,
+      "x": 7.05147,
+      "y": 17.74489
+    }
+  ]
+}

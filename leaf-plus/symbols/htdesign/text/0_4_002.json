@@ -1,0 +1,38 @@
+{
+  "width": 266,
+  "height": 77,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@name",
+        "value": "污水处理"
+      },
+      "align": "center",
+      "color": {
+        "func": "attr@namec",
+        "value": "rgb(194,203,207)"
+      },
+      "font": "bold 64px sans-serif, Arial",
+      "width": 266,
+      "height": 71.66075,
+      "x": 133,
+      "y": 38.500004999999994
+    }
+  ],
+  "bind": [
+    {
+      "attr": "name",
+      "valueType": "String"
+    },
+    {
+      "attr": "namec",
+      "valueType": "Color"
+    },
+    {
+      "attr": "href",
+      "valueType": "String"
+    }
+  ],
+  "fitSize": true
+}

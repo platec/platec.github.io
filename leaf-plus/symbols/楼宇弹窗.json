@@ -1,0 +1,427 @@
+{
+  "width": 262,
+  "height": 225,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.21)",
+      "borderColor": "rgb(41,155,217)",
+      "pixelPerfect": true,
+      "rotation": 3.14159,
+      "points": [
+        {
+          "x": 16.03622,
+          "y": 5.1892
+        },
+        {
+          "x": 248.90711,
+          "y": 5.18983
+        },
+        {
+          "x": 256.74588,
+          "y": 10.83424
+        },
+        {
+          "x": 256.74588,
+          "y": 44.45662
+        },
+        {
+          "x": 252.52178,
+          "y": 48.88103
+        },
+        {
+          "x": 252.52159,
+          "y": 176.88111
+        },
+        {
+          "x": 256.74569,
+          "y": 181.97884
+        },
+        {
+          "x": 256.74569,
+          "y": 213.82145
+        },
+        {
+          "x": 248.90655,
+          "y": 220.69283
+        },
+        {
+          "x": 16.03565,
+          "y": 220.6922
+        },
+        {
+          "x": 7.25435,
+          "y": 213.82128
+        },
+        {
+          "x": 7.25435,
+          "y": 181.97867
+        },
+        {
+          "x": 13.06586,
+          "y": 176.88094
+        },
+        {
+          "x": 13.06604,
+          "y": 48.88085
+        },
+        {
+          "x": 7.25453,
+          "y": 44.45644
+        },
+        {
+          "x": 7.25453,
+          "y": 10.83406
+        },
+        {
+          "x": 16.03622,
+          "y": 5.1892
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "地址:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 22.2495104344
+    },
+    {
+      "type": "Text",
+      "text": "名称:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 57.85709043440001
+    },
+    {
+      "type": "Text",
+      "text": "类型:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 93.4646804344
+    },
+    {
+      "type": "Text",
+      "text": "所有权人:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 129.0722604344
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.40)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.23883,
+          "y": 44.67712
+        },
+        {
+          "x": 20.23883,
+          "y": 43.66463
+        },
+        {
+          "x": 240.48561,
+          "y": 43.66463
+        },
+        {
+          "x": 240.48561,
+          "y": 44.67712
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.40)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.23883,
+          "y": 80.2847
+        },
+        {
+          "x": 20.23883,
+          "y": 79.27222
+        },
+        {
+          "x": 240.48561,
+          "y": 79.27222
+        },
+        {
+          "x": 240.48561,
+          "y": 80.2847
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.40)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.23883,
+          "y": 115.89228
+        },
+        {
+          "x": 20.23883,
+          "y": 114.87979
+        },
+        {
+          "x": 240.48561,
+          "y": 114.87979
+        },
+        {
+          "x": 240.48561,
+          "y": 115.89228
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "测试文本测试文本测试文本",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 103.76205,
+      "height": 30.42838,
+      "x": 95.17133522,
+      "y": 22.2495104688
+    },
+    {
+      "type": "Text",
+      "text": "测试文本测试文本测试文本",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 103.76205,
+      "height": 30.42838,
+      "x": 95.17133522,
+      "y": 58.312810468799995
+    },
+    {
+      "type": "Text",
+      "text": "写字楼",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 103.76205,
+      "height": 30.42838,
+      "x": 95.17133522,
+      "y": 93.9107404688
+    },
+    {
+      "type": "Text",
+      "text": "联系人:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 164.6798404344
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.40)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.23883,
+          "y": 151.49987
+        },
+        {
+          "x": 20.23883,
+          "y": 150.48738
+        },
+        {
+          "x": 240.48561,
+          "y": 150.48738
+        },
+        {
+          "x": 240.48561,
+          "y": 151.49987
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "联系方式:",
+      "color": "rgb(247,247,247)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 50.31924,
+      "height": 28.54669,
+      "x": 37.451008816,
+      "y": 200.28743043440002
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(30,30,33,0.40)",
+      "borderColor": "rgba(76,205,252,0.50)",
+      "pixelPerfect": true,
+      "points": [
+        {
+          "x": 20.23883,
+          "y": 187.10745
+        },
+        {
+          "x": 20.23883,
+          "y": 186.09496
+        },
+        {
+          "x": 240.48561,
+          "y": 186.09496
+        },
+        {
+          "x": 240.48561,
+          "y": 187.10745
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "text": "测试文本",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 68.86484,
+      "height": 30.42838,
+      "x": 120.004189856,
+      "y": 128.8008504688
+    },
+    {
+      "type": "Text",
+      "text": "测试文本",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 68.86484,
+      "height": 30.42838,
+      "x": 120.004189856,
+      "y": 165.3492704688
+    },
+    {
+      "type": "Text",
+      "text": "+86 186021****",
+      "color": "rgb(255,255,255)",
+      "font": "14px arial, sans-serif",
+      "pixelPerfect": true,
+      "anchorX": 0.2884,
+      "anchorY": 0.35576,
+      "width": 68.86484,
+      "height": 30.42838,
+      "x": 120.004189856,
+      "y": 200.0160104688
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(18,101,184,0.60)",
+      "borderColor": "rgb(97,3,3)",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 65.59379,
+          "y": 110.21482
+        },
+        {
+          "x": 65.59379,
+          "y": 114.71397
+        },
+        {
+          "x": 59.29075,
+          "y": 119.54478
+        },
+        {
+          "x": -50.6957,
+          "y": 119.54455
+        },
+        {
+          "x": -56.26338,
+          "y": 114.71397
+        },
+        {
+          "x": -56.26338,
+          "y": 110.21482
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgba(18,101,184,0.60)",
+      "borderColor": "rgb(97,3,3)",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 318.26338,
+          "y": 110.21482
+        },
+        {
+          "x": 318.26338,
+          "y": 114.71397
+        },
+        {
+          "x": 311.96034,
+          "y": 119.54478
+        },
+        {
+          "x": 201.97389,
+          "y": 119.54455
+        },
+        {
+          "x": 196.40621,
+          "y": 114.71397
+        },
+        {
+          "x": 196.40621,
+          "y": 110.21482
+        }
+      ]
+    }
+  ]
+}

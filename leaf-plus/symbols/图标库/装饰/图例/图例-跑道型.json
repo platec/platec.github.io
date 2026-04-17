@@ -1,0 +1,43 @@
+{
+  "width": 16,
+  "height": 8,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "gradient": "linear.east",
+      "gradientColor": "rgba(255,255,255,0.00)",
+      "shape": "rect",
+      "width": 12,
+      "height": 3,
+      "x": 10,
+      "y": 4
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 2,
+      "shape": "roundRect",
+      "width": 8,
+      "height": 4,
+      "x": 4,
+      "y": 4
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "cornerRadius": 2,
+      "opacity": 0.2,
+      "gray": true,
+      "shape": "roundRect",
+      "width": 8,
+      "height": 4,
+      "x": 4,
+      "y": 4
+    }
+  ],
+  "bind": []
+}

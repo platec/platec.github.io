@@ -1,0 +1,52 @@
+{
+  "width": 560,
+  "height": 376,
+  "elements": [],
+  "bind": [
+    {
+      "attr": "xAxis.data",
+      "valueType": "Object",
+      "group": "chart",
+      "defaultValue": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ]
+    },
+    {
+      "attr": "series0.data",
+      "valueType": "Object",
+      "defaultValue": [
+        150,
+        230,
+        360,
+        175,
+        256,
+        147,
+        260
+      ]
+    },
+    {
+      "attr": "chart.text",
+      "valueType": "String",
+      "defaultValue": "阶梯图",
+      "name": "主标题"
+    },
+    {
+      "attr": "chart.subtext",
+      "valueType": "String",
+      "defaultValue": "一个简单的阶梯图",
+      "name": "副标题"
+    },
+    {
+      "attr": "chart.backgroundColor",
+      "valueType": "Color",
+      "name": "背景色",
+      "defaultValue": "#fff"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "width": 130,
+  "height": 79,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(94,102,118)",
+      "gradientPack": [
+        "linear",
+        0.3587,
+        0,
+        0.69565,
+        1,
+        0,
+        "#5e6676",
+        0.5,
+        "rgb(224,121,103)",
+        1,
+        "#5e6676"
+      ],
+      "pixelPerfect": true,
+      "prefix": "animate_1",
+      "shadowColor": "#e95413",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "displayName": "1",
+      "points": [
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        },
+        {
+          "x": 87.60297,
+          "y": 74.94956
+        },
+        {
+          "x": 0.0059,
+          "y": 24.37355
+        },
+        {
+          "x": 42.22525,
+          "y": 0
+        },
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        },
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(59,66,82)",
+      "pixelPerfect": true,
+      "prefix": "animate_2",
+      "shadowColor": "rgba(255,132,0,0.6)",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "displayName": "2",
+      "points": [
+        {
+          "x": 129.82584,
+          "y": 54.40467
+        },
+        {
+          "x": 87.60297,
+          "y": 78.78175
+        },
+        {
+          "x": 87.60297,
+          "y": 74.9574
+        },
+        {
+          "x": 129.82232,
+          "y": 50.58385
+        },
+        {
+          "x": 129.82584,
+          "y": 55.50519
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#9098a6",
+      "pixelPerfect": true,
+      "prefix": "animate_2",
+      "shadowColor": "rgba(255,132,0,0.6)",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "displayName": "2",
+      "points": [
+        {
+          "x": 87.60297,
+          "y": 78.77038
+        },
+        {
+          "x": 0,
+          "y": 28.19468
+        },
+        {
+          "x": 0,
+          "y": 24.37033
+        },
+        {
+          "x": 87.59945,
+          "y": 74.94956
+        },
+        {
+          "x": 87.60297,
+          "y": 78.77038
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(94,102,118)",
+      "gradientPack": [
+        "linear",
+        0.3587,
+        0,
+        0.69565,
+        1,
+        0,
+        "#5e6676",
+        0.49565,
+        "rgb(120,108,107)",
+        1,
+        "#5e6676"
+      ],
+      "pixelPerfect": true,
+      "prefix": "animate_1",
+      "shadowColor": "#e95413",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "displayName": "1",
+      "points": [
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        },
+        {
+          "x": 87.60297,
+          "y": 74.94956
+        },
+        {
+          "x": 0.0059,
+          "y": 24.37355
+        },
+        {
+          "x": 42.22525,
+          "y": 0
+        },
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        },
+        {
+          "x": 129.82584,
+          "y": 50.57248
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(94,102,118)",
+      "gradientPack": [
+        "linear",
+        0.77174,
+        -0.1,
+        0.33696,
+        1.125,
+        0.31304,
+        "rgb(94,102,118)",
+        0.51304,
+        "rgba(94,102,118,0)",
+        0.75217,
+        "rgb(94,102,118)"
+      ],
+      "pixelPerfect": true,
+      "prefix": "animate_1",
+      "shadowColor": "#e95413",
+      "shadowBlur": 16,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "displayName": "1",
+      "points": [
+        {
+          "x": 129.81994,
+          "y": 50.57248
+        },
+        {
+          "x": 87.59707,
+          "y": 74.94956
+        },
+        {
+          "x": 0,
+          "y": 24.37355
+        },
+        {
+          "x": 42.21935,
+          "y": 0
+        },
+        {
+          "x": 129.81994,
+          "y": 50.57248
+        },
+        {
+          "x": 129.81994,
+          "y": 50.57248
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "width": 36,
+  "height": 12,
+  "elements": [
+    {
+      "type": "Polyline",
+      "background": "rgb(184,184,184)",
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 18.5,
+          "y": -12
+        },
+        {
+          "x": 17.5,
+          "y": -12
+        },
+        {
+          "x": 17,
+          "y": 6
+        },
+        {
+          "x": 17.5,
+          "y": 24
+        },
+        {
+          "x": 18.5,
+          "y": 24
+        },
+        {
+          "x": 19,
+          "y": 6
+        },
+        {
+          "x": 18.5,
+          "y": -12
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "#D8D8D8",
+      "rotation": -1.5708,
+      "points": [
+        {
+          "x": 20.5,
+          "y": -8
+        },
+        {
+          "x": 15.5,
+          "y": -8
+        },
+        {
+          "x": 13,
+          "y": 6
+        },
+        {
+          "x": 15.5,
+          "y": 20
+        },
+        {
+          "x": 20.5,
+          "y": 20
+        },
+        {
+          "x": 23,
+          "y": 6
+        },
+        {
+          "x": 20.5,
+          "y": -8
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgb(240,240,240)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "shadow": true,
+      "shadowColor": "rgba(0,0,0,0.4)",
+      "shadowBlur": 1,
+      "shadowOffsetX": 1,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 12,
+      "height": 12,
+      "x": 18,
+      "y": 6
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "gradientPack": [
+        "radial",
+        0.55435,
+        0.5,
+        0.56,
+        0.82609,
+        "rgb(191,191,191)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "shape": "oval",
+      "width": 10,
+      "height": 10,
+      "x": 18,
+      "y": 6
+    },
+    {
+      "type": "Shape",
+      "background": "#D8D8D8",
+      "gradientPack": [
+        "linear",
+        0,
+        0.5,
+        1,
+        0.5,
+        0,
+        "rgb(240,240,240)",
+        1,
+        "rgb(128,128,128)"
+      ],
+      "shadow": true,
+      "shadowColor": "rgba(0,0,0,0.4)",
+      "shadowBlur": 1,
+      "shadowOffsetX": 1,
+      "shadowOffsetY": 0,
+      "shape": "oval",
+      "width": 4,
+      "height": 4,
+      "x": 18,
+      "y": 6
+    }
+  ],
+  "cacheRule": true
+}
