@@ -1,0 +1,198 @@
+{
+  "width": 85,
+  "height": 40,
+  "elements": [
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@value",
+        "value": "商业应急照明"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "state": "normal",
+      "width": 84.72243,
+      "height": 19,
+      "x": 42.361205,
+      "y": 9.5
+    },
+    {
+      "type": "Polyline",
+      "background": "#FFD900",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "state": "warn",
+      "points": [
+        {
+          "x": 41.68324,
+          "y": 1
+        },
+        {
+          "x": 37.02028,
+          "y": 1
+        },
+        {
+          "x": 33.18324,
+          "y": 4.83704
+        },
+        {
+          "x": 33.18324,
+          "y": 9.5
+        },
+        {
+          "x": 33.18324,
+          "y": 14.16296
+        },
+        {
+          "x": 37.02028,
+          "y": 18
+        },
+        {
+          "x": 41.68324,
+          "y": 18
+        },
+        {
+          "x": 46.3462,
+          "y": 18
+        },
+        {
+          "x": 50.18324,
+          "y": 14.16296
+        },
+        {
+          "x": 50.18324,
+          "y": 9.5
+        },
+        {
+          "x": 50.18324,
+          "y": 4.83704
+        },
+        {
+          "x": 46.3462,
+          "y": 1
+        },
+        {
+          "x": 41.68324,
+          "y": 1
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@value",
+        "value": "商业应急照明"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "state": "warn",
+      "width": 84.72243,
+      "height": 19,
+      "x": 42.361205,
+      "y": 30.5
+    },
+    {
+      "type": "Polyline",
+      "background": "#e02020",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "state": "alert",
+      "points": [
+        {
+          "x": 41.68324,
+          "y": 1
+        },
+        {
+          "x": 37.02028,
+          "y": 1
+        },
+        {
+          "x": 33.18324,
+          "y": 4.83704
+        },
+        {
+          "x": 33.18324,
+          "y": 9.5
+        },
+        {
+          "x": 33.18324,
+          "y": 14.16296
+        },
+        {
+          "x": 37.02028,
+          "y": 18
+        },
+        {
+          "x": 41.68324,
+          "y": 18
+        },
+        {
+          "x": 46.3462,
+          "y": 18
+        },
+        {
+          "x": 50.18324,
+          "y": 14.16296
+        },
+        {
+          "x": 50.18324,
+          "y": 9.5
+        },
+        {
+          "x": 50.18324,
+          "y": 4.83704
+        },
+        {
+          "x": 46.3462,
+          "y": 1
+        },
+        {
+          "x": 41.68324,
+          "y": 1
+        }
+      ],
+      "segments": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@value",
+        "value": "商业应急照明"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "state": "alert",
+      "width": 84.72243,
+      "height": 19,
+      "x": 42.361205,
+      "y": 30.5
+    }
+  ],
+  "bind": [
+    {
+      "attr": "value",
+      "valueType": "String",
+      "defaultValue": "空"
+    }
+  ],
+  "state": "normal"
+}
