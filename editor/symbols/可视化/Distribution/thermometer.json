@@ -1,0 +1,95 @@
+{
+  "width": 135,
+  "height": 74,
+  "elements": [
+    {
+      "type": "Text",
+      "text": "A相温度：",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 2.99906,
+      "y": 12.481570000000001
+    },
+    {
+      "type": "Text",
+      "text": "B相温度：",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 2.99906,
+      "y": 37.481570000000005
+    },
+    {
+      "type": "Text",
+      "text": "C相温度：",
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 2.99906,
+      "y": 62.481570000000005
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@temA",
+        "value": "-℃"
+      },
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 82.99906,
+      "y": 13.481570000000001
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@temB",
+        "value": "-℃"
+      },
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 82.99906,
+      "y": 37.481570000000005
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@temC",
+        "value": "-℃"
+      },
+      "color": "#ffffff",
+      "font": "18px Arial",
+      "pixelPerfect": true,
+      "width": 0.01,
+      "height": 0.01,
+      "x": 82.99906,
+      "y": 62.481570000000005
+    }
+  ],
+  "bind": [
+    {
+      "attr": "temA",
+      "valueType": "String"
+    },
+    {
+      "attr": "temB",
+      "valueType": "String"
+    },
+    {
+      "attr": "temC",
+      "valueType": "String"
+    }
+  ]
+}

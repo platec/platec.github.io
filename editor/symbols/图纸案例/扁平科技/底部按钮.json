@@ -1,0 +1,1115 @@
+{
+  "width": 136,
+  "height": 54,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 15.08087,
+          "y": 41.59
+        },
+        {
+          "x": 8.50887,
+          "y": 35.018
+        },
+        {
+          "x": 8.50887,
+          "y": 19.182
+        },
+        {
+          "x": 15.08087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 120.60087,
+          "y": 41.59
+        },
+        {
+          "x": 127.17287,
+          "y": 35.018
+        },
+        {
+          "x": 127.17287,
+          "y": 19.182
+        },
+        {
+          "x": 120.60087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,147,81)",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(0,0,0,0.00)",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "opacity": 0.4718,
+      "prefix": "1639987712186612",
+      "state": "选中",
+      "points": [
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,147,81)",
+      "gradient": "linear.north",
+      "gradientColor": "rgba(0,0,0,0.00)",
+      "fillRule": "evenodd",
+      "pixelPerfect": true,
+      "opacity": 0.4718,
+      "prefix": "1639987641682843",
+      "state": "选中",
+      "points": [
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0, 0, 0, 0)",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "points": [
+        {
+          "x": 114.32847,
+          "y": 13.06
+        },
+        {
+          "x": 122.43687,
+          "y": 21.1684
+        },
+        {
+          "x": 122.43687,
+          "y": 33.0316
+        },
+        {
+          "x": 114.32847,
+          "y": 41.14
+        },
+        {
+          "x": 21.35327,
+          "y": 41.14
+        },
+        {
+          "x": 13.24487,
+          "y": 33.0316
+        },
+        {
+          "x": 13.24487,
+          "y": 21.1684
+        },
+        {
+          "x": 21.35327,
+          "y": 13.06
+        },
+        {
+          "x": 114.32847,
+          "y": 13.06
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.9,
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#FFFFFF",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "points": [
+        {
+          "x": 114.32847,
+          "y": 13.06
+        },
+        {
+          "x": 122.43687,
+          "y": 21.1684
+        },
+        {
+          "x": 122.43687,
+          "y": 33.0316
+        },
+        {
+          "x": 114.32847,
+          "y": 41.14
+        },
+        {
+          "x": 21.35327,
+          "y": 41.14
+        },
+        {
+          "x": 13.24487,
+          "y": 33.0316
+        },
+        {
+          "x": 13.24487,
+          "y": 21.1684
+        },
+        {
+          "x": 21.35327,
+          "y": 13.06
+        },
+        {
+          "x": 114.32847,
+          "y": 13.06
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#FFFFFF",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.2,
+      "state": "选中",
+      "points": [
+        {
+          "x": 112.6244,
+          "y": 15.65
+        },
+        {
+          "x": 119.23795,
+          "y": 22.26355
+        },
+        {
+          "x": 119.23795,
+          "y": 31.93645
+        },
+        {
+          "x": 112.6244,
+          "y": 38.55
+        },
+        {
+          "x": 23.05734,
+          "y": 38.55
+        },
+        {
+          "x": 16.44379,
+          "y": 31.93645
+        },
+        {
+          "x": 16.44379,
+          "y": 22.26355
+        },
+        {
+          "x": 23.05734,
+          "y": 15.65
+        },
+        {
+          "x": 112.6244,
+          "y": 15.65
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@text",
+        "value": "模拟按钮"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "16px PangMenZhengDao",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "verticalGap": 0,
+      "letterGap": 2,
+      "pixelPerfect": true,
+      "state": "选中",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 67.81038000000001,
+      "y": 26.999499999999998
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 15.08087,
+          "y": 41.59
+        },
+        {
+          "x": 8.50887,
+          "y": 35.018
+        },
+        {
+          "x": 8.50887,
+          "y": 19.182
+        },
+        {
+          "x": 15.08087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 120.60087,
+          "y": 41.59
+        },
+        {
+          "x": 127.17287,
+          "y": 35.018
+        },
+        {
+          "x": 127.17287,
+          "y": 19.182
+        },
+        {
+          "x": 120.60087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 15.08087,
+          "y": 41.59
+        },
+        {
+          "x": 8.50887,
+          "y": 35.018
+        },
+        {
+          "x": 8.50887,
+          "y": 19.182
+        },
+        {
+          "x": 15.08087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 120.60087,
+          "y": 41.59
+        },
+        {
+          "x": 127.17287,
+          "y": 35.018
+        },
+        {
+          "x": 127.17287,
+          "y": 19.182
+        },
+        {
+          "x": 120.60087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,147,81)",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(0,0,0,0.00)",
+      "fillRule": "evenodd",
+      "visible": false,
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "state": "未选中",
+      "points": [
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 41.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 114.48375,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 53.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        },
+        {
+          "x": 21.13802,
+          "y": 41.59
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "background": "rgb(255,147,81)",
+      "gradient": "linear.north",
+      "gradientColor": "rgba(0,0,0,0.00)",
+      "fillRule": "evenodd",
+      "visible": false,
+      "pixelPerfect": true,
+      "opacity": 0.5,
+      "state": "未选中",
+      "points": [
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 12.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 114.48375,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 0.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        },
+        {
+          "x": 21.13802,
+          "y": 12.61
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "fillRule": "evenodd",
+      "gradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0, 0, 0, 0)",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "points": [
+        {
+          "x": 114.32847,
+          "y": 13.06
+        },
+        {
+          "x": 122.43687,
+          "y": 21.1684
+        },
+        {
+          "x": 122.43687,
+          "y": 33.0316
+        },
+        {
+          "x": 114.32847,
+          "y": 41.14
+        },
+        {
+          "x": 21.35327,
+          "y": 41.14
+        },
+        {
+          "x": 13.24487,
+          "y": 33.0316
+        },
+        {
+          "x": 13.24487,
+          "y": 21.1684
+        },
+        {
+          "x": 21.35327,
+          "y": 13.06
+        },
+        {
+          "x": 114.32847,
+          "y": 13.06
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.9,
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#FFFFFF",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "points": [
+        {
+          "x": 114.32847,
+          "y": 13.06
+        },
+        {
+          "x": 122.43687,
+          "y": 21.1684
+        },
+        {
+          "x": 122.43687,
+          "y": 33.0316
+        },
+        {
+          "x": 114.32847,
+          "y": 41.14
+        },
+        {
+          "x": 21.35327,
+          "y": 41.14
+        },
+        {
+          "x": 13.24487,
+          "y": 33.0316
+        },
+        {
+          "x": 13.24487,
+          "y": 21.1684
+        },
+        {
+          "x": 21.35327,
+          "y": 13.06
+        },
+        {
+          "x": 114.32847,
+          "y": 13.06
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 0.5,
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "#FFFFFF",
+        1,
+        "#90D1FF"
+      ],
+      "pixelPerfect": true,
+      "opacity": 0.2,
+      "state": "未选中",
+      "points": [
+        {
+          "x": 112.6244,
+          "y": 15.65
+        },
+        {
+          "x": 119.23795,
+          "y": 22.26355
+        },
+        {
+          "x": 119.23795,
+          "y": 31.93645
+        },
+        {
+          "x": 112.6244,
+          "y": 38.55
+        },
+        {
+          "x": 23.05734,
+          "y": 38.55
+        },
+        {
+          "x": 16.44379,
+          "y": 31.93645
+        },
+        {
+          "x": 16.44379,
+          "y": 22.26355
+        },
+        {
+          "x": 23.05734,
+          "y": 15.65
+        },
+        {
+          "x": 112.6244,
+          "y": 15.65
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ]
+    },
+    {
+      "type": "Text",
+      "text": {
+        "func": "attr@text",
+        "value": "模拟按钮"
+      },
+      "align": "center",
+      "color": "#ffffff",
+      "font": "16px PangMenZhengDao",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "verticalGap": 0,
+      "letterGap": 2,
+      "pixelPerfect": true,
+      "state": "未选中",
+      "width": 0.001,
+      "height": 0.001,
+      "x": 67.81038000000001,
+      "y": 26.999499999999998
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 15.08087,
+          "y": 41.59
+        },
+        {
+          "x": 8.50887,
+          "y": 35.018
+        },
+        {
+          "x": 8.50887,
+          "y": 19.182
+        },
+        {
+          "x": 15.08087,
+          "y": 12.61
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "#ff9351",
+      "borderGradientPack": [
+        "linear",
+        0.5,
+        0,
+        0.5,
+        1,
+        0,
+        "rgba(0,0,0,0)",
+        0.5087,
+        "#ff9351",
+        1,
+        "rgba(0,0,0,0)"
+      ],
+      "pixelPerfect": true,
+      "state": "未选中",
+      "shadow": true,
+      "shadowColor": "#ff9351",
+      "shadowBlur": 9,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "points": [
+        {
+          "x": 120.60087,
+          "y": 41.59
+        },
+        {
+          "x": 127.17287,
+          "y": 35.018
+        },
+        {
+          "x": 127.17287,
+          "y": 19.182
+        },
+        {
+          "x": 120.60087,
+          "y": 12.61
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "text",
+      "valueType": "Multiline"
+    }
+  ],
+  "state": "选中"
+}

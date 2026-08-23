@@ -1,0 +1,756 @@
+{
+  "elements": [
+    {
+      "id": 474865,
+      "type": "Image",
+      "props": {
+        "x": 602.15071,
+        "y": 680.54962,
+        "width": 881.04361,
+        "height": 881.04361,
+        "image": "symbols/街道建筑02.json",
+        "name": "街道建筑02"
+      },
+      "styles": {
+        "selectable": false,
+        "movable": false,
+        "editable": false
+      }
+    },
+    {
+      "id": 474863,
+      "type": "Shape",
+      "props": {
+        "x": 579.25426,
+        "y": 137.05989,
+        "width": 153.21484,
+        "height": 104.53516,
+        "name": "rect-4"
+      },
+      "styles": {
+        "shape": "rect",
+        "cornerRadius": 0,
+        "background": "#A09ACCFF",
+        "borderColor": "#2a7f72",
+        "borderWidth": 0,
+        "shadow": true
+      }
+    },
+    {
+      "id": 474864,
+      "type": "Shape",
+      "props": {
+        "x": 787.95818,
+        "y": 137.05989,
+        "width": 132.86227,
+        "height": 116.13554,
+        "name": "circle-5"
+      },
+      "styles": {
+        "shape": "circle",
+        "cornerRadius": 0,
+        "background": "#EA9B09FF",
+        "borderColor": "#F51616FF",
+        "borderWidth": 2
+      }
+    },
+    {
+      "id": 474866,
+      "type": "Image",
+      "props": {
+        "x": 576.29217,
+        "y": 762.74938,
+        "width": 5.92417,
+        "height": 5.92417,
+        "image": "symbols/果汁.json",
+        "name": "果汁"
+      }
+    },
+    {
+      "id": 474867,
+      "type": "Image",
+      "props": {
+        "x": 596.98988,
+        "y": 772.91682,
+        "width": 5.92417,
+        "height": 5.92417,
+        "image": "symbols/果汁.json",
+        "name": "果汁"
+      }
+    },
+    {
+      "id": 474868,
+      "type": "Image",
+      "props": {
+        "x": 86.37808,
+        "y": 129.70414,
+        "width": 89.82366,
+        "height": 89.82366,
+        "image": "symbols/leaf.json",
+        "name": "leaf"
+      }
+    },
+    {
+      "id": 474869,
+      "type": "Text",
+      "props": {
+        "x": 273.52675,
+        "y": 137.05989,
+        "width": 284.47369,
+        "height": 36.52556,
+        "name": "text-6"
+      },
+      "styles": {
+        "text": "😊 Leaf Plus 😊",
+        "font": "32px Arial, sans-serif",
+        "color": "#50E312FF",
+        "background": "transparent",
+        "align": "center",
+        "wrap": true,
+        "borderColor": "rgba(0, 0, 0, 1)",
+        "borderWidth": 3,
+        "labelColor": "#00F911FF",
+        "shadow": true,
+        "gradientPack": [
+          "linear",
+          0,
+          0,
+          1,
+          1,
+          0,
+          "#2dc20f",
+          1,
+          "#ffffff"
+        ]
+      }
+    },
+    {
+      "id": 474870,
+      "type": "Image",
+      "props": {
+        "x": 86.37808,
+        "y": 435.16574,
+        "width": 267.05826,
+        "height": 439.96841,
+        "image": "assets/2D/jiang.png",
+        "name": "jiang"
+      },
+      "styles": {
+        "label": "长者",
+        "labelPosition": 31,
+        "labelFont": "32px sans-serif",
+        "labelOffsetY": 12
+      }
+    },
+    {
+      "id": 474871,
+      "type": "Shape",
+      "props": {
+        "x": 1058.81672,
+        "y": 143.30051,
+        "width": 260.49333,
+        "height": 179.21271,
+        "name": "triangle-7"
+      },
+      "styles": {
+        "shape": "triangle",
+        "cornerRadius": 0,
+        "background": "#49DD49FF",
+        "borderColor": "#c57d2c",
+        "borderWidth": 2,
+        "rough": true,
+        "roughFillGap": 9
+      }
+    },
+    {
+      "id": 474872,
+      "type": "Image",
+      "props": {
+        "x": 1286.18611,
+        "y": 367.56757,
+        "width": 863.59359,
+        "height": 60.55278,
+        "image": "symbols/可视化/basic/number-pane.json",
+        "tag": "number-pane",
+        "interactive": true,
+        "events": {
+          "onEnter": "function (event, element, view) {\n  // 示例：点击后切换填充色\n  element.a('color', 'red');\n}",
+          "onLeave": "function (event, element, view) {\n  // 示例：点击后切换填充色\n  element.a('color', '#20B10CFF');\n}"
+        }
+      },
+      "attrs": {
+        "value": "1970-01-01 00:00:00",
+        "color": "rgba(32, 177, 12, 1)"
+      }
+    },
+    {
+      "id": 474873,
+      "type": "Shape",
+      "props": {
+        "x": 400.21082,
+        "y": 291.37455,
+        "width": 204.87203,
+        "height": 102.69348,
+        "name": "triangle-8"
+      },
+      "styles": {
+        "shape": "rightTriangle",
+        "cornerRadius": 0,
+        "background": "#f5dfc3",
+        "borderColor": "#c57d2c",
+        "borderWidth": 2
+      }
+    },
+    {
+      "id": 474874,
+      "type": "Shape",
+      "props": {
+        "x": 1368.61252,
+        "y": 147.70285,
+        "width": 359.09827,
+        "height": 218.32023,
+        "name": "triangle-8"
+      },
+      "styles": {
+        "shape": "pentagram",
+        "cornerRadius": 0,
+        "background": "#FF0000FF",
+        "borderColor": "#FFD000FF",
+        "borderWidth": 7
+      }
+    },
+    {
+      "id": 474877,
+      "type": "Shape",
+      "props": {
+        "x": 1650.61433,
+        "y": 147.70285,
+        "width": 380.40079,
+        "height": 209.03433,
+        "name": "roundRect-10"
+      },
+      "styles": {
+        "shape": "pentagram",
+        "cornerRadius": 8,
+        "background": "#FF0000FF",
+        "borderColor": "#FFCC00FF",
+        "borderWidth": 0,
+        "rough": true,
+        "roughFill": "watercolor",
+        "watercolorLayers": 48
+      }
+    },
+    {
+      "id": 474879,
+      "type": "Image",
+      "props": {
+        "x": 561.29919,
+        "y": 708.77942,
+        "width": 35.91013,
+        "height": 35.91013,
+        "image": "symbols/大橘.json",
+        "name": "大橘"
+      }
+    },
+    {
+      "id": 474881,
+      "type": "Shape",
+      "props": {
+        "x": 681.71123,
+        "y": 291.37455,
+        "width": 210.8381,
+        "height": 152.38604,
+        "name": "triangle-11"
+      },
+      "styles": {
+        "shape": "triangle",
+        "cornerRadius": 0,
+        "background": "#A1E78FFF",
+        "borderColor": "#c57d2c",
+        "borderWidth": 15,
+        "innerBorder": true,
+        "innerBorderOffset": 4,
+        "innerBorderWidth": 8,
+        "innerBorderColor": "#E0D129FF"
+      }
+    },
+    {
+      "id": 474882,
+      "type": "Text",
+      "props": {
+        "x": 1213.31235,
+        "y": 535.18086,
+        "width": 310.60032,
+        "height": 140.84998,
+        "name": "text-12"
+      },
+      "styles": {
+        "text": "有一段时间我们仰卧河底，\n在另一个角度看时光流淌。\n你将所有的远方称为河流。",
+        "font": "24px Arial, sans-serif",
+        "color": "#26323c",
+        "background": "transparent",
+        "wrap": true
+      }
+    },
+    {
+      "id": 474883,
+      "type": "Image",
+      "props": {
+        "x": 1681.32398,
+        "y": 612.27158,
+        "width": 492.13367,
+        "height": 295.03143,
+        "image": "symbols/图表/柱状图.json",
+        "name": "柱状图"
+      }
+    },
+    {
+      "id": 474880,
+      "type": "Image",
+      "props": {
+        "x": 676.29217,
+        "y": 1100.06147,
+        "width": 200,
+        "height": 200,
+        "image": "symbols/夏至.json",
+        "name": "夏至"
+      }
+    },
+    {
+      "id": 474955,
+      "type": "Connector",
+      "props": {
+        "name": "connector-14",
+        "start": {
+          "id": 474880
+        },
+        "end": {
+          "id": 474878
+        }
+      },
+      "styles": {
+        "borderColor": "#00B439FF",
+        "borderWidth": 8,
+        "borderJoin": "round",
+        "borderCap": "round",
+        "startMarker": "arrow",
+        "startMarkerSize": 28
+      }
+    },
+    {
+      "id": 474956,
+      "type": "Connector",
+      "props": {
+        "name": "connector-15",
+        "start": {
+          "id": 474878
+        },
+        "end": {
+          "id": 474884
+        }
+      },
+      "styles": {
+        "borderColor": "#1F46C5FF",
+        "borderWidth": 8,
+        "borderJoin": "round",
+        "borderCap": "round",
+        "points": [
+          {
+            "x": 1187.95035,
+            "y": 718.4253
+          },
+          {
+            "x": 1101.55783,
+            "y": 830.1572
+          },
+          {
+            "x": 1142.1009,
+            "y": 909.9355
+          },
+          {
+            "x": 1182.64397,
+            "y": 989.7138
+          },
+          {
+            "x": 1286.18611,
+            "y": 990.95774
+          }
+        ],
+        "segments": [
+          1,
+          4,
+          4
+        ],
+        "borderOpacity": 0.55
+      }
+    },
+    {
+      "id": 474884,
+      "type": "Image",
+      "props": {
+        "x": 1112.13983,
+        "y": 1077.07706,
+        "width": 171.83368,
+        "height": 171.83368,
+        "image": "symbols/circleProgressBar.json",
+        "name": "circleProgressBar",
+        "tag": "progress-bar2"
+      },
+      "attrs": {
+        "linearOuter": [
+          "#F41B46FF",
+          "#5014DCFF"
+        ],
+        "linearInner": [
+          "#B5AB1DFF",
+          "#FF181CFF"
+        ]
+      }
+    },
+    {
+      "id": 474878,
+      "type": "Image",
+      "props": {
+        "x": 940.30616,
+        "y": 905.24338,
+        "width": 171.83368,
+        "height": 171.83368,
+        "image": "symbols/circleProgressBar.json",
+        "name": "circleProgressBar",
+        "tag": "progress-bar"
+      },
+      "attrs": {
+        "linearOuter": [
+          "#008031FF",
+          "#EDC900FF"
+        ]
+      }
+    },
+    {
+      "id": 474957,
+      "type": "Image",
+      "props": {
+        "x": 86.37808,
+        "y": 1024.32634,
+        "width": 267.05826,
+        "height": 439.96841,
+        "image": "assets/2D/jiang.png",
+        "name": "jiang",
+        "filters": [
+          "Glitch"
+        ]
+      },
+      "styles": {
+        "label": "Naive",
+        "labelPosition": 31,
+        "labelFont": "32px sans-serif",
+        "labelOffsetY": 12,
+        "Glitch": 35,
+        "GlitchSeed": 25,
+        "GlitchQuality": 30,
+        "GlitchIterations": 20
+      }
+    },
+    {
+      "id": 476719,
+      "type": "Image",
+      "props": {
+        "x": 1898.89393,
+        "y": 1002.65243,
+        "width": 361.82204,
+        "height": 361.82204,
+        "image": "symbols/骑车去春游.json",
+        "name": "骑车去春游"
+      }
+    },
+    {
+      "id": 477370,
+      "type": "Group",
+      "props": {
+        "x": 1475.70331,
+        "y": 962.12696,
+        "width": 287.46597,
+        "height": 446.15656
+      }
+    },
+    {
+      "id": 477362,
+      "type": "Image",
+      "props": {
+        "x": 1475.70331,
+        "y": 865.10445,
+        "width": 287.46597,
+        "height": 252.11154,
+        "image": "leaf-plus:animation/fireAnimation",
+        "name": "animation-fireAnimation-16",
+        "animations": [
+          {
+            "id": "builtin:fireAnimation",
+            "type": "fireAnimation",
+            "enabled": true,
+            "play": true,
+            "speed": 1,
+            "params": {
+              "color": "#D31313FF",
+              "glowColor": "#CC5800FF",
+              "backgroundColor": "",
+              "count": 32,
+              "emissionRate": 28,
+              "speed": 70,
+              "size": 5,
+              "spread": 10,
+              "life": 900,
+              "wobble": 1
+            }
+          }
+        ],
+        "parent": {
+          "id": 477370
+        }
+      }
+    },
+    {
+      "id": 477369,
+      "type": "Group",
+      "props": {
+        "x": 1475.70331,
+        "y": 1081.07706,
+        "width": 83.31556,
+        "height": 208.25635,
+        "parent": {
+          "id": 477370
+        }
+      }
+    },
+    {
+      "id": 477363,
+      "type": "Polyline",
+      "props": {
+        "x": 1475.70331,
+        "y": 1077.611,
+        "width": 74.984,
+        "height": 187.46001,
+        "segments": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5
+        ],
+        "points": [
+          {
+            "x": 1513.19531,
+            "y": 983.881
+          },
+          {
+            "x": 1438.21131,
+            "y": 983.881
+          },
+          {
+            "x": 1447.90976,
+            "y": 1039.43555
+          },
+          {
+            "x": 1461.80653,
+            "y": 1039.43555
+          },
+          {
+            "x": 1461.80653,
+            "y": 1171.34101
+          },
+          {
+            "x": 1489.56754,
+            "y": 1171.34101
+          },
+          {
+            "x": 1489.56754,
+            "y": 1039.43555
+          },
+          {
+            "x": 1503.46431,
+            "y": 1039.43555
+          },
+          {
+            "x": 1513.19531,
+            "y": 983.881
+          }
+        ],
+        "closePath": true,
+        "parent": {
+          "id": 477369
+        }
+      },
+      "styles": {
+        "background": "#CEB1A1",
+        "borderCap": "butt",
+        "borderJoin": "miter"
+      },
+      "attrs": {
+        "__symbolSourceIndex": 2,
+        "__symbolType": "Polyline"
+      }
+    },
+    {
+      "id": 477364,
+      "type": "Polyline",
+      "props": {
+        "x": 1475.70331,
+        "y": 1081.07706,
+        "width": 83.31556,
+        "height": 208.25635,
+        "segments": [
+          1,
+          4,
+          2,
+          4,
+          2,
+          2,
+          2,
+          5,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          1,
+          2,
+          2,
+          2,
+          5
+        ],
+        "points": [
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1489.60008,
+            "y": 1053.29978
+          },
+          {
+            "x": 1489.60008,
+            "y": 1074.12867
+          },
+          {
+            "x": 1461.80653,
+            "y": 1074.12867
+          },
+          {
+            "x": 1461.80653,
+            "y": 1053.29978
+          },
+          {
+            "x": 1454.87442,
+            "y": 1046.36767
+          },
+          {
+            "x": 1454.87442,
+            "y": 1046.36767
+          },
+          {
+            "x": 1454.87442,
+            "y": 1039.43555
+          },
+          {
+            "x": 1496.5322,
+            "y": 1039.43555
+          },
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1461.80653,
+            "y": 1150.51212
+          },
+          {
+            "x": 1461.80653,
+            "y": 1178.27312
+          },
+          {
+            "x": 1468.73865,
+            "y": 1178.27312
+          },
+          {
+            "x": 1468.73865,
+            "y": 1185.20524
+          },
+          {
+            "x": 1482.63542,
+            "y": 1185.20524
+          },
+          {
+            "x": 1482.63542,
+            "y": 1178.27312
+          },
+          {
+            "x": 1489.56754,
+            "y": 1178.27312
+          },
+          {
+            "x": 1489.56754,
+            "y": 1150.51212
+          },
+          {
+            "x": 1461.80653,
+            "y": 1150.51212
+          },
+          {
+            "x": 1434.04553,
+            "y": 976.94888
+          },
+          {
+            "x": 1517.36109,
+            "y": 976.94888
+          },
+          {
+            "x": 1517.36109,
+            "y": 990.84566
+          },
+          {
+            "x": 1434.04553,
+            "y": 990.84566
+          }
+        ],
+        "closePath": true,
+        "parent": {
+          "id": 477369
+        }
+      },
+      "styles": {
+        "background": "#8E675C",
+        "borderCap": "butt",
+        "borderJoin": "miter"
+      },
+      "attrs": {
+        "__symbolSourceIndex": 3,
+        "__symbolType": "Polyline"
+      }
+    }
+  ],
+  "attrs": {
+    "fitContent": false,
+    "zoomable": true,
+    "pannable": true
+  },
+  "contentRect": {
+    "x": -48,
+    "y": 10,
+    "width": 2128,
+    "height": 1235
+  }
+}

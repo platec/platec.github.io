@@ -1,0 +1,1974 @@
+{
+  "elements": [
+    {
+      "id": 1,
+      "type": "Shape",
+      "props": {
+        "x": 825,
+        "y": 760,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 30,
+        "height": 60,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "actor",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 0,
+        "label": "Customer",
+        "labelFont": "12px Helvetica",
+        "labelColor": "#000000",
+        "labelAlign": "center",
+        "labelPosition": 31
+      },
+      "attrs": {}
+    },
+    {
+      "id": 24,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 2
+        },
+        "end": {
+          "id": 22
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.8586396904296132,
+        "startAnchorY": 0.15160715786837498,
+        "endAnchorX": 0.00009997000999723005,
+        "endAnchorY": 0.5099980005997997,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true,
+        "points": [
+          {
+            "x": 1190,
+            "y": 650
+          },
+          {
+            "x": 1370,
+            "y": 620
+          },
+          {
+            "x": 1530,
+            "y": 466
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 2,
+      "type": "Shape",
+      "props": {
+        "x": 980,
+        "y": 735,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Update account details",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 25,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 3
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.04923847126586339,
+        "startAnchorY": 0.7163655337923864,
+        "endAnchorX": 0.9507615287341367,
+        "endAnchorY": 0.2836344662076135,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "extends",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 26,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 3
+        },
+        "end": {
+          "id": 19
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.5,
+        "endAnchorX": 0.08309228448907596,
+        "endAnchorY": 0.22397834007552547,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true,
+        "points": [
+          {
+            "x": 1320,
+            "y": 695
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 3,
+      "type": "Shape",
+      "props": {
+        "x": 1180,
+        "y": 695,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Add delivery address",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 27,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 4
+        },
+        "end": {
+          "id": 3
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.17990780016776092,
+        "startAnchorY": 0.11588936020131313,
+        "endAnchorX": 0.820092199832239,
+        "endAnchorY": 0.8841106397986869,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "extends",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 4,
+      "type": "Shape",
+      "props": {
+        "x": 1310,
+        "y": 760,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Update delivery address",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 28,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 5
+        },
+        "end": {
+          "id": 4
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.13620529690734695,
+        "startAnchorY": 0.15699356565549805,
+        "endAnchorX": 0.863794703092653,
+        "endAnchorY": 0.843006434344502,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "extends",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 5,
+      "type": "Shape",
+      "props": {
+        "x": 1450,
+        "y": 815,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Delete delivery address",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 29,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 6
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.14644660940672716,
+        "startAnchorY": 0.14644660940672566,
+        "endAnchorX": 0.8535533905932737,
+        "endAnchorY": 0.8535533905932744,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "extends",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 6,
+      "type": "Shape",
+      "props": {
+        "x": 1160,
+        "y": 810,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Add payment method",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 30,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 7
+        },
+        "end": {
+          "id": 6
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "arrow",
+        "endMarker": "none",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.18565136990975856,
+        "startAnchorY": 0.111174925242226,
+        "endAnchorX": 0.8143486300902414,
+        "endAnchorY": 0.888825074757774,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 31,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 7
+        },
+        "end": {
+          "id": 8
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.9954391711919717,
+        "startAnchorY": 0.43262027271789066,
+        "endAnchorX": 0.004560828808028328,
+        "endAnchorY": 0.5673797272821093,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 7,
+      "type": "Shape",
+      "props": {
+        "x": 1290,
+        "y": 877,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Enter payment details",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 8,
+      "type": "Shape",
+      "props": {
+        "x": 1590,
+        "y": 860,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Verify credit card details",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 32,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 9
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.2442580701161584,
+        "startAnchorY": 0.9296464422048529,
+        "endAnchorX": 0.7557419298838416,
+        "endAnchorY": 0.07035355779514701,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "extends",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 33,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 9
+        },
+        "end": {
+          "id": 10
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.9991024227328902,
+        "startAnchorY": 0.5299461453639742,
+        "endAnchorX": 0.0008975772671097615,
+        "endAnchorY": 0.4700538546360258,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 9,
+      "type": "Shape",
+      "props": {
+        "x": 1180,
+        "y": 595,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Change email address (username)",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 34,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 10
+        },
+        "end": {
+          "id": 11
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.5260064170949363,
+        "startAnchorY": 0.0006767917772254051,
+        "endAnchorX": 0.4739935829050637,
+        "endAnchorY": 0.9993232082227745,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 10,
+      "type": "Shape",
+      "props": {
+        "x": 1580,
+        "y": 605,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Verify email is unique",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 11,
+      "type": "Shape",
+      "props": {
+        "x": 1590,
+        "y": 525,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Send confirmation link via email",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 12,
+      "type": "Shape",
+      "props": {
+        "x": 1815,
+        "y": 635,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 60,
+        "height": 80,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "cylinder3",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 6,
+        "label": "Customer database",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 13,
+      "type": "Shape",
+      "props": {
+        "x": 1750,
+        "y": 735,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 30,
+        "height": 60,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "actor",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 3,
+        "label": "System",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000",
+        "labelPosition": 31
+      },
+      "attrs": {}
+    },
+    {
+      "id": 36,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 14
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.5,
+        "startAnchorY": 1,
+        "endAnchorX": 0.5,
+        "endAnchorY": 0,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "includes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 37,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 14
+        },
+        "end": {
+          "id": 9
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.9507615287341367,
+        "startAnchorY": 0.2836344662076135,
+        "endAnchorX": 0.04923847126586339,
+        "endAnchorY": 0.7163655337923864,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "includes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 14,
+      "type": "Shape",
+      "props": {
+        "x": 980,
+        "y": 635,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Register",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 38,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 15
+        },
+        "end": {
+          "id": 21
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.773892970681887,
+        "startAnchorY": 0.9183092643141573,
+        "endAnchorX": 0.3841897363469798,
+        "endAnchorY": 0.9864031073426827,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true,
+        "points": [
+          {
+            "x": 1110,
+            "y": 980
+          },
+          {
+            "x": 1490,
+            "y": 980
+          },
+          {
+            "x": 1550,
+            "y": 740
+          },
+          {
+            "x": 1560,
+            "y": 720
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 39,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 15
+        },
+        "end": {
+          "id": 16
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.4768766193025556,
+        "startAnchorY": 0.0005349769352005485,
+        "endAnchorX": 0.5231233806974445,
+        "endAnchorY": 0.9994650230647995,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 40,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 15
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.905767170725748,
+        "startAnchorY": 0.2078476370774615,
+        "endAnchorX": 0.559106444892556,
+        "endAnchorY": 0.9964941370974725,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true,
+        "points": [
+          {
+            "x": 1080,
+            "y": 886
+          },
+          {
+            "x": 1070,
+            "y": 820
+          },
+          {
+            "x": 990,
+            "y": 770
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 15,
+      "type": "Shape",
+      "props": {
+        "x": 1000,
+        "y": 910,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Login",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 16,
+      "type": "Shape",
+      "props": {
+        "x": 990,
+        "y": 820,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "View account",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 41,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 17
+        },
+        "end": {
+          "id": 11
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "arrow",
+        "endMarker": "none",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.9995573751483884,
+        "startAnchorY": 0.4789660052569093,
+        "endAnchorX": 0.00044262485161161713,
+        "endAnchorY": 0.5210339947430908,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "precedes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 17,
+      "type": "Shape",
+      "props": {
+        "x": 1020,
+        "y": 535,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#d5e8d4",
+        "borderColor": "#82b366",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Confirm email address",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 18,
+      "type": "Shape",
+      "props": {
+        "x": 1750,
+        "y": 860,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 30,
+        "height": 60,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "actor",
+        "background": "#f8cecc",
+        "borderColor": "#b85450",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 3,
+        "label": "Third-party payment \nverification service",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000",
+        "labelPosition": 31
+      },
+      "attrs": {}
+    },
+    {
+      "id": 42,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 10
+        },
+        "end": {
+          "id": 21
+        }
+      },
+      "styles": {
+        "borderColor": "transparent",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.5,
+        "startAnchorY": 1,
+        "endAnchorX": 0.5,
+        "endAnchorY": 0,
+        "dash": true,
+        "dashColor": "#000000",
+        "dashWidth": 1,
+        "dashPattern": [
+          1,
+          4
+        ],
+        "label": "includes",
+        "labelColor": "#000000",
+        "labelHorizontal": true
+      },
+      "attrs": {}
+    },
+    {
+      "id": 19,
+      "type": "Shape",
+      "props": {
+        "x": 1610,
+        "y": 775,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Verify valid address",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 20,
+      "type": "Shape",
+      "props": {
+        "x": 1815,
+        "y": 820,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 30,
+        "height": 60,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "actor",
+        "background": "#f8cecc",
+        "borderColor": "#b85450",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 3,
+        "label": "MAP API",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000",
+        "labelPosition": 31
+      },
+      "attrs": {}
+    },
+    {
+      "id": 21,
+      "type": "Shape",
+      "props": {
+        "x": 1580,
+        "y": 685,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Check for existing account",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 22,
+      "type": "Shape",
+      "props": {
+        "x": 1650,
+        "y": 465,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 120,
+        "height": 50,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "shape": "oval",
+        "background": "#dae8fc",
+        "borderColor": "#6c8ebf",
+        "borderWidth": 1,
+        "opacity": 1,
+        "cornerRadius": 5,
+        "label": "Update customer database",
+        "labelFont": "12px sans-serif",
+        "labelColor": "#000000"
+      },
+      "attrs": {}
+    },
+    {
+      "id": 43,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 1
+        },
+        "end": {
+          "id": 2
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.4596774193548394,
+        "endAnchorX": 0.033715950862955424,
+        "endAnchorY": 0.6804970512788555
+      },
+      "attrs": {}
+    },
+    {
+      "id": 44,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 1
+        },
+        "end": {
+          "id": 16
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.5909090909090916,
+        "endAnchorX": 0.12328767123287698,
+        "endAnchorY": 0.171232876712329
+      },
+      "attrs": {}
+    },
+    {
+      "id": 45,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 1
+        },
+        "end": {
+          "id": 15
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.7142857142857149,
+        "endAnchorX": 0.2814036465636169,
+        "endAnchorY": 0.05031607293086837
+      },
+      "attrs": {}
+    },
+    {
+      "id": 46,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 1
+        },
+        "end": {
+          "id": 14
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.2983870967741931,
+        "endAnchorX": 0.2704899740618307,
+        "endAnchorY": 0.9442129534287143
+      },
+      "attrs": {}
+    },
+    {
+      "id": 47,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 1
+        },
+        "end": {
+          "id": 17
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.10526315789473606,
+        "endAnchorX": 0.2571785344106843,
+        "endAnchorY": 0.9370786380607683,
+        "points": [
+          {
+            "x": 920,
+            "y": 610
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 48,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 2
+        },
+        "end": {
+          "id": 13
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.7355875310276853,
+        "startAnchorY": 0.9410198580838278,
+        "endAnchorX": 1,
+        "endAnchorY": 0.6160714285714277,
+        "points": [
+          {
+            "x": 1230,
+            "y": 930
+          },
+          {
+            "x": 1850,
+            "y": 930
+          },
+          {
+            "x": 1890,
+            "y": 800
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 49,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 8
+        },
+        "end": {
+          "id": 18
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.5,
+        "endAnchorX": 0,
+        "endAnchorY": 0.5
+      },
+      "attrs": {}
+    },
+    {
+      "id": 50,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 11
+        },
+        "end": {
+          "id": 1
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.004526744996655896,
+        "startAnchorY": 0.4328713654511603,
+        "endAnchorX": 0.9333333333333333,
+        "endAnchorY": 0,
+        "points": [
+          {
+            "x": 970,
+            "y": 490
+          },
+          {
+            "x": 890,
+            "y": 610
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 51,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 8
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0,
+        "startAnchorY": 0.6953125,
+        "endAnchorX": 0.7352941176470589,
+        "endAnchorY": 0.058823529411765774
+      },
+      "attrs": {}
+    },
+    {
+      "id": 52,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 10
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0,
+        "startAnchorY": 0.3088235294117643,
+        "endAnchorX": 0.7392288499217803,
+        "endAnchorY": 0.9390553010329131
+      },
+      "attrs": {}
+    },
+    {
+      "id": 53,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 12
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 1,
+        "startAnchorY": 0.11538461538461509,
+        "endAnchorX": 0.06666666666666665,
+        "endAnchorY": 1
+      },
+      "attrs": {}
+    },
+    {
+      "id": 54,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 11
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0,
+        "startAnchorY": 0.171875,
+        "endAnchorX": 0.6512895662134194,
+        "endAnchorY": 0.9765621335722722
+      },
+      "attrs": {}
+    },
+    {
+      "id": 55,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 19
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0,
+        "startAnchorY": 0.5714285714285723,
+        "endAnchorX": 0.9123644259229896,
+        "endAnchorY": 0.21723582222423604
+      },
+      "attrs": {}
+    },
+    {
+      "id": 56,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 21
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0,
+        "startAnchorY": 0.42647058823529466,
+        "endAnchorX": 0.9084839316323798,
+        "endAnchorY": 0.7883415987993272
+      },
+      "attrs": {}
+    },
+    {
+      "id": 57,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 13
+        },
+        "end": {
+          "id": 22
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.12962962962963048,
+        "startAnchorY": 0,
+        "endAnchorX": 0.5762577981398692,
+        "endAnchorY": 0.9941505319463488
+      },
+      "attrs": {}
+    },
+    {
+      "id": 58,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 15
+        },
+        "end": {
+          "id": 13
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.902216633480172,
+        "startAnchorY": 0.7970215139545894,
+        "endAnchorX": 1,
+        "endAnchorY": 0.375,
+        "points": [
+          {
+            "x": 1130,
+            "y": 950
+          },
+          {
+            "x": 1870,
+            "y": 950
+          },
+          {
+            "x": 1910,
+            "y": 780
+          },
+          {
+            "x": 1800,
+            "y": 710
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 59,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 16
+        },
+        "end": {
+          "id": 13
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.8120165351203525,
+        "startAnchorY": 0.8906989657159192,
+        "endAnchorX": 1,
+        "endAnchorY": 0.5,
+        "points": [
+          {
+            "x": 1220,
+            "y": 940
+          },
+          {
+            "x": 1860,
+            "y": 940
+          },
+          {
+            "x": 1900,
+            "y": 790
+          },
+          {
+            "x": 1810,
+            "y": 735
+          }
+        ]
+      },
+      "attrs": {}
+    },
+    {
+      "id": 60,
+      "type": "Connector",
+      "props": {
+        "start": {
+          "id": 19
+        },
+        "end": {
+          "id": 20
+        }
+      },
+      "styles": {
+        "borderColor": "#000000",
+        "borderWidth": 1,
+        "edgeStyle": "straight",
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "startMarkerSize": 12,
+        "endMarkerSize": 12,
+        "startAnchorX": 0.9423654580717578,
+        "startAnchorY": 0.7330510705939014,
+        "endAnchorX": 0,
+        "endAnchorY": 0.4451219512195128
+      },
+      "attrs": {}
+    },
+    {
+      "id": 23,
+      "type": "Text",
+      "props": {
+        "x": 1355,
+        "y": 1030,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "width": 390,
+        "height": 20,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0
+      },
+      "styles": {
+        "text": "Use case example - Customer updates account",
+        "font": "italic 12px sans-serif",
+        "color": "#000000",
+        "background": "transparent",
+        "align": "center",
+        "vAlign": "middle",
+        "wrap": true,
+        "borderWidth": 0
+      },
+      "attrs": {}
+    }
+  ],
+  "props": {
+    "background": "#ffffff",
+    "layers": [
+      {
+        "name": "0",
+        "visible": true,
+        "selectable": true,
+        "movable": true,
+        "editable": true
+      }
+    ]
+  },
+  "attrs": {},
+  "contentRect": {
+    "x": 810,
+    "y": 440,
+    "width": 1113,
+    "height": 600
+  }
+}

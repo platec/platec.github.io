@@ -1,0 +1,178 @@
+{
+  "width": 48,
+  "height": 58,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "circle",
+      "width": 5,
+      "height": 5,
+      "x": 24,
+      "y": 9.43108
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 24,
+          "y": 6.93108
+        },
+        {
+          "x": 24,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "circle",
+      "width": 5,
+      "height": 5,
+      "x": 24,
+      "y": 48.56892
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 24,
+          "y": 58
+        },
+        {
+          "x": 24,
+          "y": 51.06892
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(250,0,0)",
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "#979797"
+      },
+      "cornerRadius": 1,
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('enabled')\n}",
+        "value": false
+      },
+      "displayName": "无效(已隐藏)",
+      "anchorX": 0,
+      "anchorY": 1,
+      "rotation": 5.49779,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 10.64462,
+      "x": 27.05633,
+      "y": 35.09594
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(250,0,0)",
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "#979797"
+      },
+      "cornerRadius": 1,
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('enabled') && data.a('powerOn')\n}",
+        "value": false
+      },
+      "displayName": "无效(已隐藏)",
+      "anchorX": 0,
+      "anchorY": 1,
+      "rotation": 0.7854,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 10.64462,
+      "x": 19.52945,
+      "y": 33.68173
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "visible": {
+        "func": "attr@enabled",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "anchorX": 0,
+      "anchorY": 1,
+      "rotation": {
+        "func": "function(data, view) {\nif (data.a('state')) {\nreturn 0;\n} else {\nreturn Math.PI/180*30;\n}\n}",
+        "value": 0.5236
+      },
+      "points": [
+        {
+          "x": 26.75,
+          "y": 48.56892
+        },
+        {
+          "x": 26.75,
+          "y": 9.43108
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    },
+    {
+      "attr": "enabled",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否有效"
+    },
+    {
+      "attr": "state",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "开关状态"
+    }
+  ]
+}

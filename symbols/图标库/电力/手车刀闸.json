@@ -1,0 +1,250 @@
+{
+  "width": 48,
+  "height": 54,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('state') && !data.a('test')\n}",
+        "value": false
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "1111ng",
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 6.16726,
+          "y": 36.16713
+        },
+        {
+          "x": 14.25145,
+          "y": 36.1671
+        },
+        {
+          "x": 34.48511,
+          "y": 17.83281
+        },
+        {
+          "x": 52.81964,
+          "y": 36.16696
+        },
+        {
+          "x": 60.16726,
+          "y": 36.16693
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('state') && !data.a('test')\n}",
+        "value": false
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "1111ng",
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": -2.56923,
+          "y": 36.55616
+        },
+        {
+          "x": 15.5417,
+          "y": 17.97359
+        },
+        {
+          "x": 33.73278,
+          "y": 36.55616
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "attr@state",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "22222",
+      "points": [
+        {
+          "x": 5.849,
+          "y": 27.81343
+        },
+        {
+          "x": 24.05904,
+          "y": 9.47915
+        },
+        {
+          "x": 42.151,
+          "y": 27.81343
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "attr@state",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "222222",
+      "points": [
+        {
+          "x": 24,
+          "y": 54
+        },
+        {
+          "x": 24,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "attr@state",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "22222",
+      "points": [
+        {
+          "x": 5.849,
+          "y": 45.69117
+        },
+        {
+          "x": 23.95993,
+          "y": 27.1086
+        },
+        {
+          "x": 42.151,
+          "y": 45.69117
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "function(data, view) {\nreturn data.a('test') && !data.a('state')\n}",
+        "value": false
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "333333",
+      "points": [
+        {
+          "x": 5.849,
+          "y": 20.6811
+        },
+        {
+          "x": 24.05904,
+          "y": 2.34682
+        },
+        {
+          "x": 42.151,
+          "y": 20.6811
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "visible": {
+        "func": "function(data, view) {\nreturn data.a('test') && !data.a('state')\n}",
+        "value": false
+      },
+      "shadowColor": "#1ABC9C",
+      "displayName": "333333",
+      "rotation": 1.5708,
+      "points": [
+        {
+          "x": 9.349,
+          "y": 39.00417
+        },
+        {
+          "x": 27.64571,
+          "y": 20.56796
+        },
+        {
+          "x": 27.64581,
+          "y": 49.56796
+        },
+        {
+          "x": 27.64571,
+          "y": 20.56796
+        },
+        {
+          "x": 45.65101,
+          "y": 39.00417
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    },
+    {
+      "attr": "state",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "工作"
+    },
+    {
+      "attr": "test",
+      "valueType": "Boolean",
+      "defaultValue": false,
+      "name": "试验",
+      "description": "手车试验"
+    }
+  ]
+}

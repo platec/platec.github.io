@@ -1,0 +1,187 @@
+{
+  "width": 22,
+  "height": 22,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(212,0,0)",
+      "pixelPerfect": true,
+      "state": "红",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 0.91313,
+          "y": 10.16957
+        },
+        {
+          "x": 21.08687,
+          "y": 10.16957
+        },
+        {
+          "x": 5.25157,
+          "y": 5.78167
+        },
+        {
+          "x": 16.05552,
+          "y": 5.78167
+        },
+        {
+          "x": 13.54879,
+          "y": 1.69229
+        },
+        {
+          "x": 8.0331,
+          "y": 1.69229
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(212,0,0)",
+      "pixelPerfect": true,
+      "state": "红",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 11,
+          "y": 9.82721
+        },
+        {
+          "x": 11,
+          "y": 22
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(124,145,155)",
+      "pixelPerfect": true,
+      "state": "灰",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 0.91313,
+          "y": 10.16957
+        },
+        {
+          "x": 21.08687,
+          "y": 10.16957
+        },
+        {
+          "x": 5.25157,
+          "y": 5.78167
+        },
+        {
+          "x": 16.05552,
+          "y": 5.78167
+        },
+        {
+          "x": 13.54879,
+          "y": 1.69229
+        },
+        {
+          "x": 8.0331,
+          "y": 1.69229
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(124,145,155)",
+      "pixelPerfect": true,
+      "state": "灰",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 11,
+          "y": 9.82721
+        },
+        {
+          "x": 11,
+          "y": 22
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "pixelPerfect": true,
+      "state": "白",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 0.91313,
+          "y": 10.16957
+        },
+        {
+          "x": 21.08687,
+          "y": 10.16957
+        },
+        {
+          "x": 5.25157,
+          "y": 5.78167
+        },
+        {
+          "x": 16.05552,
+          "y": 5.78167
+        },
+        {
+          "x": 13.54879,
+          "y": 1.69229
+        },
+        {
+          "x": 8.0331,
+          "y": 1.69229
+        }
+      ],
+      "segments": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "pixelPerfect": true,
+      "state": "白",
+      "rotation": 6.28319,
+      "points": [
+        {
+          "x": 11,
+          "y": 9.82721
+        },
+        {
+          "x": 11,
+          "y": 22
+        }
+      ]
+    }
+  ],
+  "state": "红"
+}

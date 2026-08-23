@@ -1,0 +1,202 @@
+{
+  "width": 47,
+  "height": 47,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 10.29339,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 19.43113,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 28.56887,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 37.70661,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderJoin": "miter",
+      "displayName": "1",
+      "points": [
+        {
+          "x": 0,
+          "y": 32.5
+        },
+        {
+          "x": 17.5,
+          "y": 32.5
+        },
+        {
+          "x": 17.5,
+          "y": 44
+        },
+        {
+          "x": 17.5,
+          "y": 32.5
+        },
+        {
+          "x": 17.5,
+          "y": 21
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderJoin": "miter",
+      "displayName": "1",
+      "points": [
+        {
+          "x": 47,
+          "y": 32.5
+        },
+        {
+          "x": 29.52623,
+          "y": 32.5
+        },
+        {
+          "x": 29.52623,
+          "y": 44
+        },
+        {
+          "x": 29.52623,
+          "y": 32.5
+        },
+        {
+          "x": 29.52623,
+          "y": 21
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(255,0,0)"
+      },
+      "points": [
+        {
+          "x": 46,
+          "y": 32.5
+        },
+        {
+          "x": 46,
+          "y": 9.84679
+        },
+        {
+          "x": 42.09859,
+          "y": 9.84679
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(255,0,0)"
+      },
+      "points": [
+        {
+          "x": 1,
+          "y": 32.5
+        },
+        {
+          "x": 1,
+          "y": 9.84679
+        },
+        {
+          "x": 5.37035,
+          "y": 9.84679
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    }
+  ]
+}

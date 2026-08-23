@@ -1,0 +1,143 @@
+{
+  "width": 24,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "background": {
+        "func": "function(data, view) {\nif (data.a('enabled')) {\nreturn data.a('lineColor')\n} else {\nreturn null;\n}\n}",
+        "value": null
+      },
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "rect",
+      "width": 20,
+      "height": 38,
+      "x": 12,
+      "y": 32
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 12,
+          "y": 13
+        },
+        {
+          "x": 12,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 12,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('enabled')\n}",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 22,
+          "y": 51
+        },
+        {
+          "x": 2,
+          "y": 13
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('enabled') && data.a('state')\n}",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 2,
+          "y": 51
+        },
+        {
+          "x": 22,
+          "y": 13
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电",
+      "description": "合状态表示带电"
+    },
+    {
+      "attr": "enabled",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否有效"
+    },
+    {
+      "attr": "state",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "开关状态"
+    }
+  ]
+}

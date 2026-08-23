@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>docs diag</title></head>
+<body>
+<pre id="out">running...</pre>
+<iframe id="frame" src="/guide/binding.html" style="width: 1280px; height: 2000px; border: 0;"></iframe>
+<script>
+const out = document.getElementById('out');
+const frame = document.getElementById('frame');
+
+function sampleCanvas(doc) {
+  const cv = doc.querySelector('.vp-demo canvas');
+  if (!cv) return { err: 'no canvas' };
+  if (cv.width === 0) return { err: 'canvas 0x0' };
+  const ctx = cv.getContext('2d');
+  const data = ctx.getImageData(0, 0, cv.width, cv.height).data;
+  let gray = 0, warm = 0, cool = 0, nonWhite = 0, transparent = 0;
+  for (let i = 0; i < data.length; i += 4) {
+    const r = data[i], g = data[i+1], b = data[i+2], a = data[i+3];
+    if (a < 20) { transparent++; continue; }
+    if (r < 250 || g < 250 || b < 250) nonWhite++;
+    const isGray = Math.abs(r-g) < 15 && Math.abs(g-b) < 15;
+    if (isGray && r > 35 && r < 95) gray++;
+    if (r > 150 && g > 50 && g < 200 && b < 120) warm++;
+    if (b > 150 && g > 100 && r < 120) cool++;
+  }
+  return { size: cv.width + 'x' + cv.height, gray, warm, cool, nonWhite, transparent, ratio: (nonWhite / (data.length / 4)).toFixed(4) };
+}
+
+frame.onload = () => {
+  setTimeout(() => {
+    const doc = frame.contentDocument;
+    const result = { demo: sampleCanvas(doc) };
+    const all = doc.querySelectorAll('.vp-demo canvas');
+    const extras = [];
+    for (let i = 1; i < all.length; i++) {
+      const cv = all[i];
+      if (cv.width === 0) { extras.push('canvas 0x0'); continue; }
+      const ctx = cv.getContext('2d');
+      const data = ctx.getImageData(0, 0, cv.width, cv.height).data;
+      let nw = 0, t = 0;
+      for (let j = 0; j < data.length; j += 4) {
+        if (data[j+3] < 20) { t++; continue; }
+        if (data[j] < 250 || data[j+1] < 250 || data[j+2] < 250) nw++;
+      }
+      extras.push({ size: cv.width + 'x' + cv.height, nonWhite: nw, transparent: t });
+    }
+    result.extraCanvases = extras;
+    out.textContent = JSON.stringify(result, null, 2);
+  }, 2500);
+};
+</script>
+</body>
+</html>

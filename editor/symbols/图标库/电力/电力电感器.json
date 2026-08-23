@@ -1,0 +1,132 @@
+{
+  "width": 48,
+  "height": 32,
+  "elements": [
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "displayName": "1",
+      "points": [
+        {
+          "x": 5.72452,
+          "y": 32
+        },
+        {
+          "x": 5.72452,
+          "y": 9.8031
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "displayName": "1",
+      "points": [
+        {
+          "x": 42.27548,
+          "y": 32
+        },
+        {
+          "x": 42.27548,
+          "y": 9.8031
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 10.29339,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 19.43113,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 28.56887,
+      "y": 9.803094999999999
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "arcClose": false,
+      "shadowColor": "#1ABC9C",
+      "displayName": "2",
+      "shape": "arc",
+      "width": 9.13774,
+      "height": 12.75133,
+      "x": 37.70661,
+      "y": 9.803094999999999
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    }
+  ]
+}

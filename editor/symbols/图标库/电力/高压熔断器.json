@@ -1,0 +1,128 @@
+{
+  "width": 24,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "rect",
+      "width": 20,
+      "height": 38,
+      "x": 12,
+      "y": 32
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 12,
+          "y": 22
+        },
+        {
+          "x": 12,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 12,
+          "y": 64
+        },
+        {
+          "x": 12,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "Shape",
+      "background": "rgb(250,0,0)",
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "#979797"
+      },
+      "cornerRadius": 1,
+      "visible": {
+        "func": "attr@state",
+        "value": false
+      },
+      "displayName": "连接(已隐藏)",
+      "anchorX": 0.55563,
+      "shape": "roundRect",
+      "width": 2,
+      "height": 23,
+      "x": 12.11126,
+      "y": 32.333200000000005
+    },
+    {
+      "type": "Polyline",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "borderCap": "round",
+      "visible": {
+        "func": "function(data, view) {\nreturn !data.a('state')\n}",
+        "value": true
+      },
+      "shadowColor": "#1ABC9C",
+      "points": [
+        {
+          "x": 12,
+          "y": 42
+        },
+        {
+          "x": 18.13674,
+          "y": 32.54896
+        }
+      ]
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    },
+    {
+      "attr": "state",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "开关状态"
+    }
+  ]
+}

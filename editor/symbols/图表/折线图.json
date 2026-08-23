@@ -1,0 +1,50 @@
+{
+  "width": 400,
+  "height": 300,
+  "renderHTML": {
+    "keys": ["title", "categories", "data", "color", "smooth", "showLegend"],
+    "resizeAware": true,
+    "render": "function (element, view) {\n  if (typeof echarts === 'undefined') return null;\n  var read = function (name, fallback) {\n    var v = element.a(name);\n    if (v === undefined || v === null || v === '') return fallback;\n    if (typeof v === 'string') { try { return JSON.parse(v); } catch (e) { return fallback; } }\n    return v;\n  };\n  var dom = document.createElement('div');\n  dom.style.cssText = 'width:100%;height:100%;';\n  var chart = echarts.init(dom);\n  // echarts 首帧可能在宿主布局完成前测量尺寸，下一帧强制校正\n  var ro = new ResizeObserver(function () { chart.resize(); });\n  ro.observe(dom);\n  requestAnimationFrame(function () { chart.resize(); });\n  var apply = function () {\n    chart.setOption({\n      color: read('color', ['#5470c6']),\n      title: { text: element.a('title') || '', left: 'center', textStyle: { fontSize: 14 } },\n      tooltip: { trigger: 'axis' },\n      legend: { show: element.a('showLegend') === true, top: 34, left: 'center' },\n      grid: { left: 40, right: 16, top: 60, bottom: 24 },\n      xAxis: { type: 'category', data: read('categories', []) },\n      yAxis: { type: 'value' },\n      series: [{ type: 'line', name: '数据', smooth: element.a('smooth') !== false, data: read('data', []) }]\n    }, { notMerge: true });\n  };\n  apply();\n  dom.__chart = chart;\n  dom.__apply = apply;\n  dom.__ro = ro;\n  return dom;\n}",
+    "update": "function (dom, element) {\n  if (dom.__apply) dom.__apply();\n  if (dom.__chart) dom.__chart.resize();\n}",
+    "dispose": "function (dom) {\n  if (dom.__ro) dom.__ro.disconnect();\n  if (dom.__chart) dom.__chart.dispose();\n  dom.__chart = null;\n}"
+  },
+  "elements": [
+    {
+      "type": "Shape",
+      "shape": "roundRect",
+      "cornerRadius": 8,
+      "x": 200,
+      "y": 150,
+      "width": 400,
+      "height": 300,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "background": "#f7f9fc",
+      "borderColor": "#d0d7de",
+      "borderWidth": 1
+    },
+    {
+      "type": "Text",
+      "text": "ECharts 折线图",
+      "x": 200,
+      "y": 150,
+      "width": 400,
+      "height": 300,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "font": "16px sans-serif",
+      "color": "#8a94a6",
+      "align": "center",
+      "vAlign": "middle"
+    }
+  ],
+  "bind": [
+    { "attr": "title", "valueType": "String", "name": "标题", "defaultValue": "折线图" },
+    { "attr": "categories", "valueType": "Json", "name": "X 轴类目", "description": "JSON 数组", "defaultValue": ["周一", "周二", "周三", "周四", "周五", "周六", "周日"] },
+    { "attr": "data", "valueType": "Json", "name": "数据", "description": "JSON 数组", "defaultValue": [120, 200, 150, 80, 70, 110, 130] },
+    { "attr": "color", "valueType": "ColorArray", "name": "颜色", "defaultValue": ["#5470c6"] },
+    { "attr": "smooth", "valueType": "Boolean", "name": "平滑曲线", "defaultValue": true },
+    { "attr": "showLegend", "valueType": "Boolean", "name": "显示图例", "defaultValue": true }
+  ],
+  "attachPoints": []
+}

@@ -1,0 +1,54 @@
+{
+  "width": 48,
+  "height": 64,
+  "elements": [
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 24.000005,
+      "y": 25.132095
+    },
+    {
+      "type": "Shape",
+      "borderWidth": 2,
+      "borderColor": {
+        "func": "attr@lineColor",
+        "value": "rgb(250,0,0)"
+      },
+      "shadowColor": "#1ABC9C",
+      "shape": "circle",
+      "width": 19.83089,
+      "height": 19.83089,
+      "x": 24.000005,
+      "y": 38.867915
+    }
+  ],
+  "bind": [
+    {
+      "attr": "powerLevel",
+      "valueType": "PowerLevel",
+      "defaultValue": "red",
+      "name": "电压等级"
+    },
+    {
+      "attr": "powerOffColor",
+      "valueType": "Color",
+      "defaultValue": "rgb(128,128,128)",
+      "name": "失电颜色"
+    },
+    {
+      "attr": "powerOn",
+      "valueType": "Boolean",
+      "defaultValue": true,
+      "name": "是否带电"
+    }
+  ]
+}
