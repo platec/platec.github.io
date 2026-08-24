@@ -180,6 +180,21 @@
       "type": "directory",
       "children": [
         {
+          "id": "symbols/可视化/basic",
+          "name": "basic",
+          "type": "directory",
+          "children": [
+            {
+              "id": "symbols/可视化/basic/number-pane.json",
+              "name": "number-pane",
+              "type": "symbol",
+              "kind": "symbol",
+              "source": "symbols/可视化/basic/number-pane.json",
+              "thumbnail": "symbols/可视化/basic/number-pane.png"
+            }
+          ]
+        },
+        {
           "id": "symbols/可视化/Distribution",
           "name": "Distribution",
           "type": "directory",
@@ -231,21 +246,6 @@
               "kind": "symbol",
               "source": "symbols/可视化/Distribution/thermometer.json",
               "thumbnail": "symbols/可视化/Distribution/thermometer.png"
-            }
-          ]
-        },
-        {
-          "id": "symbols/可视化/basic",
-          "name": "basic",
-          "type": "directory",
-          "children": [
-            {
-              "id": "symbols/可视化/basic/number-pane.json",
-              "name": "number-pane",
-              "type": "symbol",
-              "kind": "symbol",
-              "source": "symbols/可视化/basic/number-pane.json",
-              "thumbnail": "symbols/可视化/basic/number-pane.png"
             }
           ]
         }
@@ -868,6 +868,14 @@
       "thumbnail": "symbols/果汁.png"
     },
     {
+      "id": "symbols/汉堡薯条可乐.json",
+      "name": "汉堡薯条可乐",
+      "type": "symbol",
+      "kind": "symbol",
+      "source": "symbols/汉堡薯条可乐.json",
+      "thumbnail": "symbols/汉堡薯条可乐.png"
+    },
+    {
       "id": "symbols/街道建筑02.json",
       "name": "街道建筑02",
       "type": "symbol",
@@ -960,6 +968,19 @@
           "ext": "JPG",
           "source": "assets/2D/v2-b7878c0fba2544fed41157da95a86a8f_720w.jpg",
           "thumbnail": "assets/2D/v2-b7878c0fba2544fed41157da95a86a8f_720w.jpg"
+        }
+      ]
+    },
+    {
+      "id": "assets/sprites",
+      "name": "sprites",
+      "type": "directory",
+      "children": [
+        {
+          "id": "assets/sprites/kof-test",
+          "name": "kof-test",
+          "type": "directory",
+          "children": []
         }
       ]
     },

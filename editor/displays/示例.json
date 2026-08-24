@@ -139,7 +139,8 @@
         "label": "长者",
         "labelPosition": 31,
         "labelFont": "32px sans-serif",
-        "labelOffsetY": 12
+        "labelOffsetY": 12,
+        "labelColor": "#03CC2BFF"
       }
     },
     {
@@ -287,7 +288,7 @@
       "styles": {
         "text": "有一段时间我们仰卧河底，\n在另一个角度看时光流淌。\n你将所有的远方称为河流。",
         "font": "24px Arial, sans-serif",
-        "color": "#26323c",
+        "color": "#3E62D6FF",
         "background": "transparent",
         "wrap": true
       }
@@ -302,39 +303,6 @@
         "height": 295.03143,
         "image": "symbols/图表/柱状图.json",
         "name": "柱状图"
-      }
-    },
-    {
-      "id": 474880,
-      "type": "Image",
-      "props": {
-        "x": 676.29217,
-        "y": 1100.06147,
-        "width": 200,
-        "height": 200,
-        "image": "symbols/夏至.json",
-        "name": "夏至"
-      }
-    },
-    {
-      "id": 474955,
-      "type": "Connector",
-      "props": {
-        "name": "connector-14",
-        "start": {
-          "id": 474880
-        },
-        "end": {
-          "id": 474878
-        }
-      },
-      "styles": {
-        "borderColor": "#00B439FF",
-        "borderWidth": 8,
-        "borderJoin": "round",
-        "borderCap": "round",
-        "startMarker": "arrow",
-        "startMarkerSize": 28
       }
     },
     {
@@ -405,50 +373,6 @@
           "#B5AB1DFF",
           "#FF181CFF"
         ]
-      }
-    },
-    {
-      "id": 474878,
-      "type": "Image",
-      "props": {
-        "x": 940.30616,
-        "y": 905.24338,
-        "width": 171.83368,
-        "height": 171.83368,
-        "image": "symbols/circleProgressBar.json",
-        "name": "circleProgressBar",
-        "tag": "progress-bar"
-      },
-      "attrs": {
-        "linearOuter": [
-          "#008031FF",
-          "#EDC900FF"
-        ]
-      }
-    },
-    {
-      "id": 474957,
-      "type": "Image",
-      "props": {
-        "x": 86.37808,
-        "y": 1024.32634,
-        "width": 267.05826,
-        "height": 439.96841,
-        "image": "assets/2D/jiang.png",
-        "name": "jiang",
-        "filters": [
-          "Glitch"
-        ]
-      },
-      "styles": {
-        "label": "Naive",
-        "labelPosition": 31,
-        "labelFont": "32px sans-serif",
-        "labelOffsetY": 12,
-        "Glitch": 35,
-        "GlitchSeed": 25,
-        "GlitchQuality": 30,
-        "GlitchIterations": 20
       }
     },
     {
@@ -527,7 +451,7 @@
       "type": "Polyline",
       "props": {
         "x": 1475.70331,
-        "y": 1077.611,
+        "y": 1077.61099,
         "width": 74.984,
         "height": 187.46001,
         "segments": [
@@ -545,39 +469,39 @@
         "points": [
           {
             "x": 1513.19531,
-            "y": 983.881
+            "y": 983.88099
           },
           {
             "x": 1438.21131,
-            "y": 983.881
+            "y": 983.88099
           },
           {
             "x": 1447.90976,
-            "y": 1039.43555
+            "y": 1039.43553
           },
           {
             "x": 1461.80653,
-            "y": 1039.43555
+            "y": 1039.43553
           },
           {
             "x": 1461.80653,
-            "y": 1171.34101
+            "y": 1171.34099
           },
           {
             "x": 1489.56754,
-            "y": 1171.34101
+            "y": 1171.34099
           },
           {
             "x": 1489.56754,
-            "y": 1039.43555
+            "y": 1039.43553
           },
           {
             "x": 1503.46431,
-            "y": 1039.43555
+            "y": 1039.43553
           },
           {
             "x": 1513.19531,
-            "y": 983.881
+            "y": 983.88099
           }
         ],
         "closePath": true,
@@ -740,6 +664,93 @@
         "__symbolSourceIndex": 3,
         "__symbolType": "Polyline"
       }
+    },
+    {
+      "id": 477371,
+      "type": "Image",
+      "props": {
+        "x": 86.37808,
+        "y": 1041.72561,
+        "width": 267.05826,
+        "height": 439.96841,
+        "image": "assets/2D/jiang.png",
+        "name": "jiang",
+        "filterEffects": [
+          {
+            "type": "glitch",
+            "params": {
+              "amount": 35,
+              "seed": 25,
+              "quality": 30,
+              "iterations": 20
+            },
+            "backend": "auto",
+            "enabled": true
+          }
+        ]
+      },
+      "styles": {
+        "label": "too simple",
+        "labelPosition": 31,
+        "labelFont": "32px sans-serif",
+        "labelOffsetY": 12,
+        "labelColor": "#2E45C8FF"
+      }
+    },
+    {
+      "id": 478734,
+      "type": "Image",
+      "props": {
+        "x": 465.19763,
+        "y": 1141.71681,
+        "width": 228.11326,
+        "height": 228.11326,
+        "image": "symbols/汉堡薯条可乐.json",
+        "name": "汉堡薯条可乐"
+      }
+    },
+    {
+      "id": 478735,
+      "type": "Connector",
+      "props": {
+        "name": "connector-1",
+        "start": {
+          "id": 474878
+        },
+        "end": {
+          "id": 478734
+        }
+      },
+      "styles": {
+        "borderColor": "#0E8C36FF",
+        "borderWidth": 7,
+        "borderJoin": "round",
+        "borderCap": "round",
+        "endAnchorX": 0.94888,
+        "endAnchorY": 0.52474,
+        "startMarkerSize": 35,
+        "endMarker": "arrow",
+        "endMarkerSize": 30
+      }
+    },
+    {
+      "id": 474878,
+      "type": "Image",
+      "props": {
+        "x": 940.30616,
+        "y": 905.24338,
+        "width": 171.83368,
+        "height": 171.83368,
+        "image": "symbols/circleProgressBar.json",
+        "name": "circleProgressBar",
+        "tag": "progress-bar"
+      },
+      "attrs": {
+        "linearOuter": [
+          "#008031FF",
+          "#EDC900FF"
+        ]
+      }
     }
   ],
   "attrs": {
@@ -751,6 +762,6 @@
     "x": -48,
     "y": 10,
     "width": 2128,
-    "height": 1235
+    "height": 1252
   }
 }

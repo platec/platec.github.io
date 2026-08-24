@@ -139,7 +139,8 @@
         "label": "长者",
         "labelPosition": 31,
         "labelFont": "32px sans-serif",
-        "labelOffsetY": 12
+        "labelOffsetY": 12,
+        "labelColor": "#03CC2BFF"
       }
     },
     {
@@ -166,8 +167,8 @@
       "id": 474872,
       "type": "Image",
       "props": {
-        "x": 1669.42093,
-        "y": 356.82267,
+        "x": 1286.18611,
+        "y": 367.56757,
         "width": 863.59359,
         "height": 60.55278,
         "image": "symbols/可视化/basic/number-pane.json",
@@ -287,7 +288,7 @@
       "styles": {
         "text": "有一段时间我们仰卧河底，\n在另一个角度看时光流淌。\n你将所有的远方称为河流。",
         "font": "24px Arial, sans-serif",
-        "color": "#26323c",
+        "color": "#3E62D6FF",
         "background": "transparent",
         "wrap": true
       }
@@ -302,42 +303,6 @@
         "height": 295.03143,
         "image": "symbols/图表/柱状图.json",
         "name": "柱状图"
-      }
-    },
-    {
-      "id": 474880,
-      "type": "Image",
-      "props": {
-        "x": 803.10463,
-        "y": 1160.80773,
-        "width": 200,
-        "height": 200,
-        "image": "symbols/夏至.json",
-        "name": "夏至"
-      }
-    },
-    {
-      "id": 474955,
-      "type": "Connector",
-      "props": {
-        "name": "connector-14",
-        "start": {
-          "id": 474880
-        },
-        "end": {
-          "id": 474878
-        }
-      },
-      "styles": {
-        "borderColor": "#00B439FF",
-        "borderWidth": 8,
-        "borderJoin": "round",
-        "borderCap": "round",
-        "startMarker": "arrow",
-        "startMarkerSize": 28,
-        "points": [],
-        "startAnchorX": 1.02349,
-        "startAnchorY": 0.38428
       }
     },
     {
@@ -359,24 +324,24 @@
         "borderCap": "round",
         "points": [
           {
-            "x": 1579.0882199999996,
-            "y": 808.3421350000001
+            "x": 1187.95035,
+            "y": 718.4253
           },
           {
-            "x": 1492.6956999999998,
-            "y": 920.0740350000001
+            "x": 1101.55783,
+            "y": 830.1572
           },
           {
-            "x": 1533.2387699999995,
-            "y": 999.8523350000002
+            "x": 1142.1009,
+            "y": 909.9355
           },
           {
-            "x": 1573.7818399999996,
-            "y": 1079.630635
+            "x": 1182.64397,
+            "y": 989.7138
           },
           {
-            "x": 1677.3239799999997,
-            "y": 1080.874575
+            "x": 1286.18611,
+            "y": 990.95774
           }
         ],
         "segments": [
@@ -391,8 +356,8 @@
       "id": 474884,
       "type": "Image",
       "props": {
-        "x": 1503.2777,
-        "y": 1166.9939,
+        "x": 1112.13983,
+        "y": 1077.07706,
         "width": 171.83368,
         "height": 171.83368,
         "image": "symbols/circleProgressBar.json",
@@ -411,11 +376,369 @@
       }
     },
     {
+      "id": 476719,
+      "type": "Image",
+      "props": {
+        "x": 1898.89393,
+        "y": 1002.65243,
+        "width": 361.82204,
+        "height": 361.82204,
+        "image": "symbols/骑车去春游.json",
+        "name": "骑车去春游"
+      }
+    },
+    {
+      "id": 477370,
+      "type": "Group",
+      "props": {
+        "x": 1475.70331,
+        "y": 962.12696,
+        "width": 287.46597,
+        "height": 446.15656
+      }
+    },
+    {
+      "id": 477362,
+      "type": "Image",
+      "props": {
+        "x": 1475.70331,
+        "y": 865.10445,
+        "width": 287.46597,
+        "height": 252.11154,
+        "image": "leaf-plus:animation/fireAnimation",
+        "name": "animation-fireAnimation-16",
+        "animations": [
+          {
+            "id": "builtin:fireAnimation",
+            "type": "fireAnimation",
+            "enabled": true,
+            "play": true,
+            "speed": 1,
+            "params": {
+              "color": "#D31313FF",
+              "glowColor": "#CC5800FF",
+              "backgroundColor": "",
+              "count": 32,
+              "emissionRate": 28,
+              "speed": 70,
+              "size": 5,
+              "spread": 10,
+              "life": 900,
+              "wobble": 1
+            }
+          }
+        ],
+        "parent": {
+          "id": 477370
+        }
+      }
+    },
+    {
+      "id": 477369,
+      "type": "Group",
+      "props": {
+        "x": 1475.70331,
+        "y": 1081.07706,
+        "width": 83.31556,
+        "height": 208.25635,
+        "parent": {
+          "id": 477370
+        }
+      }
+    },
+    {
+      "id": 477363,
+      "type": "Polyline",
+      "props": {
+        "x": 1475.70331,
+        "y": 1077.61099,
+        "width": 74.984,
+        "height": 187.46001,
+        "segments": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5
+        ],
+        "points": [
+          {
+            "x": 1513.19531,
+            "y": 983.88099
+          },
+          {
+            "x": 1438.21131,
+            "y": 983.88099
+          },
+          {
+            "x": 1447.90976,
+            "y": 1039.43553
+          },
+          {
+            "x": 1461.80653,
+            "y": 1039.43553
+          },
+          {
+            "x": 1461.80653,
+            "y": 1171.34099
+          },
+          {
+            "x": 1489.56754,
+            "y": 1171.34099
+          },
+          {
+            "x": 1489.56754,
+            "y": 1039.43553
+          },
+          {
+            "x": 1503.46431,
+            "y": 1039.43553
+          },
+          {
+            "x": 1513.19531,
+            "y": 983.88099
+          }
+        ],
+        "closePath": true,
+        "parent": {
+          "id": 477369
+        }
+      },
+      "styles": {
+        "background": "#CEB1A1",
+        "borderCap": "butt",
+        "borderJoin": "miter"
+      },
+      "attrs": {
+        "__symbolSourceIndex": 2,
+        "__symbolType": "Polyline"
+      }
+    },
+    {
+      "id": 477364,
+      "type": "Polyline",
+      "props": {
+        "x": 1475.70331,
+        "y": 1081.07706,
+        "width": 83.31556,
+        "height": 208.25635,
+        "segments": [
+          1,
+          4,
+          2,
+          4,
+          2,
+          2,
+          2,
+          5,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          1,
+          2,
+          2,
+          2,
+          5
+        ],
+        "points": [
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1489.60008,
+            "y": 1053.29978
+          },
+          {
+            "x": 1489.60008,
+            "y": 1074.12867
+          },
+          {
+            "x": 1461.80653,
+            "y": 1074.12867
+          },
+          {
+            "x": 1461.80653,
+            "y": 1053.29978
+          },
+          {
+            "x": 1454.87442,
+            "y": 1046.36767
+          },
+          {
+            "x": 1454.87442,
+            "y": 1046.36767
+          },
+          {
+            "x": 1454.87442,
+            "y": 1039.43555
+          },
+          {
+            "x": 1496.5322,
+            "y": 1039.43555
+          },
+          {
+            "x": 1496.5322,
+            "y": 1046.36767
+          },
+          {
+            "x": 1461.80653,
+            "y": 1150.51212
+          },
+          {
+            "x": 1461.80653,
+            "y": 1178.27312
+          },
+          {
+            "x": 1468.73865,
+            "y": 1178.27312
+          },
+          {
+            "x": 1468.73865,
+            "y": 1185.20524
+          },
+          {
+            "x": 1482.63542,
+            "y": 1185.20524
+          },
+          {
+            "x": 1482.63542,
+            "y": 1178.27312
+          },
+          {
+            "x": 1489.56754,
+            "y": 1178.27312
+          },
+          {
+            "x": 1489.56754,
+            "y": 1150.51212
+          },
+          {
+            "x": 1461.80653,
+            "y": 1150.51212
+          },
+          {
+            "x": 1434.04553,
+            "y": 976.94888
+          },
+          {
+            "x": 1517.36109,
+            "y": 976.94888
+          },
+          {
+            "x": 1517.36109,
+            "y": 990.84566
+          },
+          {
+            "x": 1434.04553,
+            "y": 990.84566
+          }
+        ],
+        "closePath": true,
+        "parent": {
+          "id": 477369
+        }
+      },
+      "styles": {
+        "background": "#8E675C",
+        "borderCap": "butt",
+        "borderJoin": "miter"
+      },
+      "attrs": {
+        "__symbolSourceIndex": 3,
+        "__symbolType": "Polyline"
+      }
+    },
+    {
+      "id": 477371,
+      "type": "Image",
+      "props": {
+        "x": 86.37808,
+        "y": 1041.72561,
+        "width": 267.05826,
+        "height": 439.96841,
+        "image": "assets/2D/jiang.png",
+        "name": "jiang",
+        "filterEffects": [
+          {
+            "type": "glitch",
+            "params": {
+              "amount": 35,
+              "seed": 25,
+              "quality": 30,
+              "iterations": 20
+            },
+            "backend": "auto",
+            "enabled": true
+          }
+        ]
+      },
+      "styles": {
+        "label": "too simple",
+        "labelPosition": 31,
+        "labelFont": "32px sans-serif",
+        "labelOffsetY": 12,
+        "labelColor": "#2E45C8FF"
+      }
+    },
+    {
+      "id": 478734,
+      "type": "Image",
+      "props": {
+        "x": 465.19763,
+        "y": 1141.71681,
+        "width": 228.11326,
+        "height": 228.11326,
+        "image": "symbols/汉堡薯条可乐.json",
+        "name": "汉堡薯条可乐"
+      }
+    },
+    {
+      "id": 478735,
+      "type": "Connector",
+      "props": {
+        "name": "connector-1",
+        "start": {
+          "id": 474878
+        },
+        "end": {
+          "id": 478734
+        }
+      },
+      "styles": {
+        "borderColor": "#0E8C36FF",
+        "borderWidth": 7,
+        "borderJoin": "round",
+        "borderCap": "round",
+        "endAnchorX": 0.94888,
+        "endAnchorY": 0.52474,
+        "startMarkerSize": 35,
+        "endMarker": "arrow",
+        "endMarkerSize": 30
+      }
+    },
+    {
       "id": 474878,
       "type": "Image",
       "props": {
-        "x": 1170.22686,
-        "y": 1002.65243,
+        "x": 940.30616,
+        "y": 905.24338,
         "width": 171.83368,
         "height": 171.83368,
         "image": "symbols/circleProgressBar.json",
@@ -428,43 +751,6 @@
           "#EDC900FF"
         ]
       }
-    },
-    {
-      "id": 474957,
-      "type": "Image",
-      "props": {
-        "x": 86.37808,
-        "y": 1024.32634,
-        "width": 267.05826,
-        "height": 439.96841,
-        "image": "assets/2D/jiang.png",
-        "name": "jiang",
-        "filters": [
-          "Glitch"
-        ]
-      },
-      "styles": {
-        "label": "Naive",
-        "labelPosition": 31,
-        "labelFont": "32px sans-serif",
-        "labelOffsetY": 12,
-        "Glitch": 35,
-        "GlitchSeed": 25,
-        "GlitchQuality": 30,
-        "GlitchIterations": 20
-      }
-    },
-    {
-      "id": 476719,
-      "type": "Image",
-      "props": {
-        "x": 1898.89393,
-        "y": 1002.65243,
-        "width": 361.82204,
-        "height": 361.82204,
-        "image": "symbols/骑车去春游.json",
-        "name": "骑车去春游"
-      }
     }
   ],
   "attrs": {
@@ -475,7 +761,7 @@
   "contentRect": {
     "x": -48,
     "y": 10,
-    "width": 2170,
-    "height": 1251
+    "width": 2128,
+    "height": 1252
   }
 }
