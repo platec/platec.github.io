@@ -405,12 +405,12 @@
         "y": 865.10445,
         "width": 287.46597,
         "height": 252.11154,
-        "image": "leaf-plus:animation/fireAnimation",
-        "name": "animation-fireAnimation-16",
+        "image": "leaf-plus:plasma",
+        "name": "animation-plasmaAnimation-16",
         "animations": [
           {
-            "id": "builtin:fireAnimation",
-            "type": "fireAnimation",
+            "id": "builtin:plasmaAnimation",
+            "type": "plasmaAnimation",
             "enabled": true,
             "play": true,
             "speed": 1,
